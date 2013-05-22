@@ -7,12 +7,12 @@ def dlDraft(year):
 	url = 'http://www.basketball-reference.com/draft/NBA_' + str(year) + '.html'
 	f = urllib.urlopen(url)
 	soup = BeautifulSoup(f)
-	rows = soup.findAll("tr")
+	rows = soup.findAll('tr')
 
 	players = []
 	for row in rows:
 		try:		
-			columns = row.findAll("td")
+			columns = row.findAll('td')
 			num = int(columns[0].text)
 			if  (1<= num and num <= 61):
 				player = {}
@@ -29,7 +29,30 @@ def dlDraft(year):
 	return players
 
 def dlPlayer(name, url):
-	a = 'bing'
-	#nothing yet
+	url = 'http://www.basketball-reference.com/' + url
+	f = urllib.urlopen(url)
+	soup = BeautifulSoup(f)
+	advancedTable = soup.findAll('div', id = 'all_advanced')[0]
+	rows = advancedTable.findAll('tr')
+
+	yearlyStats = []
+	for row in rows:
+		try: 
+			columns = row.findAll('td')
+			year = int(columns[0].text[0:4])
+			league = columns[3].text
+			if (1970 <= year and year <= 2014 and league == 'NBA'):
+				stats = {}
+				stats['year'] = year
+				stats['mp'] = columns[6].text
+				stats['per'] = columns[7].text 
+				yearlyStats.append(stats)
+		except Exception, e:
+			print e
+			print row
+			print url
+
+
+
 
 playerArray = dlDraft(2000)
