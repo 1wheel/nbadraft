@@ -16,7 +16,8 @@ def dlDraft(year):
 			num = int(columns[0].text)
 			if  (1<= num and num <= 61):
 				player = {}
-				player['num'] = num
+				player['num'] = num				
+				player['team'] = columns[1].text
 				player['name'] = columns[2].text
 				try:
 					player['url'] = columns[2].findAll('a')[0]['href']
@@ -28,7 +29,7 @@ def dlDraft(year):
 			print row
 	return players
 
-def dlPlayer(name, url):
+def dlPlayer(url):
 	url = 'http://www.basketball-reference.com/' + url
 	f = urllib.urlopen(url)
 	soup = BeautifulSoup(f)
@@ -50,9 +51,15 @@ def dlPlayer(name, url):
 		except Exception, e:
 			print e
 			print row
-			print url
+			print 
 
+	return yearlyStats
 
-
-
-playerArray = dlDraft(2000)
+years = []
+for year in range(1970, 2012):
+	print year
+	draft = dlDraft(year)
+	for player in draft:
+		print player['name']
+		if len(player['url']) > 0:
+			player['stats'] = dlPlayer(player['url'])
