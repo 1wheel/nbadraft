@@ -25,41 +25,45 @@ def dlDraft(year):
 					player['url'] = ''
 				players.append(player)
 		except Exception, e:
-			print e
-			print row
+			print "missing players?"
 	return players
 
 def dlPlayer(url):
 	url = 'http://www.basketball-reference.com/' + url
 	f = urllib.urlopen(url)
-	soup = BeautifulSoup(f)
-	advancedTable = soup.findAll('div', id = 'all_advanced')[0]
-	rows = advancedTable.findAll('tr')
-
+	soup = BeautifulSoup(f)		
 	yearlyStats = []
-	for row in rows:
-		try: 
-			columns = row.findAll('td')
-			year = int(columns[0].text[0:4])
-			league = columns[3].text
-			if (1970 <= year and year <= 2014 and league == 'NBA'):
-				stats = {}
-				stats['year'] = year
-				stats['mp'] = columns[6].text
-				stats['per'] = columns[7].text 
-				yearlyStats.append(stats)
-		except Exception, e:
-			print e
-			print row
-			print 
+
+	if (len(soup.findAll('div', id = 'all_advanced')) > 0):
+		advancedTable = soup.findAll('div', id = 'all_advanced')[0]
+		rows = advancedTable.findAll('tr')
+
+		for row in rows:
+			try: 
+				columns = row.findAll('td')
+				year = int(columns[0].text[0:4])
+				league = columns[3].text
+				if (1970 <= year and year <= 2014 and league == 'NBA'):
+					stats = {}
+					stats['year'] = year
+					stats['mp'] = columns[6].text
+					stats['per'] = columns[7].text 
+					yearlyStats.append(stats)
+			except Exception, e:
+				print "missing yearly stats"
 
 	return yearlyStats
 
-years = []
-for year in range(1970, 2012):
+drafts = []
+for year in range(1970, 2014):
 	print year
 	draft = dlDraft(year)
 	for player in draft:
 		print player['name']
 		if len(player['url']) > 0:
 			player['stats'] = dlPlayer(player['url'])
+
+	drafts.append({'year': year, 'players': draft})
+
+with open('webpage/drafts.json', 'w') as outfile:
+	json.dump(drafts, outfile)
