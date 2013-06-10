@@ -23,6 +23,7 @@
   font-weight: bold;
 }
 
+
 #tooltipTopLeft{
   float: left;
   width: 140px;
@@ -36,6 +37,7 @@
 
 #tooltipTop{
   width: 250px;
+  height: 120px;
 }
 
 .boldNum{
@@ -44,5 +46,21 @@
 }
 
 .sumLine{
-  margin-top: 10px;
+  margin-top: 5px;
+}
+
+#labels{
+  width: 300px;
+}
+
+#minLabel{
+  float:left;
+  width: 50px;
+  color: steelblue;
+}
+
+#perLabel{
+  float:right;
+  width: 150px;
+  color: orange;
 }

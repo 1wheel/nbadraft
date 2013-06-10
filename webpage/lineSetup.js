@@ -1,8 +1,7 @@
-var margin = {top: 20, right: 85, bottom: 30, left: 55},
+var margin = {top: 20, right: 80, bottom: 30, left: 50},
 	width = 300 - margin.left - margin.right,
-	height = 300 - margin.top - margin.bottom;
+	height = 200 - margin.top - margin.bottom;
 
-var parseDate = d3.time.format("%Y%m%d").parse;
 
 var x = d3.time.scale()
 	.range([0, width]);
@@ -20,24 +19,17 @@ var timeFormat = d3.time.format("%Y")
 var xAxis = d3.svg.axis()
 	.scale(x)
 	.orient("bottom")
+	.ticks(4);
 
 var yMINAxis = d3.svg.axis()
 	.scale(yMIN)
-	.orient("left");
+	.orient("left")
+	.tickValues([1000, 2000, 3000]);
 
 var yPERAxis = d3.svg.axis()
 	.scale(yPER)
-	.orient("right");
-
-var lineMIN = d3.svg.line()
-	.interpolate("basis")
-	.x(function(d) { return x(timeFormat.parse(d.year)); })
-	.y(function(d) { return yMIN(+d.mp); });
-
-var linePER = d3.svg.line()
-	.interpolate("basis")
-	.x(function(d) { return x(timeFormat.parse(d.year)); })
-	.y(function(d) { return yPER(+d.per); });
+	.orient("right")
+	.tickValues([10, 20, 30]);
 
 var svg = d3.select("#tooltipBot").append("svg")
 		.attr("width", width + margin.left + margin.right)
@@ -48,4 +40,4 @@ var svg = d3.select("#tooltipBot").append("svg")
 var tooltip = d3.select("#tooltip")
   	  .attr("class", "tooltip")
   	  .style("opacity", 1e-6)
-  	  .style("background", "rgba(250,250,250,.95)");
+  	  .style("background", "rgba(250,250,250,.80)");

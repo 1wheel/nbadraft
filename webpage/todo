@@ -1,0 +1,45 @@
+todo:
+	download complete player stats
+
+	get images
+		run bingSearch
+		run imageDL
+		run resize.py
+
+
+	make tool tip into mouse over
+
+		UR: name, draft by BLAH in BLAH
+
+		UL: image
+
+		B: graphs!
+			label?
+			color key?
+				color axis?
+			axis bars
+
+			bar graph...
+
+
+	slider
+		updating stats anywhere?
+		just need UI to call function
+
+	pick a team
+		map old team names
+		generate list of call teams, make map from that
+
+	remove players traded during season stats
+		python load, bump out duplicate years ect
+
+	rank players on load
+
+	restucture as a csv?
+
+	remove sessions with trades from json file
+	check pics
+	remove missing image pic
+	left right
+
+

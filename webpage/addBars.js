@@ -12,7 +12,8 @@ d3.json('drafts.json', function(data){
 			if (player.stats){				
 				if (player.stats.length == 1){
 					var s = player.stats[0];
-					player.stats.push({mp:s.mp, per:s.per, year:(s.year+1)});
+					player.stats.push({mp:0, per:0, year:(s.year-1)})
+					player.stats.push({mp:0, per:0, year:(s.year+1)});
 				}
 				player.stats.forEach(function(stat){
 					stat.year = "" + stat.year;
@@ -38,7 +39,9 @@ d3.json('drafts.json', function(data){
 	draftDivs = d3.select("#display").selectAll("div")
 					.data(drafts).enter()
 				.append("div")
-					.style("color", "blue")
+					.style("width", "500px")
+					.style("height", "38px")
+					.style("float", "left")
 					.text(function(d){return d.year});
 				
 	playerSVGS = draftDivs.append("svg")
@@ -58,8 +61,10 @@ d3.json('drafts.json', function(data){
 						.attr("stroke", "black")
 						.attr("stroke-width", 2);
 
+					leftPos = d3.event.pageX < 500 ? d3.event.pageX - 5 : d3.event.pageX - 315;
+
 					tooltip
-					    .style("left", (d3.event.pageX + 5) + "px")
+					    .style("left", leftPos + "px")
 					    .style("top", (d3.event.pageY - 5) + "px")
 					    .transition().duration(300)
 					    .style("opacity", 1)
@@ -67,9 +72,9 @@ d3.json('drafts.json', function(data){
 				})
 				.on("mouseout", function(d){
 					d3.select(this)
-						.attr("stroke", "");
+						.attr("stroke", "")
 
-					tooltip.transition().duration(700).style("opacity", 10);
+					tooltip.transition().duration(700).style("opacity", 0);
 				});
 
 	updateColorScale(10);
@@ -86,8 +91,9 @@ function updateTooltip(player){
 	console.log(player);
 
 	//remove last charts
-	svg.selectAll(".axis").remove()
-	svg.selectAll("path").remove()
+	svg.selectAll(".axis").remove();
+	svg.selectAll("path").remove();
+	svg.selectAll("rect").remove();
 
 	d3.select("#pName").html(player.name.replace(" ", "</br>"));
 	d3.select("#pNum").text(suffix(player.num));
@@ -101,33 +107,49 @@ function updateTooltip(player){
 	if (data){
 
 		x.domain(d3.extent(data, function(d) { return timeFormat.parse(d.year); }));
-		yMIN.domain([0, 48*72]);
-		yPER.domain([0, 29]);
+		if (data.length == 2){
+			x.domain([x.domain()[0], x.domain()[1].setFullYear(x.domain()[1].getFullYear()+1)]);
+		}
+		if (data.length == 1){
+			x.domain([x.domain()[0].setFullYear(x.domain()[0].getFullYear()-1), x.domain()[1].setFullYear(x.domain()[1].getFullYear()+1)]);
+		}
+
+
+		yMIN.domain([0, 3000]);
+		yPER.domain([0, 30]);
 
 		svg.append("g")
 			.attr("class", "x axis")
 			.attr("transform", "translate(10," + (height+10) + ")")
-			.call(xAxis)
+			.call(xAxis);
 
 		svg.append("g")
 			.attr("class", "y axis")
-			.attr("transform", "translate(-15,0)")
-			.call(yMINAxis)
+			.attr("transform", "translate(0,0)")
+			.attr("fill", "steelblue")
+			.call(yMINAxis);
 
 		svg.append("g")
 			.attr("class", "y axis")
-			.attr("transform", "translate(" + (width+15) + ",0)")
-			.call(yPERAxis)
+			.attr("transform", "translate(" + (width + 10) + ",0)")
+			.attr("fill", "orange")
+			.call(yPERAxis);
 
-		svg.append("path")
-			.datum(data)
-			.attr("class", "line MIN")
-			.attr("d", linePER);
-		
-		svg.append("path")
-			.datum(data)
-			.attr("class", "line PER")
-			.attr("d", lineMIN);
+		svg.selectAll("rect")
+				.data(data).enter().append("rect")
+			.attr("width", 5)
+			.attr("x", function(d){ return x(timeFormat.parse(d.year)); })
+			.attr("y", function(d){ return yMIN(d.mp); })
+			.attr("height", function(d){ return height - yMIN(d.mp); })
+			.attr("fill", "steelblue");
+
+		svg.selectAll("orangerect")
+				.data(data).enter().append("rect")
+			.attr("width", 5)
+			.attr("x", function(d){ return x(timeFormat.parse(d.year)) + 5.5; })
+			.attr("y", function(d){ return Math.abs(yPER(d.per)); })
+			.attr("height", function(d){ return height - Math.abs(yPER(d.per)); })
+			.attr("fill", function(d){ return d.per > 0 ? 'orange' : 'black'; });
 
 		//console.log(player.url.split("/")[3].replace("html", "jpg"));
 	}
