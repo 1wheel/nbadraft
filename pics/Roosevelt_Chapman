@@ -1,0 +1,276 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html> 
+<head> 
+<link rel="SHORTCUT ICON" href="http://t0.gstatic.com/images?q=tbn:ANd9GcRu0NVhtCUUpLrcxNoW1kLXLuQdpSo2qs1Y4Jv3kIc2vHt59Uy8" type="image"></head>
+
+
+<html><head><title>owned by newbie-uzha</title>
+
+<script language="JavaScript"> 
+
+var numraindrops="150";
+
+var speed="5";
+
+var rainsize="2";
+
+var wind="left";
+
+var genxgallery="";
+
+ 
+
+function tb5_makeArray(n){ this.length = n; return this.length;
+
+}
+
+tb5_messages = new tb5_makeArray(2);
+
+tb5_messages[0] = "[+]owned by newbie-uzha[+]";
+
+tb5_messages[1] = "[+]was here[+]";
+
+tb5_rptType = 'infinite';
+
+tb5_rptNbr = 10;
+
+tb5_speed = 50;
+
+tb5_delay = 2000;
+
+var tb5_counter=1;
+
+var tb5_currMsg=0;
+
+var tb5_stsmsg="";
+
+function tb5_shuffle(arr){
+
+var k;
+
+for (i=0; i<arr.length; i++){ k = Math.round(Math.random() * (arr.length - i - 1)) + i; temp = arr[i];arr[i]=arr[k];arr[k]=temp;
+
+}
+
+return arr;
+
+}
+
+tb5_arr = new tb5_makeArray(tb5_messages[tb5_currMsg].length);
+
+tb5_sts = new tb5_makeArray(tb5_messages[tb5_currMsg].length);
+
+for (var i=0; i<tb5_messages[tb5_currMsg].length; i++){ tb5_arr[i] = i; tb5_sts[i] = "_";
+
+}
+
+tb5_arr = tb5_shuffle(tb5_arr);
+
+function tb5_init(n){
+
+var k;
+
+if (n == tb5_arr.length){ if (tb5_currMsg == tb5_messages.length-1){ if ((tb5_rptType == 'finite') && (tb5_counter==tb5_rptNbr)){ clearTimeout(tb5_timerID); return; } tb5_counter++; tb5_currMsg=0; } else{ tb5_currMsg++; } n=0; tb5_arr = new tb5_makeArray(tb5_messages[tb5_currMsg].length); tb5_sts = new tb5_makeArray(tb5_messages[tb5_currMsg].length); for (var i=0; i<tb5_messages[tb5_currMsg].length; i++){ tb5_arr[i] = i; tb5_sts[i] = "_"; } tb5_arr = tb5_shuffle(tb5_arr); tb5_sp=tb5_delay;
+
+}
+
+else{ tb5_sp=tb5_speed; k = tb5_arr[n]; tb5_sts[k] = tb5_messages[tb5_currMsg].charAt(k); tb5_stsmsg = ""; for (var i=0; i<tb5_sts.length; i++) tb5_stsmsg += tb5_sts[i]; document.title = tb5_stsmsg; n++; } tb5_timerID = setTimeout("tb5_init("+n+")", tb5_sp);
+
+}
+
+function tb5_randomizetitle(){ tb5_init(0);
+
+}
+
+tb5_randomizetitle();
+
+ 
+
+</script> 
+
+
+<meta name="Author" content="Gerrard Fernando"> 
+<meta http-equiv="imagetoolbar" content="no"> 
+<style type="text/css"> 
+    html { 
+        overflow: hidden; 
+    } 
+    body { 
+        background: #000; 
+        width:100%; 
+        height:100%; 
+        margin:0; 
+    } 
+    #screen { 
+        position: absolute; 
+        width: 100%; 
+        height: 100%; 
+    } 
+
+    #img { 
+        visibility: hidden; 
+    } 
+    #screen img  { 
+        position:absolute; 
+        left:-10000px; 
+        z-index:100; 
+        -ms-interpolation-mode:nearest-neighbor; 
+        image-rendering: optimizeSpeed; 
+        cursor: pointer; 
+        border:#333 solid 1px; 
+    } 
+    #tit { 
+        text-align:center; 
+        position:absolute; 
+        color:#fff; 
+        font-family:verdana; 
+        font-weight:bold; 
+        font-size:48px; 
+        filter: alpha(opacity=30); 
+        opacity: 0.3; 
+        width:100%; 
+        bottom:12px; 
+        z-index:10000; 
+    } 
+</style> 
+<script type="text/javascript"> 
+// ======================================================= 
+// script: Gerard Ferrandez - Ge-1-doot - May 22, 2004 
+// Updated: February 2010 - namespaced 
+// ======================================================= 
+
+
+var diapo = function () { 
+    var object = new Array(), 
+        K  = Math.PI / 180, 
+        N  = 0, 
+        xm = 0, 
+        ym = 0, 
+        mx = 0, 
+        my = 0, 
+        ax = 0, 
+        ay = 0, 
+        Nb = 0, 
+        tit = 0, 
+        img = 0; 
+//////////////////// 
+    var zM = 4; 
+//////////////////// 
+    var CObj = function (N, x, y, z){ 
+        var I = img.getElementsByTagName("img")[N % img.getElementsByTagName("img").length]; 
+        var o = document.createElement("img"); 
+        o.onclick = function () { 
+            if (object[N].on == true) object[N].on = false; 
+            else object[N].on = true; 
+        } 
+        o.onmouseover = function () { 
+            if (Nb != N) { 
+                Nb = N; 
+                tit.innerHTML= I.alt; 
+            } 
+        } 
+        o.onmouseout = function () { 
+            Nb = -1; 
+            object[N].on = false; 
+        } 
+        o.onmousedown = new Function("return false"); 
+        o.src = I.src; 
+        scr.appendChild(o); 
+        this.obj  = o.style; 
+        this.z    = Math.round(z * ny * .25); 
+        this.x    = Math.round(x * ny * .25); 
+        this.y    = Math.round(y * ny * .25); 
+        this.on   = false; 
+        this.zOOm = 1; 
+        this.N    = N; 
+    } 
+
+    CObj.prototype.anim = function () { 
+        var xP = this.z * Math.sin(mx * K) + this.x  * Math.cos(mx * K); 
+        var zP = this.z * Math.cos(mx * K) - this.x  * Math.sin(mx * K); 
+        var yP = this.y * Math.cos(my * K) - zP * Math.sin(my * K); 
+        zP = this.y * Math.sin(my * K) + zP * Math.cos(my * K); 
+        var w = (zP * .25 + ny * .25) * this.zOOm; 
+        var h = w * .8; 
+        if (this.on && zP > 0) { 
+            if (this.zOOm < zM) this.zOOm += .05; 
+        } else { 
+            if (this.zOOm > 1) this.zOOm -= .025; 
+        } 
+        this.obj.left   = Math.round(xP + nx * .5 - w * .5) + "px"; 
+        this.obj.top    = Math.round(yP + ny * .5 - h * .5) + "px"; 
+        this.obj.width  = Math.round(w) + "px"; 
+        this.obj.height = Math.round(h) + "px"; 
+        this.obj.zIndex = Math.round(1000 + w); 
+    } 
+
+    var run = function () { 
+        dx = (1 * xm) - mx; 
+        dy = (1 * ym) - my; 
+        mx += dx / 60; 
+        my += dy / 60; 
+        var i = 0, o; 
+        while (o = object[i++]) o.anim(); 
+        setTimeout(run, 16); 
+    } 
+
+    var resize = function () { 
+        nx = scr.offsetWidth; 
+        ny = scr.offsetHeight * .9; 
+    } 
+
+    var init = function () { 
+        scr = document.getElementById("screen"); 
+        img = document.getElementById("img"); 
+        tit = document.getElementById("tit"); 
+        resize(); 
+        scr.onselectstart = new Function("return false"); 
+        onresize = resize; 
+        scr.onmousemove = function(e){ 
+            if (window.event) e = window.event; 
+            xm = (e.x || e.clientX); 
+            ym = (e.y || e.clientY); 
+        } 
+        object.push( new CObj(0,1,-1,-1) ); 
+        object.push( new CObj(1,1,1,-1) ); 
+        object.push( new CObj(2,-1,-1,-1) ); 
+        object.push( new CObj(3,-1,1,-1) ); 
+        object.push( new CObj(4,1,-1,1) ); 
+        object.push( new CObj(5,1,1,1) ); 
+        object.push( new CObj(6,-1,-1,1) ); 
+        object.push( new CObj(7,-1,1,1) ); 
+        run(); 
+    } 
+    //////////////////////////////////////////////////////////// 
+    return { 
+        init : init 
+    } 
+}(); 
+
+onload = function (){ 
+    diapo.init(); 
+} 
+
+</script> 
+
+</head> 
+
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'><b1><!--99_SC8QpeNoFwQEKwCAIBdATbR92obFKUDCVMtpuv/fA3ulCeUTlrY5YRaXenF3Brl9KofQ1sOOobkmWSKZOE0Z7bh/aINboPYPjB6GBHmQ=--></b1>
+
+<div id="screen"> 
+    <div id="img"> 
+        <img alt="fuck goverment ,." src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/320412_460521537333185_1197844878_n.jpg"><span></span>
+        <img alt="ada hacker .me takut .kabur akh " src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/579439_460522103999795_1383545757_n.jpg"><span>.</span> 
+        <img alt=",<br>newbie-uzha was here,." src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/p206x206/282350_453003718084967_724383384_n.jpg"><span>.</span> 
+        
+    </div> 
+    <div id="tit" ></div> 
+
+</div> 
+<embed src="http://assets.mixpod.com/swf/mp3/mixpod.swf?myid=89675436&path=2012/10/19" quality="high" wmode="window" bgcolor="222222" flashvars="mycolor=222222&mycolor2=77ADD1&mycolor3=FFFFFF&autoplay=true&rand=0&f=4&vol=100&pat=0&grad=false" width="410" height="311" name="mixpod" salign="TL" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" border="0" style="visibility:visible;width:1px;height:1px;" />
+</body> 
+<br> </br>
+<center><center><img src="https://lh5.googleusercontent.com/_nSr66Kg0Aw8/TVgPh_yxNfI/AAAAAAAAARE/ArKKxueUu6U/line.gif" width="60%">
+<center><b><font color="#fffff" face="Monotype corsiva" size="4">Greetz ::</font> <marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="20" width="50%"><font color="yellow" face="Monotype corsiva" size="4">  Allah SWT  |  SS-Crew | HN Community | Indonesiandefacer | Medan Cyber Team| 
+
+</html>

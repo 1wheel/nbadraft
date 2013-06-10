@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in <b>/web/htdocs/www.sportando.net/home/sportando/players_thumb.php</b> on line <b>3</b><br />
+<br />
+<b>Warning</b>:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'http://www.sportando.net/players/2302.jpg' is not a valid JPEG file in <b>/web/htdocs/www.sportando.net/home/sportando/players_thumb.php</b> on line <b>3</b><br />
+<br />
+<b>Warning</b>:  imagejpeg(): supplied argument is not a valid Image resource in <b>/web/htdocs/www.sportando.net/home/sportando/players_thumb.php</b> on line <b>7</b><br />
+<br />
+<b>Warning</b>:  imagedestroy(): supplied argument is not a valid Image resource in <b>/web/htdocs/www.sportando.net/home/sportando/players_thumb.php</b> on line <b>8</b><br />

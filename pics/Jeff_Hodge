@@ -1,0 +1,1684 @@
+<!doctype html> <html lang="en"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta charset="utf-8"> <title>NBA.com</title> <link rel="canonical" href="http://www.nba.com"/> <link rel="icon" href="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/favicon16.ico" type="image/x-icon" /> <meta name="description" content="The official site of the National Basketball Association. Includes news, features, multimedia, player profiles, chat transcripts, schedules and statistics." /> <meta name="keywords" content="NBA.com" /> <script type="text/javascript"> var dataEnv = "http://data.nba.com"; </script> <script src="http://z.cdn.turner.com/nba/nba/.element/js/2.0/global/adspaces.js"></script> <script src="//connect.facebook.net/en_US/all.js"></script> <script type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.e/js/pkg/allstar_spotlight/1168.js"></script> <script src="http://i.cdn.turner.com/nba/nba/.element/js/2.0/global/omniture/nbaOmEvent.js"></script> <script src="http://data.nba.com/data/5s/json/nbacom/noseason/FBmostPop/fbMostPop.json"></script> <link rel="stylesheet" media="screen" href="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/css/pkg-min.css" />    
+  
+  
+  
+
+
+
+  
+  <script type="text/javascript"> window.nbaGeoLocation = "US"; </script> <script language="JavaScript" type="text/javascript"> var nbaCurrTime = new Date(1370819333894), nbaCurrTimeOffset = "-0400"; </script> <script src="http://z.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/js/pkg-min.js"></script> </head> <!--[if lt IE 7]><body class="no-js lt-ie9 lt-ie8 lt-ie7" id="nbaHomepage"> <![endif]--> <!--[if IE 7]><body class="no-js lt-ie9 lt-ie8" id="nbaHomepage"> <![endif]--> <!--[if IE 8]><body class="no-js lt-ie9" id="nbaHomepage"> <![endif]--> <!--[if gt IE 8]><!--> <body class="no-js" id="nbaHomepage"> <!--<![endif]--> <!-- ADSPACE: homepage/BG_Skin --><div style="padding: 0; margin: 0; border: 0;"><script type="text/javascript">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+cnnad_renderAd("http://ads.nba.com/js.ng/site=nba&nba_pos=BG_Skin&nba_rollup=homepage&page.allowcompete=yes");
+
+
+
+
+
+
+
+
+
+
+
+</script></div> <a href="#nbaAssistSkip" class="nbaAssist" title="Skip the NBA site header and navigation. Jump to the main content.">Skip to main content</a> <span id="nbaPersonalizer" class="nbaAssist"></span> <div id="fb-root"></div> <div class="nbaPage"> <script language="JavaScript" type="text/javascript">var nbaCurrTime = new Date(1370819355353); var nbaCurrHour = 19; var nbaCurrMin = 9; var nbaCurrDay='Sun';</script> <!-- begin header include --> <header id="nbaHeader"> <h1 class="nbaAssist">NBA.com, Official site of the National Basketball Association</h1> <span class="nbaLogo"><a href="/" title="NBA.com">Link to NBA.com</a></span> <nav id="nbaGlobalNav"> <ul> <li class="nbaSingleton"> <a href="http://www.nba.com/tickets/tickets.html">Tickets</a> </li> <li class="nbaTeams"> <a href="http://www.nba.com/teams">Teams</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <span class="nbaNavSubheading">Eastern Conference</span> <ul> <li> <span class="nbaDivision">Atlantic</span> <ul> <li><a href="http://www.nba.com/celtics" class="nbaTeamBOS">Boston Celtics</a></li> <li><a href="http://www.nba.com/nets" class="nbaTeamBKN">Brooklyn Nets</a></li> <li><a href="http://www.nba.com/knicks" class="nbaTeamNYK">New York Knicks</a></li> <li><a href="http://www.nba.com/sixers" class="nbaTeamPHI">Philadelphia 76ers</a></li> <li><a href="http://www.nba.com/raptors" class="nbaTeamTOR">Toronto Raptors</a></li> </ul> </li> <li> <span class="nbaDivision">Central</span> <ul> <li><a href="http://www.nba.com/bulls" class="nbaTeamCHI">Chicago Bulls</a></li> <li><a href="http://www.nba.com/cavaliers" class="nbaTeamCLE">Cleveland Cavaliers</a></li> <li><a href="http://www.nba.com/pistons" class="nbaTeamDET">Detroit Pistons</a></li> <li><a href="http://www.nba.com/pacers" class="nbaTeamIND">Indiana Pacers</a></li> <li><a href="http://www.nba.com/bucks" class="nbaTeamMIL">Milwaukee Bucks</a></li> </ul> </li> <li> <span class="nbaDivision">Southeast</span> <ul> <li><a href="http://www.nba.com/hawks" class="nbaTeamATL">Atlanta Hawks</a></li> <li><a href="http://www.nba.com/bobcats" class="nbaTeamCHA">Charlotte Bobcats</a></li> <li><a href="http://www.nba.com/heat" class="nbaTeamMIA">Miami Heat</a></li> <li><a href="http://www.nba.com/magic" class="nbaTeamORL">Orlando Magic</a></li> <li><a href="http://www.nba.com/wizards" class="nbaTeamWAS">Washington Wizards</a></li> </ul> </li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">Western Conference</span> <ul> <li> <span class="nbaDivision">Southwest</span> <ul> <li><a href="http://www.nba.com/mavericks" class="nbaTeamDAL">Dallas Mavericks</a></li> <li><a href="http://www.nba.com/rockets" class="nbaTeamHOU">Houston Rockets</a></li> <li><a href="http://www.nba.com/grizzlies" class="nbaTeamMEM">Memphis Grizzlies</a></li> <li><a href="http://www.nba.com/pelicans" class="nbaTeamNOH">New Orleans Pelicans</a></li> <li><a href="http://www.nba.com/spurs" class="nbaTeamSAS">San Antonio Spurs</a></li> </ul> </li> <li> <span class="nbaDivision">Northwest</span> <ul> <li><a href="http://www.nba.com/nuggets" class="nbaTeamDEN">Denver Nuggets</a></li> <li><a href="http://www.nba.com/timberwolves" class="nbaTeamMIN">Minnesota Timberwolves</a></li> <li><a href="http://www.nba.com/blazers" class="nbaTeamPOR">Portland Trail Blazers</a></li> <li><a href="http://www.nba.com/thunder" class="nbaTeamOKC">Oklahoma City Thunder</a></li> <li><a href="http://www.nba.com/jazz" class="nbaTeamUTA">Utah Jazz</a></li> </ul> </li> <li> <span class="nbaDivision">Pacific</span> <ul> <li><a href="http://www.nba.com/warriors" class="nbaTeamGSW">Golden State Warriors</a></li> <li><a href="http://www.nba.com/clippers" class="nbaTeamLAC">Los Angeles Clippers</a></li> <li><a href="http://www.nba.com/lakers" class="nbaTeamLAL">Los Angeles Lakers</a></li> <li><a href="http://www.nba.com/suns" class="nbaTeamPHX">Phoenix Suns</a></li> <li><a href="http://www.nba.com/kings" class="nbaTeamSAC">Sacramento Kings</a></li> </ul> </li> </ul> </div> </div> </li> <li class="nbaSingleton"> <a href="http://www.nba.com/gameline">Scores &amp; Schedules</a> </li> <li> <a href="http://www.nba.com/news">News</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/news">NBA Headlines</a></li> <li><a href="http://www.nba.com/news/transactions/transactions-2012-13/index.html">Transactions</a></li> <li><a href="http://www.nba.com/personalities">NBA.com Writers</a></li> <li><a href="http://www.nba.com/news/news_archive.html">News Archive</a></li> <li><a href="http://www.nba.com/rss">RSS</a></li> <li><a href="http://www.nba.com/history">History</a></li> <li><a href="http://www.nba.com/news/referee.html">Daily Ref Assignments</a></li> <li><a href="http://www.nba.com/news/important-dates/index.html">Important Dates</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.nba.com/draft">2013 NBA Draft</a></li> <li><a href="http://www.nba.com/allstar">2013 All-Star</a></li> <li><a href="http://www.nba.com/halloffame">2013 Hall of Fame</a></li> <li><a href="http://www.nba.com/playoffs">2013 Playoffs</a></li> <li><a href="http://www.nba.com/summerleague">2013 Summer League</a></li> </ul> </div> </div> </li> <li> <a href="http://hangtime.blogs.nba.com">Blogs</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://hangtime.blogs.nba.com" target="_blank">Hang Time Blog</a></li> <li><a href="http://hangtime.blogs.nba.com/category/podcast" target="_blank">Hang Time Podcast</a></li> <li><a href="http://allball.blogs.nba.com" target="_blank">All Ball Blog</a></li> <li><a href="http://tbt.blogs.nba.com" target="_blank">Ten Before Tip</a></li> <li><a href="http://charlesbarkley.com" target="_blank">CharlesBarkley.com</a></li> <li><a href="http://mikefratello.com" target="_blank">MikeFratello.com</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">NBA.com Ladders</span> <ul> <li><a href="http://www.nba.com/rookie-ladder">Rookie Ladder</a></li> <li><a href="http://www.nba.com/dunk-ladder">Dunk Ladder</a></li> <li><a href="http://www.nba.com/top-plays-ladder">Top Plays Ladder</a></li> <li><a href="http://www.nba.com/mvp-ladder">Kia MVP Ladder</a></li> </ul> </div> </div> </li> <li> <a href="http://www.nba.com/video">Video</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/video">All Videos</a></li> <li><a href="http://www.nba.com/video/highlights">Highlights</a></li> <li><a href="http://www.nba.com/video/playoffs">Playoffs 2013</a></li> <li><a href="http://www.nba.com/video/topplays">Top Plays</a></li> <li><a href="http://www.nba.com/video/nbatv">NBA TV</a></li> <li><a href="http://www.nba.com/video/editorspicks">Editor's Picks</a></li> <li><a href="http://www.nba.com/video/tntot">TNT OT</a></li> <li><a href="http://www.nba.com/videorulebook">Video Rulebook</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.nba.com/video/nbatv/fantasy">Fantasy</a></li> <li><a href="http://www.nba.com/video/nbarooks">NBA Rooks</a></li> <li><a href="http://www.nba.com/theassociation">The Association</a></li> <li><a href="http://www.nba.com/video/history">History</a></li> </ul> </div> </div> </li> <li> <a href="http://www.nba.com/players">Players</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/players">Players</a></li> <li><a href="http://www.nba.com/news/coaches/index.html">Coaches</a></li> <li><a href="http://www.nba.com/teams/teamIndividualLinks.html?title=Team%20Roster&amp;file=roster">Team Rosters</a></li> <li><a href="http://www.nba.com/freeagents/2013">Free Agent Tracker</a></li> <li><a href="http://www.nba.com/rooks">NBA Rooks</a></li> <li><a href="http://www.nba.com/awards">Kia Performance Awards</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.nba.com/history/legends/legends-index/index.html">Legends</a></li> <li><a href="http://stats.nba.com/players.html#historic-players">Historical Player Search</a></li> </ul> </div> </div> </li> <li> <a href="http://www.nba.com/standings">Standings</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/standings/team_record_comparison/conferenceNew_Std_Div.html">By Division</a></li> <li><a href="http://www.nba.com/standings/team_record_comparison/conferenceNew_Std_Cnf.html">By Conference</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.nba.com/standings/team_record_comparison/conferenceNew_Stk_Cnf.html">Streaks &amp; Last 10</a></li> <li><a href="http://www.nba.com/standings/team_record_comparison/conferenceNew_Ahd_Div.html">Ahead &amp; Behind</a></li> <li><a href="http://www.nba.com/standings/team_record_comparison/conferenceNew_Mrg_Div.html">Margin &amp; Stats</a></li> <li><a href="http://www.nba.com/standings/2011/team_record_comparison/conferenceNew_Std_Div.html">2011-12 Standings</a></li> <li><a href="http://www.nba.com/standings/2010/team_record_comparison/conferenceNew_Std_Div.html">2010-11 Standings</a></li> <li><a href="http://www.nba.com/history/seasonreviews/season-recaps/index.html">Season Recaps</a></li> </ul> </div> </div> </li> <li> <a href="http://stats.nba.com">Stats</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://stats.nba.com">NBA.com/Stats</a></li> <li><a href="http://stats.nba.com/leaguePlayerGeneral.html">Sortable Player Stats</a></li> <li><a href="http://stats.nba.com/leagueTeamGeneral.html">Sortable Team Stats</a></li> <li><a href="http://stats.nba.com/leaders.html">Category Leaders</a></li> <li><a href="http://stats.nba.com/leadersGrid.html?PerMode=Totals&sortField=PTS&Season=2012-13&SeasonType=Regular%20Season&Scope=S&StatCategory=PTS">Scoring Leaders</a></li> <li><a href="http://stats.nba.com/leagueLineups.html">League Lineups</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://stats.nba.com/scores.html">Every NBA Box Score (1946-Present)</a></li> <li><a href="http://stats.nba.com/history.html">Complete Franchise History</a></li> <li><a href="http://stats.nba.com/shotcharts.html">Shot Charts</a></li> <li><a href="http://hangtime.blogs.nba.com/category/nba-comstats">Stats Blog</a></li> </ul> </div> </div> </li> <li> <a href="http://www.nba.com/mobile">Mobile</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/mobile">NBA Mobile Products</a></li> <li><a href="http://www.nba.com/connected">NBA Game Time Connected</a></li> <li><a href="http://www.nba.com/leaguepass/mobile">LEAGUE PASS Mobile</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.coveroo.com/nba" target="_blank">Custom Covers &amp; Cases</a></li> </ul> </div> </div> </li> <li> <a href="http://www.nba.com/nbatv">TV</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/schedules/national_tv_schedule/index.html">National TV Schedule</a></li> <li><a href="http://www.nba.com/nbatv">NBA TV</a></li> <li><a href="http://www.nba.com/nbaontnt">NBA on TNT</a></li> <li><a href="http://www.nba.com/schedules/national_tv_schedule/ESPN">NBA on ESPN</a></li> <li><a href="http://www.nba.com/schedules/national_tv_schedule/ABC">NBA on ABC</a></li> <li><a href="http://www.nba.com/schedules/international_nba_tv_schedule.html">International TV Schedule</a></li> <li><a href="http://www.nba.com/schedules/national_tv_schedule/canada">Canadian TV Schedule</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.nba.com/fannight">NBA Fan Night</a></li> <li><a href="http://www.nba.com/the-association">The Association</a></li> <li><a href="http://www.nba.com/opencourt">Open Court</a></li> <li><a href="http://www.nba.com/video/Inside_the_NBA">Inside the NBA</a></li> <li><a href="http://www.nba.com/tvc/info.html">TV Companion</a></li> <li><a href="http://www.nba.com/connected/index.html">Connected TVs</a></li> </ul> </div> </div> </li> <li> <a href="http://www.nba.com/leaguepass">League Pass</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/leaguepass">LP for TV</a></li> <li><a href="http://www.nba.com/leaguepass">Activate LP for TV</a></li> <li><a href="javascript:nbaLeaguePass.checkFlashFirst();">Watch Games</a></li> <li><a href="http://www.nba.com/leaguepass">LP Broadband</a></li> <li><a href="http://www.nba.com/leaguepass">LP Mobile</a></li> <li><a href="http://watch.nba.com/nba/subscribe">International LP Broadband</a></li> <li><a href="http://www.nba.com/allaccess/watchListen.html">LP Audio</a></li> </ul> </div> <div class="nbaSecondary"> <span class="nbaNavSubheading">More</span> <ul> <li><a href="http://www.nba.com/leaguepass/broadband/help.html" target="_blank">Help</a></li> </ul> </div> </div> </li> <li class="nbaMenuLeft"> <a href="http://www.nba.com/fantasy">Fantasy</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=5577949&PluID=0&ord=[timestamp]">NBA.com/Yahoo! Sports Fantasy Basketball</a></li> <li><a href="http://www.nba.com/video/nbatv/fantasy">Fantasy Video</a></li> <li><a href="http://hangtime.blogs.nba.com/category/fantasy">Fantasy Blogs</a></li> <li><a href="https://twitter.com/nbafantasy">NBA Fantasy on Twitter</a></li> <li><a href="http://www.nba.com/drive">Drive to the Finals</a></li> </ul> </div> </div> </li> <li class="nbaLast nbaMenuLeft"> <a href="http://www.nba.com/playoffs/" class="">Playoffs </a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <span class="nbaNavSubheading">The Finals</span> <ul> <li><a href="http://www.nba.com/finals/">Heat vs. Spurs</a></li> </ul> <span class="nbaNavSubheading">Conference Finals</span> <ul> <li><a href="http://www.nba.com/playoffs/2013/westseries7/">Spurs vs. Grizzlies</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries7/">Heat vs. Pacers</a></li> </ul> <span class="nbaNavSubheading">Conference Semifinals</span> <ul> <li><a href="http://www.nba.com/playoffs/2013/westseries5/">Thunder vs. Grizzlies</a></li> <li><a href="http://www.nba.com/playoffs/2013/westseries6/">Spurs vs. Warriors</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries5/">Heat vs. Bulls</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries6/">Knicks vs. Pacers</a></li> </ul> <span class="nbaNavSubheading">First Round</span> <ul> <li><a href="http://www.nba.com/playoffs/2013/westseries1/">Thunder vs. Rockets</a></li> <li><a href="http://www.nba.com/playoffs/2013/westseries2/">Spurs vs. Lakers</a></li> <li><a href="http://www.nba.com/playoffs/2013/westseries3/">Nuggets vs. Warriors</a></li> <li><a href="http://www.nba.com/playoffs/2013/westseries4/">Clippers vs. Grizzlies</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries1/">Heat vs. Bucks</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries2/">Knicks vs. Celtics</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries3/">Pacers vs. Hawks</a></li> <li><a href="http://www.nba.com/playoffs/2013/eastseries4/">Nets vs. Bulls</a></li> </ul> </div> </div> </li> </ul> </nav> <div id="nbaSearch"> <div class="nbaSkin"> 
+                <!-- HTML specific to United States goes here -->
+                <div class="nbaPlayoffsSearchBar" style="background:#000">
+					<a href="/playoffs/" title="2013 NBA Playoffs" class="nbaSearchPromoLeft" style="width:258px; overflow:hidden; height:36px"><img style="margin-top:5px !important;" src="http://i.cdn.turner.com/nba/nba/.element/img/3.0/sect/playoffs/2013/promoBar/lftClck5.png" alt="2013 NBA Playoffs" /></a>
+					<a href="/nbatv/" style="margin:4px 0 0;" target="_blank" title="2013 NBA Playoffs" class="nbaSearchPromoRight"><img src="http://i.cdn.turner.com/nba/nba/.element/img/3.0/sect/home/playoff_13nbaTV.png" alt="2013 NBA Playoffs" /></a>
+				</div>
+         </div> <form action="/search" method="get"> <!--[if IE]><label for="nbaSearchInput">Search NBA.com</label><![endif]--> <input type="text" value="" name="text" id="nbaSearchInput" placeholder="Search NBA.com" onfocus="this.placeholder=''" onblur="this.placeholder='Search NBA.com'" /> <button type="submit" class="nbaSubmit">Submit</button> </form> 
+               <!-- HTML specific to United States goes here -->
+			<div id="nbaClockBG" style="display:none;">
+				<div class="nbaPromoBar" id="nbaPromoBar"></div>
+				<div id="nbaPromoBar">
+			
+				</div>
+				<div class="nbaClockClick" style="background:#000; height:40px;" id="nbaClockClick" onclick="window.open('http://tntovertime.nba.com/overtime13/?ls=eref:nbagncc');">	
+					<div class="nbaCountTo">
+						<img src="http://z.cdn.turner.com/nba/nba/.element/img/3.0/sect/home/tntOT.png" />
+						<p id="nbaMatchup">
+						</p>
+					</div>
+					
+					<div id="nbaClock">
+					</div>
+					
+					<div class="nbaCountAd" style="left:4px;"><!-- ADSPACE: tnt_overtime/countdown/spon.88x31 --><div id="ad-7988" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("7988","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=tnt_overtime&nba_section=countdown&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div>
+				</div>	
+			</div>
+			<script src="/countDownClock/countDownMatchup.js" type="text/javascript"></script>
+			<script src="http://i.cdn.turner.com/nba/nba/.element/js/3.0/home/nbaCountdownClock.js" type="text/javascript"></script>
+		 </div> <script type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.e/js/pkg/allaccess_nba_overlay/1258.js"></script> <div class="nbaSocial"> <div class="nbaLogin"> <div class="nbaGlobal"><a href="http://www.nba.com/global" title="NBA Global">NBA Global</a></div> <div class="nbaWNBA"><a href="http://www.wnba.com" title="WNBA">WNBA</a></div> <div class="nbaDleague"><a href="http://www.nba.com/dleague" title="NBA D-League">NBA Dleague</a></div> <div id="nbaChromeLogin"></div> </div> <div class="nbaFBLike"> <!--[if !IE]><!--> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/nba&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> <!--<![endif]--> <!--[if IE]> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/nba&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> <![endif]--> </div> <div class="nbaTwitterFollow"> <!--[if !IE]><!--> <iframe src="//platform.twitter.com/widgets/follow_button.html?screen_name=NBA&amp;show_count=true"></iframe> <!--<![endif]--> <!--[if IE]> <iframe src="//platform.twitter.com/widgets/follow_button.html?screen_name=NBA&amp;show_count=true" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> <![endif]--> </div> <div class="nbaGooglePlus"> <div class="g-plusone" data-size="medium" data-href="http://www.nba.com"></div> </div> <script type="text/javascript"> (function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script> </div> <nav id="nbaStoreNav"> <ul> <li class="nbaStore nbaMenuLeft"> <a href="http://www.nba.com/global/storelinkhandler.html">Store</a> <div class="nbaNavDropdown"> <div class="nbaPrimary"> <ul> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_Jerseys">Jerseys</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_Mens">Mens</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_Kids">Kids</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_NBA4Her">NBA4HER</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_CustomShop">Custom Shop</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_Headwear">Headwear</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_Basketballs">Basketballs</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_Footwear">Footwear</a></li> <li><a href="http://www.nba.com/global/storelinkhandler.html?cat=NBA_WhatsHot">What's Hot</a></li> <li><a href="http://auctions.nba.com" target="_blank">Auctions</a></li> <li><a href="http://nbagameworn.com/" target="_blank">NBAGameworn.com</a></li> <li><a href="http://photostore.nba.com/home.aspx?sourceid=TopNav_Photos" target="_blank">Shop Photo Store</a></li> <li><a href="http://www.nba.com/nycstore">NYC Store</a></li> </ul> </div> </div> </li> </ul> </nav> </header> <!-- end header include --> <!-- anchor for 508 assistive skip --> <a id="nbaAssistSkip" class="nbaAssist">Main content</a> <div class="nbaAd nbaOPA"> <!-- ADSPACE: homepage/spon.970x66 --><div id="ad-50430" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("50430","http://ads.nba.com/html.ng/site=nba&nba_pos=970x66_spon&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","66","970");
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> <section class="nbaSectionRow nbaNoBorder nbaClear"> <!--include for international pencil unit-->  
+ <!-- begin skybox include -->   <div id="nbaSeriesTrackerContainer nbaUnit nbaSize1of1 nbaLast"> <script type="text/javascript" src="/.element/js/3.0/sect/playoffs/2013/series.tracker.js"></script>
+<div class="nbaSTcontainer" style="display:none;width:1000px;height:56px;overflow:hidden;">
+	<div class="nbaSTBracketBck">
+		<div class="nbaBoxFirstTop">
+			<a href="/playoffs/"><img src="http://i.cdn.turner.com/nba/nba/.element/img/3.0/sect/playoffs/2013/seriesTracker/bracket.png" width="68" /></a>
+		</div>
+		<div class="nbaBoxFirstBtm">
+			<div class="nbaBoxBtm disabled">R1</div>
+			<div class="nbaBoxBtm disabled">R2</div>
+			<div class="nbaBoxBtm disabled">CF</div>
+			<div class="nbaBoxBtm last disabled">F</div>
+		</div>
+	</div>
+	<div class="round1" style="display:none;"></div>
+	<div class="round2" style="display:none;"></div>
+	<div class="round3" style="display:none;"></div>
+	<div class="round4" style="display:none;"></div>
+</div>
+<script type="text/javascript">
+nbaSeriesTracker.init();
+</script>
+ <script> nbaSeriesTracker.round = "1"; nbaSeriesTracker.series = "1"; nbaSeriesTracker.conference = "east"; </script> <esi:choose> <esi:when test="$(GEO{'country_code'}) == 'ca'"> <script>nbaSeriesTracker.userCountry = "can";</script> </esi:when> </esi:choose> </div> <!-- begin breaking news include --> <section class="nbaBreakingNews nbaLive"> <h3>Live Now<span></span></h3> <ul> <li class=""><a href="http://www.nba.com/live1/" >Twyman-Stokes Award winner announced</a></li> </ul> <ul> <li class="nbaLast"><a href="http://www.nba.com/playoffs/2013/finals/?ls=iref:nbahpt3a" >Live on NBA TV: Pregame coverage at The Finals</a></li> </ul> </section> <!-- end breaking news include --> <!-- begin feature include --> <script> var videoGalleryConfig = { "data":{ "playlists":[ { "id" : "summary_2CC5C128-56A6-A265-D413-271F3E4E3609", "videos": [ { "permalink": "/video/channels/playoffs/2013/06/08/20130608-mike-miller-w-nichols.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-mike-miller-w-nichols.nba", "videoTitle" : "Miller with Nichols", "videoCaption" : "Mike Miller sits down with Rachel Nichols to talk about his increased playing time.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608152533-20130608-mike-miller-w-nichols-00011321.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/nba_tv/2013/06/08/20130608-gametime-leonard.nba/index.html", "videoID" : "/video/channels/nba_tv/2013/06/08/20130608-gametime-leonard.nba", "videoTitle" : "GameTime: Leonard on Defense", "videoCaption" : "David Aldridge talks with Kawhi Leonard about guarding LeBron James.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608192503-20130608-gametime-leonard-00005714.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-lebron-media-day.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-lebron-media-day.nba", "videoTitle" : "LeBron's Media Session", "videoCaption" : "LeBron James talks with the media one day before Game 2 of The NBA Finals.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608144813-20130608-lebron-media-day-00114521.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-popovich-on-lebron-critics.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-popovich-on-lebron-critics.nba", "videoTitle" : "Popovich on LeBron's Critics", "videoCaption" : "Spurs head coach Gregg Popovich agrees that LeBron James should not care what critics say about him.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608150406-20130608-popovich-on-lebron-critics-00023309.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-lebron-halfcourt-shots.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-lebron-halfcourt-shots.nba", "videoTitle" : "LeBron's Amazing Halfcourt Shots", "videoCaption" : "LeBron James calmly knocks down two halfcourt jumpers in front of the media on Saturday.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608133200-20130608-lebron-halfcourt-shots-00000918.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-duncan-media-day.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-duncan-media-day.nba", "videoTitle" : "Duncan on Game 2", "videoCaption" : "Tim Duncan talks with the media about the evolution of the Spurs and the officiating in The Finals.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608143836-20130608-duncan-media-day-00004506.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-parker-media-day.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-parker-media-day.nba", "videoTitle" : "Parker on Game 2", "videoCaption" : "Game 1 hero Tony Parker speaks with the media before Game 2 of The Finals. ", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608143336-20130608-parker-media-day-00005330.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-wade-media-day.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-wade-media-day.nba", "videoTitle" : "Wade on Game 2", "videoCaption" : "Miami Heat star Dwyane Wade talks about being more aggressive in Game 2.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608135203-20130608-wade-media-day-00031823.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-spoelstra-media-day.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-spoelstra-media-day.nba", "videoTitle" : "Spoelstra Media Session", "videoCaption" : "Heat head coach Erik Spoelstra speaks to the media about Miami's adjustments for Game 2.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608131145-20130608-spoelstra-media-day-00004328.video-playlist-thumbnail.jpg" } , { "permalink": "/video/channels/playoffs/2013/06/08/20130608-popovich-media-day.nba/index.html", "videoID" : "/video/channels/playoffs/2013/06/08/20130608-popovich-media-day.nba", "videoTitle" : "Popovich's Media Session", "videoCaption" : "Gregg Popovich addresses the media before Game 2 of The NBA Finals.", "videoThumbnail" : "http://i2.cdn.turner.com/nba/nba/dam/assets/130608152054-20130608-popovich-media-day-00085003.video-playlist-thumbnail.jpg" } ], "relatedLinks" : [ ] } ] } }; </script> <section id="nbaFeature" class="nbaNoBorder nbaClear"> <span class="nbaOverlay"></span> <div class="nbaTPack nbaT3 "> <div class="nbaTPanel panel1 "> <a href="http://www.nba.com/playoffs/2013/finals/?ls=iref:nbahpt3a" class="nbaTImage"> <div class="nbaTPlayBtn nbaHide"></div> <img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130609183505-lebron-tim-duncan-action.home-t3.jpg" class="nbaTMainImage" alt="" /> </a> <div class="nbaTContentBg"> <div class="nbaTContent"> <h3> <a href="http://www.nba.com/playoffs/2013/finals/?ls=iref:nbahpt3a">On ABC: Getting Down To Business</a> </h3> <p data-iref="iref:nbahpt3a"> LeBron looks to build on triple-double performance and get Chris Bosh going in Game 2 (<b>8 ET</b>). <a href="/video/channels/nba_tv/2013/06/08/20130608-gametime-gm2-lookahead.nba/index.html?ls=iref:nbahpt13a" class="nbaLinkWatch">Game 2 preview</a> | <strong>Hang Time: </strong><a href="http://hangtime.blogs.nba.com/2013/06/08/panic-not-in-the-heats-dna/?ls=iref:nbahpt13a" class="">No panic for Heat</a> | <strong>Game 1: </strong><a href="/video/channels/playoffs/2013/06/07/finals-game1-micromovie.nba/index.html?ls=iref:nbahpt13a" class="nbaLinkWatch">Micro-movie</a> | <a href="/video/channels/playoffs/2013/06/07/finals-game1-slideshow.nba/index.html?ls=iref:nbahpt13a" class="nbaLinkWatch">Slideshow</a> </p> </div> </div> </div> <div class="nbaTPanel panel2 nbaSlideUp"> <a href="http://hangtime.blogs.nba.com/2013/06/09/spurs-seek-game-two-improvement/?ls=iref:nbahpt3b" class="nbaTImage"> <div class="nbaTPlayBtn nbaHide"></div> <img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130609182050-tony-parker-media-060913.home-t6.jpg" class="nbaTMainImage" alt="" /> </a> <div class="nbaTContentBg"> <div class="nbaTContent"> <h3> <a href="http://hangtime.blogs.nba.com/2013/06/09/spurs-seek-game-two-improvement/?ls=iref:nbahpt3b">Hang Time: Handle With Care</a> </h3> <p data-iref="iref:nbahpt3b"> Tony Parker says the Spurs must continue to limit turnovers to take a 2-0 series lead. </p> </div> </div> </div> <div class="nbaTPanel panel3 nbaSlideUp"> <a href="#" data-iref="iref:nbahpt3c" class="nbaTImage nbaPlaylistTrigger" data-team="" data-playlistid="summary_2CC5C128-56A6-A265-D413-271F3E4E3609"> <div class="nbaTPlayBtn "></div> <img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130608152533-20130608-mike-miller-w-nichols-00005121.home-t6.jpg" class="nbaTMainImage" alt="" /> </a> <div class="nbaTContentBg"> <div class="nbaTContent"> <h3> <a href="#" class="nbaPlaylistTrigger" data-team="" data-playlistid="summary_2CC5C128-56A6-A265-D413-271F3E4E3609">Miller's Time</a> </h3> <p data-iref="iref:nbahpt3c"> The Heat's Mike Miller talks to Rachel Nichols about his increased playing time. </p> </div> </div> </div> <div class="nbaTFooter"> <div class="nbaTSocial"> <div id="customChannelText">Create a custom NBA video channel</div> <a href="#" data-fbvalue="firstButton" class="nbaFacebookConnect nbaAllAccessOverlayTrigger" title="Connect with Facebook">Connect with Facebook</a> <a href="#" class="nbaRecommendedVideos nbaPlaylistTrigger" title="Recommended Videos for You" data-team="" data-playlistid="">Recommended Videos for You</a> </div> <div class="nbaTAd"> <!-- ADSPACE: homepage/marketing/spon.621x40 -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CALLOUT|http://ads.nba.com/html.ng/site=nba&nba_pos=621x40_spon&nba_rollup=homepage&nba_section=marketing&page.allowcompete=yes&params.styles=fs|CALLOUT -->
+<div id="ad-10777" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("10777","http://ads.nba.com/html.ng/site=nba&nba_pos=621x40_spon&nba_rollup=homepage&nba_section=marketing&page.allowcompete=yes&params.styles=fs","40","621");
+cnnad_registerSpace(10777,621,40);
+</script>
+
+
+ </div> </div> </div> <div class="nbaVideo" id="nbaFeatureVideo"> <div class="nbaVideoContainer"> <div id="nbaVideoPlayer"></div> </div> <div class="nbaVideoPlaylist" id="nbaVideoPlaylist1"> <header class="nbaReturn"> <a href="#"><span>Return</span></a> </header> <div class="nbaScrollWindow"> <ul class="nbaScrollPanel"> <li class="nbaLoading"> <span>Loading playlist...</span> </li> </ul> </div> <nav class="nbaScroller"> <a href="#" class="nbaPrevious" title="Previous"><span>Previous</span></a> <a href="#" class="nbaNext" title="Next"><span>Next</span></a> </nav> </div> <div id="nbaVideoFooter" class="nbaVideoFooter"> <div class="nbaAd"> <span id="small_rectangle" class="_fwph" style="font-size:0px;"> <form id="_fw_form_small_rectangle" style="display:none;"> <input type="hidden" name="_fw_input_small_rectangle" id="_fw_input_small_rectangle" value="w=300&h=60&envp=g_js&sflg=-nrpl;"> </form> <span id="_fw_container_small_rectangle_companion" class="_fwac"></span> <span id="_fw_container_small_rectangle" class="_fwac"></span> </span> </div> <div class="nbaVideoInfo"> <h4>&nbsp;</h4> <p class="nbaDescription">&nbsp;</p> </div> <div class="nbaNewsAndSocial"> <ul class="nbaNewsList"> </ul> <div class="nbaSocialProfile"> <img src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" alt="" class="nbaThumbnail" /> <p class="nbaName">&nbsp;</p> <a href="http://www.facebook.com/" target="_blank" class="nbaEdit">Edit Team Settings on Facebook</a> </div> </div> </div> </div> <!-- nbaFeatureVideo --> </section> <!-- end feature include -->  </section>       <!-- begin news include --> <section id="nbaNews" class="nbaSectionRow nbaNoBorder nbaClear"> <h2 class="nbaAssist">News</h2> <section class="nbaHeadlineLists"> <nav class="nbaHeadlineTabs nbaTabSet"> <a href="#nbaNewsTopStoriesTabPanel" class="nbaActive">Top Stories</a> <a href="#nbaNewsMyHeadlinesTabPanel" class="nbaAssist">My Headlines</a> </nav> <div class="nbaHeadlineList nbaTopStories" id="nbaNewsTopStoriesTabPanel"> <ul> <li class=" "> <span class="nbaSingleLine"> <a href="http://hangtime.blogs.nba.com/2013/06/09/spurs-seek-game-two-improvement/?ls=iref:nbahpts" class=""> Shootaround: Parker wants to avoid turnovers </a> </span> <ul class="nbaClear"> <li class=""> <strong></strong><a href="http://hangtime.blogs.nba.com/2013/06/09/heat-focus-on-finishing/?ls=iref:nbahpts" class="">Heat ready</a> </li> <li class=""> <strong></strong><a href="/video/channels/playoffs/2013/06/09/20130609-media-avail-spoelstra.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Spoelstra</a> </li> <li class=""> <strong></strong><a href="/video/channels/playoffs/2013/06/09/20130609-media-avail-popovich.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Pop</a> </li> <li class=""> <strong></strong><a href="/video/channels/playoffs/2013/06/09/20130609-media-avail-bosh.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Bosh</a> </li> <li class="nbaLast"> <strong></strong><a href="/video/channels/playoffs/2013/06/09/20130609-media-avail-parker.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Parker</a> </li> </ul> </li> <li class=" "> <span class="nbaSingleLine"> <a href="/2013/news/06/08/lebron-on-critics.ap/index.html?ls=iref:nbahpts" class=""> LeBron on criticism: 'I've done more and lost' </a> </span> <ul class="nbaClear"> <li class=""> <strong></strong><a href="/video/channels/playoffs/2013/06/08/20130608-lebron-finals-journey.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Watch</a> </li> <li class="nbaLast"> <strong></strong><a href="http://hangtime.blogs.nba.com/2013/06/08/panic-not-in-the-heats-dna/?ls=iref:nbahpts" class="">Hang Time: Heat won't panic</a> </li> </ul> </li> <li class=" nbaSingleton"> <span class="nbaSingleLine"> <a href="http://hangtime.blogs.nba.com/2013/06/09/serge-ibaka-now-in-tourist-season/?ls=iref:nbahpts" class=""> Thunder's Ibaka now in tourist season </a> </span> </li> <li class=" "> <span class="nbaSingleLine"> <a href="/2013/news/06/07/nuggets-part-with-ujiri-karl.ap/index.html?ls=iref:nbahpts" class=""> Nuggets' Kroenke: Losing Ujiri, Karl was tough </a> </span> <ul class="nbaClear"> <li class="nbaLast"> <strong></strong><a href="/video/channels/nba_tv/2013/06/07/20130607-coach-karl-news.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Watch</a> </li> </ul> </li> <li class=" nbaSingleton"> <span class="nbaSingleLine"> <a href="/2013/news/06/08/collins-gay-pride-parade.ap/index.html?ls=iref:nbahpts" class=""> Collins marches in Boston gay pride parade </a> </span> </li> <li class=" "> <span class="nbaSingleLine"> <a href="http://hangtime.blogs.nba.com/2013/06/08/adetokunbo-scouting-run-an-nba-event/?ls=iref:nbahpts" class=""> Scouts catch glimpse of Draft mystery man </a> </span> <ul class="nbaClear"> <li class=""> <strong></strong><a href="http://hangtime.blogs.nba.com/2013/06/07/international-players-use-camp-in-italy-to-pursue-dream-a-spot-in-nba-draft/?ls=iref:nbahpts" class="">Int'l players use Italy camp to pursue NBA</a> </li> <li class="nbaLast"> <strong></strong><a href="http://www.nba.com/draft/2013/?ls=iref:nbahpts" class=""><b>NBA Draft</b></a> </li> </ul> </li> <li class=" nbaSingleton"> <span class="nbaSingleLine"> <a href="/2013/news/06/08/danny-green-long-path-finals.ap/index.html?ls=iref:nbahpts" class=""> Spurs' Green took long path to NBA Finals </a> </span> </li> <li class=" nbaSingleton"> <span class="nbaSingleLine"> <a href="http://www.wnba.com/news/ref_cam_ap_060813.html?ls=iref:nbahpts" class=""> WNBA debuts 'ref cam' worn by game official </a> </span> </li> <li class=" "> <span class="nbaSingleLine"> <a href="http://www.nba.com/games/20130606/SASMIA/gameinfo.html?ls=iref:nbahpts" class=""> Parker, Duncan help Spurs top Heat in Game 1 </a> </span> <ul class="nbaClear"> <li class=""> <strong></strong><a href="/video/channels/playoffs/2013/06/07/finals-game1-micromovie.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Micro-movie</a> </li> <li class="nbaLast"> <strong></strong><a href="/video/channels/playoffs/2013/06/07/finals-game1-slideshow.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Slideshow</a> </li> </ul> </li> <li class="nbaLast "> <span class="nbaSingleLine"> <a href="/2013/news/06/07/nba-finals-post-game-1-notebook.ap/index.html?ls=iref:nbahpts" class=""> Finals notebook: Parker's last shot still buzzing </a> </span> <ul class="nbaClear"> <li class="nbaLast"> <strong></strong><a href="/video/channels/playoffs/2013/06/07/20130607-tony-parker-interview.nba/index.html?ls=iref:nbahpts" class="nbaLinkWatch">Parker discusses game-winner</a> </li> </ul> </li> </ul> <a href="#" data-fbvalue="secondButton" class="nbaFacebookConnect nbaAllAccessOverlayTrigger" title="Connect with Facebook">Connect with Facebook</a> </div> <div class="nbaHeadlineList nbaMyHeadlines" id="nbaNewsMyHeadlinesTabPanel"> <ul> </ul> </div> </section> <section class="nbaFlexQuad"> <div class="nbaFlex nbaSplit nbaSectionContent nbaNum0"> <div class="nbaFlexPanel"> <h3> <a href="/video/channels/nba_tv/2013/06/08/20130608-gametime-lebron.nba/index.html?ls=nbahpsplit1" >GameTime</a> </h3> <div class="nbaSponsorArea"></div> <div class="nbaFlexContent"> <a href="/video/channels/nba_tv/2013/06/08/20130608-gametime-lebron.nba/index.html?ls=nbahpsplit1" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130608214440-lebron-james-iso-for-flex-060813.split-flex-module.jpg" alt="/video/channels/nba_tv/2013/06/08/20130608-gametime-lebron.nba/index.html" /></a> <h4><a href="/video/channels/nba_tv/2013/06/08/20130608-gametime-lebron.nba/index.html?ls=nbahpsplit1" >More from the King?</a></h4> <p>Can LeBron do even more in Game 2? Steve Smith examines.</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fvideo%2Fchannels%2Fnba_tv%2F2013%2F06%2F08%2F20130608-gametime-lebron.nba%2Findex.html&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/video/channels/nba_tv/2013/06/08/20130608-gametime-lebron.nba/index.html&amp;via=nba&amp;text=More%20from%20the%20King%3F&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fvideo%2Fchannels%2Fnba_tv%2F2013%2F06%2F08%2F20130608-gametime-lebron.nba%2Findex.html&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/video/channels/nba_tv/2013/06/08/20130608-gametime-lebron.nba/index.html&amp;via=nba&amp;text=More%20from%20the%20King%3F&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> <div class="nbaFlex nbaSplit nbaSectionContent nbaNum1"> <div class="nbaFlexPanel"> <h3> &nbsp; </h3> <div class="nbaSponsorArea"></div> <div class="nbaFlexContent"> <a href="/video/channels/nba_tv/2013/06/08/20130608-gametime-duncan.nba/index.html?ls=nbahpsplit1" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130608225601-tim-duncan-refs-060813.split-flex-module.jpg" alt="/video/channels/nba_tv/2013/06/08/20130608-gametime-duncan.nba/index.html" /></a> <h4><a href="/video/channels/nba_tv/2013/06/08/20130608-gametime-duncan.nba/index.html?ls=nbahpsplit1" >Presence felt</a></h4> <p>The guys take a look at Tim Duncan's work in the post in Game 1.</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fvideo%2Fchannels%2Fnba_tv%2F2013%2F06%2F08%2F20130608-gametime-duncan.nba%2Findex.html&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/video/channels/nba_tv/2013/06/08/20130608-gametime-duncan.nba/index.html&amp;via=nba&amp;text=Presence%20felt&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fvideo%2Fchannels%2Fnba_tv%2F2013%2F06%2F08%2F20130608-gametime-duncan.nba%2Findex.html&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/video/channels/nba_tv/2013/06/08/20130608-gametime-duncan.nba/index.html&amp;via=nba&amp;text=Presence%20felt&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> <div class="nbaFlex nbaSectionContent"> <span class="nbaAdNotice">Ad</span> <!-- ADSPACE: homepage/right.300x250 --><div id="ad-674037" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("674037","http://ads.nba.com/html.ng/site=nba&nba_pos=300x250_rgt&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","250","300");
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> <div class="nbaFlex nbaSplit nbaSectionContent nbaNum0"> <div class="nbaFlexPanel"> <h3> <a href="http://hangtime.blogs.nba.com/2013/06/08/allen-finds-pure-joy-in-latest-finals-trip/?ls=nbahpsplit2" >Hang Time Blog</a> </h3> <div class="nbaSponsorArea"></div> <div class="nbaFlexContent"> <a href="http://hangtime.blogs.nba.com/2013/06/08/allen-finds-pure-joy-in-latest-finals-trip/?ls=nbahpsplit2" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130425094713-ray-allen-dwyane-wade-talk-042513.split-flex-module.jpg" alt="http://hangtime.blogs.nba.com/2013/06/08/allen-finds-pure-joy-in-latest-finals-trip/" /></a> <h4><a href="http://hangtime.blogs.nba.com/2013/06/08/allen-finds-pure-joy-in-latest-finals-trip/?ls=nbahpsplit2" >Think I like it here</a></h4> <p>Ray Allen is feeling a little vindication after ditching Boston. </p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhangtime.blogs.nba.com%2F2013%2F06%2F08%2Fallen-finds-pure-joy-in-latest-finals-trip%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://hangtime.blogs.nba.com/2013/06/08/allen-finds-pure-joy-in-latest-finals-trip/&amp;via=nba&amp;text=Think%20I%20like%20it%20here&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhangtime.blogs.nba.com%2F2013%2F06%2F08%2Fallen-finds-pure-joy-in-latest-finals-trip%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://hangtime.blogs.nba.com/2013/06/08/allen-finds-pure-joy-in-latest-finals-trip/&amp;via=nba&amp;text=Think%20I%20like%20it%20here&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> <div class="nbaFlex nbaSplit nbaSectionContent nbaNum1"> <div class="nbaFlexPanel"> <h3> <a href="http://www.nba.com/draft/2013/?ls=nbahpsplit2" >2013 NBA Draft</a> </h3> <div class="nbaSponsorArea"></div> <div class="nbaFlexContent"> <a href="http://www.nba.com/draft/2013/?ls=nbahpsplit2" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130606143036-20130606-sethcurry-profile-00000814.split-flex-module.jpg" alt="http://www.nba.com/draft/2013/" /></a> <h4><a href="http://www.nba.com/draft/2013/?ls=nbahpsplit2" >Getting to know you</a></h4> <p>Meet the newest crop of players seeking to enter the NBA.</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fdraft%2F2013%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/draft/2013/&amp;via=nba&amp;text=Getting%20to%20know%20you&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fdraft%2F2013%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/draft/2013/&amp;via=nba&amp;text=Getting%20to%20know%20you&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> <div class="nbaFlex nbaSplit nbaSectionContent nbaNum0"> <div class="nbaFlexPanel"> <h3> <a href="http://www.nba.com/history/?ls=nbahpsplit3" >On NBA TV</a> </h3> <div class="nbaSponsorArea"></div> <div class="nbaFlexContent"> <a href="http://www.nba.com/history/?ls=nbahpsplit3" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130601010152-julius-erving-for-flex-053113.split-flex-module.jpg" alt="http://www.nba.com/history/" /></a> <h4><a href="http://www.nba.com/history/?ls=nbahpsplit3" >'The Doctor'</a></h4> <p>Check out the Dr. J documentary only on NBA TV (9 ET, 6/10).</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fhistory%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/history/&amp;via=nba&amp;text='The%20Doctor'&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fhistory%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/history/&amp;via=nba&amp;text='The%20Doctor'&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> <div class="nbaFlex nbaSplit nbaSectionContent nbaNum1"> <div class="nbaFlexPanel"> <h3> <a href="http://www.nba.com/freeagents/2013/?ls=nbahpsplit3" >Free Agent Tracker</a> </h3> <div class="nbaSponsorArea"></div> <div class="nbaFlexContent"> <a href="http://www.nba.com/freeagents/2013/?ls=nbahpsplit3" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130427100352-josh-smith-iso-fist-pump-042713.split-flex-module.jpg" alt="http://www.nba.com/freeagents/2013/" /></a> <h4><a href="http://www.nba.com/freeagents/2013/?ls=nbahpsplit3" >Up for grabs</a></h4> <p>Josh Smith is one of the top names on this summer's market.</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Ffreeagents%2F2013%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/freeagents/2013/&amp;via=nba&amp;text=Up%20for%20grabs&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Ffreeagents%2F2013%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/freeagents/2013/&amp;via=nba&amp;text=Up%20for%20grabs&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> </section> </section> <!-- end news include -->   <!-- begin popular include --> <section id="nbaPopular" class="nbaSectionRow nbaClear"> <div class="nbaRowHeader"> <h2>Popular Topics</h2> </div> <section class="nbaFirst"> <div class="nbaHeat nbaSectionContent"> <h3>Popular on NBA.com</h3> <div class="nbaSponsorArea"> <!-- ADSPACE: homepage/pop_topics/spon.88x31 --><div id="ad-602522" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("602522","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=pop_topics&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> <ul class="nbaPopularTopicsList" id="nbaPopularTopicsList"> </ul> </div> </section> <section> <div class="nbaSpotlight nbaSectionContent"> <h3>Social Spotlight</h3> <div class="nbaSponsorArea"> <!-- ADSPACE: homepage/spotlight/spon.88x31 --><div id="ad-988269" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("988269","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=spotlight&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> </div> <div id="nbaSpotlightPod" class="nbaT2Pod"> <div class="nbaSpotlightT2"> <div class="nbaSocialSpotlightContainer"> <div id="nbaSocialSpotlight"> <iframe src="http://up.massrelevance.com/turner-sports/nba-social-spotlight/widget.html?link=http://www.nba.com/social-spotlight" frameborder="0" style="width: 274px; height: 270px; border: none; overflow: hidden;" allowtransparency="true" scrolling="no"></iframe> </div> <a href="/social-spotlight/index.html" target="spotlight" class="nbaSpotlightFtr"></a> </div> </div><!--End of nbaSpotlightT2--> </div> </section> <section class="nbaLast"> <div class="nbaPulse nbaSectionContent"> <h3>NBA.com Pulse</h3> <div class="nbaSponsorArea"> <!-- ADSPACE: homepage/pulse/spon.88x31 --><div id="ad-937554" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("937554","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=pulse&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> </div> <iframe width="304" height="300" scrolling="no" frameBorder="0" src="http://www.nba.com/pulse/hp-widget.html"></iframe> </section> </section> <!-- end popular include -->  <div class="nbaAd nbaCombo nbaClear"> <div class="nbaAd nbaLeft"> <!-- ADSPACE: homepage/spon.200x90 --><div id="ad-361387" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("361387","http://ads.nba.com/html.ng/site=nba&nba_pos=200x90_spon&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","90","200");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> <div class="nbaAd nbaRight"> <!-- ADSPACE: homepage/top.728x90 --><div id="ad-673946" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("673946","http://ads.nba.com/html.ng/site=nba&nba_pos=728x90_top&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","90","728");
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> </div>   <!-- begin nbaTv include --> <section id="nbaTv" class="nbaSectionRow nbaClear"> <div class="nbaRowHeader"><a href="http://www.nba.com/nbatv/"><h2>NBATV</h2></a></div> <section class="nbaFirst"> <div class="nbaFlex nbaSectionContent"> <span class="nbaAdNotice">Ad</span> <!-- ADSPACE: homepage/rgt2.300x250 --><div id="ad-819421" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("819421","http://ads.nba.com/html.ng/site=nba&nba_pos=300x250_rgt2&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","250","300");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </div> </section> 
+
+
+<!-- begin nbaTv pimetime schedule include --> <section> <div class="nbaSectionContent nbaPrimetimeSchedule"> <h3>Primetime Schedule</h3> <div class="nbaSponsorArea"><!-- ADSPACE: homepage/ptschedule/spon.88x31 --><div id="ad-347319" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("347319","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=ptschedule&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div> <table class="nbaPrettyTable_2"> <tbody> <tr class="nbaFirst"> <td class="nbaProgramName" title="Spurs/Heat NBA Finals, Game 1">Spurs/Heat NBA Finals, Game 1 </td> <td class="nbaProgramTime">4:30 PM ET</td> </tr> <tr class=""> <td class="nbaProgramName" title="Live at the Finals Game 2">Live at the Finals Game 2 </td> <td class="nbaProgramTime">6:30 PM ET</td> </tr> <tr class=""> <td class="nbaProgramName" title="NBA Action #2233">NBA Action #2233 </td> <td class="nbaProgramTime">7:30 PM ET</td> </tr> <tr class=""> <td class="nbaProgramName" title="Shaqtin' a Fool 2013">Shaqtin' a Fool 2013 </td> <td class="nbaProgramTime">8:00 PM ET</td> </tr> <tr class="nbaLast"> <td class="nbaProgramName" title="2013 Sounds of the Playoffs">2013 Sounds of the Playoffs </td> <td class="nbaProgramTime">8:30 PM ET</td> </tr> </tbody> </table> <a href="http://www.nba.com/nbatv/schedule" class="nbaLinkArrow_1"> Complete Schedule </a> </div> </section> <!-- end nbatv include -->
+ <section class="nbaLast"> <div class="nbaFlex nbaSectionContent nbaNum0"> <div class="nbaSponsorArea"><!-- ADSPACE: homepage/tv_featured/spon.88x31 --><div id="ad-374997" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("374997","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=tv_featured&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div></div> <div class="nbaFlexPanel"> <h3> <a href="http://www.nba.com/history/?ls=nbahpfull4" >'The Doctor'</a> </h3> <div class="nbaFlexContent"> <a href="http://www.nba.com/history/?ls=nbahpfull4" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130529142106-julius-erving-through-years-for-history-three-pack-052913.full-flex-module.jpg" alt="Premieres June 10 at 9 ET" /></a> <h4><a href="http://www.nba.com/history/?ls=nbahpfull4" >Premieres June 10 at 9 ET</a></h4> <p>Check out some of Dr. J's best moments and be sure to catch the documentary only on NBA TV.</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fhistory%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/history/&amp;via=nba&amp;text=Premieres%20June%2010%20at%209%20ET&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe class="nbaFbLike" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.nba.com%2Fhistory%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe class="twitter-share-button" src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.nba.com/history/&amp;via=nba&amp;text=Premieres%20June%2010%20at%209%20ET&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> </section> </section> <!-- end nbatv include -->    <section id="nbaStats" class="nbaSectionRow nbaClear nbaLast"> <div class="nbaRowHeader">
+<h2>Playoffs Stats</h2> <div class="nbaSeasonName nbaSeasonStage4"></div>
+<div class="nbaSponsorship">
+<!-- ADSPACE: homepage/featured_stats/spon.88x31 --><div id="ad-244655" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("244655","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=featured_stats&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div>
+</div>
+</div>
+<section class="nbaFirst">
+<div class="nbaLeaders nbaSectionContent">
+<h3><a href="http://www.nba.com/statistics/index.html?ls=iref:nbahpstats">Playoffs Leaders</a></h3>
+<div class="nbaNonJsScroller">
+<div class="nbaLeadersInfo nbaPagerContent" id="nbaPointsLeaders" data-selectLabel="Points">
+<ul class="nbaLeadersList">
+<li>
+<a href="http://www.nba.com/playerfile/tony_parker/?ls=iref:nbahpstats">
+<div class="nbaLeadersBg nbaTeamSAS">SAS</div>
+<div class="nbaLeadersLogo nbaTeamSAS">SAS</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tony_parker.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tony_parker.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Points<br /></span> Daily Leader</li>
+<li class="nbaLeadersName">Tony Parker</li>
+<li class="nbaLeadersPoints">21</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/kevin_durant/">
+<div class="nbaLeadersBg nbaTeamOKC">OKC</div>
+<div class="nbaLeadersLogo nbaTeamOKC">OKC</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/kevin_durant.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/kevin_durant.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Points<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">1. Kevin Durant</li>
+<li class="nbaLeadersPoints">30.8</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/carmelo_anthony/">
+<div class="nbaLeadersBg nbaTeamNYK">NYK</div>
+<div class="nbaLeadersLogo nbaTeamNYK">NYK</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/carmelo_anthony.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/carmelo_anthony.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Points<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">2. Carmelo Anthony</li>
+<li class="nbaLeadersPoints">28.8</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/james_harden/">
+<div class="nbaLeadersBg nbaTeamHOU">HOU</div>
+<div class="nbaLeadersLogo nbaTeamHOU">HOU</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/james_harden.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/james_harden.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Points<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">3. James Harden</li>
+<li class="nbaLeadersPoints">26.3</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/lebron_james/">
+<div class="nbaLeadersBg nbaTeamMIA">MIA</div>
+<div class="nbaLeadersLogo nbaTeamMIA">MIA</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/lebron_james.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/lebron_james.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Points<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">4. LeBron James</li>
+<li class="nbaLeadersPoints">25.7</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/stephen_curry/">
+<div class="nbaLeadersBg nbaTeamGSW">GSW</div>
+<div class="nbaLeadersLogo nbaTeamGSW">GSW</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/stephen_curry.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/stephen_curry.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Points<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">5. Stephen Curry</li>
+<li class="nbaLeadersPoints">23.4</li>
+</ul>
+</a>
+</li>
+</ul>
+</div> <!-- nbaLeadersInfo -->
+<div class="nbaLeadersInfo nbaPagerContent" id="nbaReboundsLeaders" data-selectLabel="Rebounds">
+<ul class="nbaLeadersList">
+<li>
+<a href="http://www.nba.com/playerfile/lebron_james/?ls=iref:nbahpstats">
+<div class="nbaLeadersBg nbaTeamMIA">MIA</div>
+<div class="nbaLeadersLogo nbaTeamMIA">MIA</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/lebron_james.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/lebron_james.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Rebounds<br /></span> Daily Leader</li>
+<li class="nbaLeadersName">LeBron James</li>
+<li class="nbaLeadersPoints">18</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/kevin_garnett/">
+<div class="nbaLeadersBg nbaTeamBOS">BOS</div>
+<div class="nbaLeadersLogo nbaTeamBOS">BOS</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/kevin_garnett.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/kevin_garnett.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Rebounds<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">1. Kevin Garnett</li>
+<li class="nbaLeadersPoints">13.7</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/reggie_evans/">
+<div class="nbaLeadersBg nbaTeamBKN">BKN</div>
+<div class="nbaLeadersLogo nbaTeamBKN">BKN</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/reggie_evans.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/reggie_evans.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Rebounds<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">2. Reggie Evans</li>
+<li class="nbaLeadersPoints">12.3</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/pau_gasol/">
+<div class="nbaLeadersBg nbaTeamLAL">LAL</div>
+<div class="nbaLeadersLogo nbaTeamLAL">LAL</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/pau_gasol.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/pau_gasol.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Rebounds<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">3. Pau Gasol</li>
+<li class="nbaLeadersPoints">11.5</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/omer_asik/">
+<div class="nbaLeadersBg nbaTeamHOU">HOU</div>
+<div class="nbaLeadersLogo nbaTeamHOU">HOU</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/omer_asik.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/omer_asik.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Rebounds<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">4. Omer Asik</li>
+<li class="nbaLeadersPoints">11.2</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/andrew_bogut/">
+<div class="nbaLeadersBg nbaTeamGSW">GSW</div>
+<div class="nbaLeadersLogo nbaTeamGSW">GSW</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/andrew_bogut.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/andrew_bogut.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Rebounds<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">5. Andrew Bogut</li>
+<li class="nbaLeadersPoints">10.9</li>
+</ul>
+</a>
+</li>
+</ul>
+</div> <!-- nbaLeadersInfo -->
+<div class="nbaLeadersInfo nbaPagerContent" id="nbaAssistsLeaders" data-selectLabel="Assists">
+<ul class="nbaLeadersList">
+<li>
+<a href="http://www.nba.com/playerfile/lebron_james/?ls=iref:nbahpstats">
+<div class="nbaLeadersBg nbaTeamMIA">MIA</div>
+<div class="nbaLeadersLogo nbaTeamMIA">MIA</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/lebron_james.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/lebron_james.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Assists<br /></span> Daily Leader</li>
+<li class="nbaLeadersName">LeBron James</li>
+<li class="nbaLeadersPoints">10</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/deron_williams/">
+<div class="nbaLeadersBg nbaTeamBKN">BKN</div>
+<div class="nbaLeadersLogo nbaTeamBKN">BKN</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/deron_williams.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/deron_williams.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Assists<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">1. Deron Williams</li>
+<li class="nbaLeadersPoints">8.4</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/stephen_curry/">
+<div class="nbaLeadersBg nbaTeamGSW">GSW</div>
+<div class="nbaLeadersLogo nbaTeamGSW">GSW</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/stephen_curry.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/stephen_curry.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Assists<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">2. Stephen Curry</li>
+<li class="nbaLeadersPoints">8.1</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/ty_lawson/">
+<div class="nbaLeadersBg nbaTeamDEN">DEN</div>
+<div class="nbaLeadersLogo nbaTeamDEN">DEN</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/ty_lawson.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/ty_lawson.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Assists<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">3. Ty Lawson</li>
+<li class="nbaLeadersPoints">8.0</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/mike_conley/">
+<div class="nbaLeadersBg nbaTeamMEM">MEM</div>
+<div class="nbaLeadersLogo nbaTeamMEM">MEM</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/mike_conley.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/mike_conley.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Assists<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">4. Mike Conley</li>
+<li class="nbaLeadersPoints">7.1</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/tony_parker/">
+<div class="nbaLeadersBg nbaTeamSAS">SAS</div>
+<div class="nbaLeadersLogo nbaTeamSAS">SAS</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tony_parker.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tony_parker.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Assists<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">4. Tony Parker</li>
+<li class="nbaLeadersPoints">7.1</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+</ul>
+</div> <!-- nbaLeadersInfo -->
+<div class="nbaLeadersInfo nbaPagerContent" id="nbaStealsLeaders" data-selectLabel="Steals">
+<ul class="nbaLeadersList">
+<li>
+<a href="http://www.nba.com/playerfile/chris_bosh/?ls=iref:nbahpstats">
+<div class="nbaLeadersBg nbaTeamMIA">MIA</div>
+<div class="nbaLeadersLogo nbaTeamMIA">MIA</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/chris_bosh.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/chris_bosh.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Steals<br /></span> Daily Leader</li>
+<li class="nbaLeadersName">Chris Bosh</li>
+<li class="nbaLeadersPoints">3</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/monta_ellis/">
+<div class="nbaLeadersBg nbaTeamMIL">MIL</div>
+<div class="nbaLeadersLogo nbaTeamMIL">MIL</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/monta_ellis.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/monta_ellis.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Steals<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">1. Monta Ellis</li>
+<li class="nbaLeadersPoints">2.50</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/brandon_jennings/">
+<div class="nbaLeadersBg nbaTeamMIL">MIL</div>
+<div class="nbaLeadersLogo nbaTeamMIL">MIL</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/brandon_jennings.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/brandon_jennings.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Steals<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">2. Brandon Jennings</li>
+<li class="nbaLeadersPoints">2.25</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/tony_allen/">
+<div class="nbaLeadersBg nbaTeamMEM">MEM</div>
+<div class="nbaLeadersLogo nbaTeamMEM">MEM</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tony_allen.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tony_allen.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Steals<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">3. Tony Allen</li>
+<li class="nbaLeadersPoints">2.00</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/james_harden/">
+<div class="nbaLeadersBg nbaTeamHOU">HOU</div>
+<div class="nbaLeadersLogo nbaTeamHOU">HOU</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/james_harden.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/james_harden.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Steals<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">3. James Harden</li>
+<li class="nbaLeadersPoints">2.00</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/andre_iguodala/">
+<div class="nbaLeadersBg nbaTeamDEN">DEN</div>
+<div class="nbaLeadersLogo nbaTeamDEN">DEN</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/andre_iguodala.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/andre_iguodala.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Steals<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">3. Andre Iguodala</li>
+<li class="nbaLeadersPoints">2.00</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+</ul>
+</div> <!-- nbaLeadersInfo -->
+<div class="nbaLeadersInfo nbaPagerContent" id="nbaBlocksLeaders" data-selectLabel="Blocks">
+<ul class="nbaLeadersList">
+<li>
+<a href="http://www.nba.com/playerfile/tim_duncan/?ls=iref:nbahpstats">
+<div class="nbaLeadersBg nbaTeamSAS">SAS</div>
+<div class="nbaLeadersLogo nbaTeamSAS">SAS</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tim_duncan.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/tim_duncan.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Blocks<br /></span> Daily Leader</li>
+<li class="nbaLeadersName">Tim Duncan</li>
+<li class="nbaLeadersPoints">3</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/serge_ibaka/">
+<div class="nbaLeadersBg nbaTeamOKC">OKC</div>
+<div class="nbaLeadersLogo nbaTeamOKC">OKC</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/serge_ibaka.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/serge_ibaka.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Blocks<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">1. Serge Ibaka</li>
+<li class="nbaLeadersPoints">3.00</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/brook_lopez/">
+<div class="nbaLeadersBg nbaTeamBKN">BKN</div>
+<div class="nbaLeadersLogo nbaTeamBKN">BKN</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/brook_lopez.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/brook_lopez.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Blocks<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">1. Brook Lopez</li>
+<li class="nbaLeadersPoints">3.00</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/marc_gasol/">
+<div class="nbaLeadersBg nbaTeamMEM">MEM</div>
+<div class="nbaLeadersLogo nbaTeamMEM">MEM</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/marc_gasol.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/marc_gasol.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Blocks<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">3. Marc Gasol</li>
+<li class="nbaLeadersPoints">2.20</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/joakim_noah/">
+<div class="nbaLeadersBg nbaTeamCHI">CHI</div>
+<div class="nbaLeadersLogo nbaTeamCHI">CHI</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/joakim_noah.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/joakim_noah.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Blocks<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">4. Joakim Noah</li>
+<li class="nbaLeadersPoints">2.17</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/dwight_howard/">
+<div class="nbaLeadersBg nbaTeamLAL">LAL</div>
+<div class="nbaLeadersLogo nbaTeamLAL">LAL</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/dwight_howard.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/dwight_howard.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">Blocks<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">5. Dwight Howard</li>
+<li class="nbaLeadersPoints">2.00</li>
+</ul>
+</a>
+</li>
+</ul>
+</div> <!-- nbaLeadersInfo -->
+<div class="nbaLeadersInfo nbaPagerContent" id="nba3PointersLeaders" data-selectLabel="3-Pointers">
+<ul class="nbaLeadersList">
+<li>
+<a href="http://www.nba.com/playerfile/daniel_green/?ls=iref:nbahpstats">
+<div class="nbaLeadersBg nbaTeamSAS">SAS</div>
+<div class="nbaLeadersLogo nbaTeamSAS">SAS</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/daniel_green.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/daniel_green.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">3-Pointers<br /></span> Daily Leader</li>
+<li class="nbaLeadersName">Danny Green</li>
+<li class="nbaLeadersPoints">4</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/stephen_curry/">
+<div class="nbaLeadersBg nbaTeamGSW">GSW</div>
+<div class="nbaLeadersLogo nbaTeamGSW">GSW</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/stephen_curry.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/stephen_curry.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">3-Pointers<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">1. Stephen Curry</li>
+<li class="nbaLeadersPoints">3.5</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/francisco_garcia/">
+<div class="nbaLeadersBg nbaTeamHOU">HOU</div>
+<div class="nbaLeadersLogo nbaTeamHOU">HOU</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/francisco_garcia.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/francisco_garcia.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">3-Pointers<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">2. Francisco Garcia</li>
+<li class="nbaLeadersPoints">2.8</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/chandler_parsons/">
+<div class="nbaLeadersBg nbaTeamHOU">HOU</div>
+<div class="nbaLeadersLogo nbaTeamHOU">HOU</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/chandler_parsons.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/chandler_parsons.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">3-Pointers<br /></span> Playoffs Leader <sup></sup></li>
+<li class="nbaLeadersName">3. Chandler Parsons</li>
+<li class="nbaLeadersPoints">2.7</li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/steve_blake/">
+<div class="nbaLeadersBg nbaTeamLAL">LAL</div>
+<div class="nbaLeadersLogo nbaTeamLAL">LAL</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/steve_blake.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/steve_blake.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">3-Pointers<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">4. Steve Blake</li>
+<li class="nbaLeadersPoints">2.5</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+<li>
+<a href="http://www.nba.com/playerfile/james_harden/">
+<div class="nbaLeadersBg nbaTeamHOU">HOU</div>
+<div class="nbaLeadersLogo nbaTeamHOU">HOU</div>
+<img class="nbaLeadersPhoto nbaDelayedImgLoad" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/global/no.png" data-src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/james_harden.png" alt="" />
+<noscript><img class="nbaLeadersPhoto" src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/sect/statscube/players/large/james_harden.png" alt="" /></noscript>
+<ul class="nbaLeadersDetails">
+<li class="nbaLeadersType"><span class="nbaNoJsAssist">3-Pointers<br /></span> Playoffs Leader <sup>*</sup></li>
+<li class="nbaLeadersName">4. James Harden</li>
+<li class="nbaLeadersPoints">2.5</li>
+<li><p class="nbaLeadersTie">* indicates tie</p></li>
+</ul>
+</a>
+</li>
+</ul>
+</div> <!-- nbaLeadersInfo -->
+</div>
+</div> <!-- nbaNonJsScroller -->
+</section>
+<!-- end stats include --> <section>
+<div class="nbaStandings nbaSectionContent">
+<h3><a href="http://www.nba.com/standings/team_record_comparison/conferenceNew_Std_Div.html?ls=iref:nbahpstand">Bracket</a></h3>
+<div class="nbaSponsorArea">
+<!-- ADSPACE: homepage/standings/spon.88x31 --><div id="ad-969069" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("969069","http://ads.nba.com/html.ng/site=nba&nba_pos=88x31_spon&nba_rollup=homepage&nba_section=standings&page.allowcompete=yes&params.styles=fs","31","88");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div>
+</div>
+<div id="playoffsBracketLink">
+<a href="/playoffs/">
+<img src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/bracket-promo.jpg" style="width:280px; height:200px;" />
+</a>
+<a href="/playoffs/" class="nbaLinkArrow_1" style="position: relative; top:-10px;float:right; margin-right:5px;"> Complete Bracket </a>
+</div>
+</div>
+</section> <section class="nbaLast"> <div class="nbaFlex nbaSectionContent nbaNum0"> <div class="nbaSponsorArea"></div> <div class="nbaFlexPanel"> <h3> <a href="http://bit.ly/11lisjM?ls=nbahpfull5" >NBA.com/Stats</a> </h3> <div class="nbaFlexContent"> <a href="http://bit.ly/11lisjM?ls=nbahpfull5" class="nbaThumbnail"><img src="http://i2.cdn.turner.com/nba/nba/dam/assets/130606232152-tim-duncan-emotion-game-1-finals.full-flex-module.jpg" alt="Closer look at Game 1" /></a> <h4><a href="http://bit.ly/11lisjM?ls=nbahpfull5" >Closer look at Game 1</a></h4> <p>We examine all the statistics from the Spurs' impressive Game 1 victory over LeBron and Co.</p> <div class="nbaSocial"> <!--[if !IE]><!--> <div class="nbaFbLike"> <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fbit.ly%2F11lisjM&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=164914533589201"></iframe> </div> <div class="twitter-share-button"> <iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://bit.ly/11lisjM&amp;via=nba&amp;text=Closer%20look%20at%20Game%201&amp;count=none"></iframe> </div> <!--<![endif]--> <!--[if IE]> <div class="nbaFbLike"> <iframe class="nbaFbLike" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fbit.ly%2F11lisjM&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=164914533589201" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <div class="twitter-share-button"> <iframe class="twitter-share-button" src="//platform.twitter.com/widgets/tweet_button.html?url=http://bit.ly/11lisjM&amp;via=nba&amp;text=Closer%20look%20at%20Game%201&amp;count=none" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" style="border:none; overflow:hidden;"></iframe> </div> <![endif]--> </div> </div> </div> </div> </section> </section> <!-- end stats include -->   <esi:text> <!-- begin footer include --> <footer id="nbaFooter"> <div class="nbaContainer"> <section id="nbaHomepageFooter"> <div class="nbaRow nbaClear"> <div class="nbaInside"> <h3>Inside NBA.com</h3> <ul> <li class="nbaFirst "> <a href="/video/channels/playoffs/2013/06/07/finals-game1-micromovie.nba/index.html" class="nbaLinkWatch"> Finals Game 1 Micro-Movie: Parker's big moment </a> </li> <li class=" "> <a href="/news/2013-consensus-mock-draft/index.html" class=""> Consensus Mock Draft: Muhammad tough call </a> </li> <li class=" "> <a href="http://hangtime.blogs.nba.com/category/podcast/" class=""> Hang Time Podcast: What's next for the Grizz? </a> </li> <li class=" "> <a href="/video/channels/playoffs/2013/05/30/sas-mem-series-recap.nba/index.html" class="nbaLinkWatch"> Spurs sweep Grizz, punch ticket to NBA Finals </a> </li> <li class=" "> <a href="/video/channels/playoffs/2013/05/25/20130524-east-minimovie.nba/index.html" class="nbaLinkWatch"> All-Access: Closer look at the East playoffs </a> </li> <li class=" "> <a href="http://www.nba.com/freeagents/2013/" class=""> Free Agent Tracker: Who's available this summer? </a> </li> <li class=" "> <a href="/2013/news/05/29/first-mock-draft-howard-cooper-desktop/index.html" class=""> NBA Mock Draft: Who goes first in our first list? </a> </li> <li class=" "> <a href="http://www.nba.com/dunk-ladder/" class=""> Dunk Ladder: Jordan's posterizer takes No. 1 spot </a> </li> <li class=" "> <a href="http://www.nba.com/draft" class=""> 2013 NBA Draft: Get ready for the big day </a> </li> <li class=" nbaLast"> <a href="http://allball.blogs.nba.com/category/the-horry-scale/" class=""> Horry Scale: Relive all the season's best shots </a> </li> </ul> </div> <div class="nbaSponsored"> <h3>Featured</h3> <ul> <li> <!-- ADSPACE: homepage/spon1.300x100 --><div id="ad-773085" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("773085","http://ads.nba.com/html.ng/site=nba&nba_pos=300x100_spon1&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","100","300");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </li> <li> <!-- ADSPACE: homepage/spon2.300x100 --><div id="ad-884856" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("884856","http://ads.nba.com/html.ng/site=nba&nba_pos=300x100_spon2&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","100","300");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </li> <li> <!-- ADSPACE: homepage/spon3.300x100 --><div id="ad-581513" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cnnad_createAd("581513","http://ads.nba.com/html.ng/site=nba&nba_pos=300x100_spon3&nba_rollup=homepage&page.allowcompete=yes&params.styles=fs","100","300");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></div> </li> </ul> </div> 
+
+
+
+
+
+<div class="nbaSplit nbaLast">
+	<div class="nbaNews">
+		<h3>Around the League</h3>
+		<ul>
+				<li class="nbaFirst"><span class="nbaTwoLiner"><a href="						http://www.nba.com/cares/tornadorelief.html
+" class="">NBA Cares: Oklahoma City tornado relief</a></span></li>
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/tickets/tix.html
+" class="">NBATickets.com: Official Ticket Marketplace </a></span></li>
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/official/
+" class="">NBA Official: Making the Call (Watch)</a></span></li>
+				<li class=""><span class="nbaTwoLiner"><a href="						https://twitter.com/nbahistory
+" class="">@NBAHistory: The History and Tradition of the NBA</a></span></li>
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.facebook.com/nba
+" class="">Facebook/NBA: Connect With the NBA</a></span></li>
+				<li class="nbaLast"><span class="nbaTwoLiner"><a href="						http://www.wnba.com/inspirewall/
+" class="">Check Out the WNBA Inspire Wall</a></span></li>
+		</ul>
+	</div>
+	<div class="nbaNews nbaLast">
+		<h3>NBA Teams</h3>
+		<ul>
+				
+				<li class="nbaFirst"><span class="nbaTwoLiner"><a href="						http://www.nba.com/spurs/features/130313_rodriguez_joseph
+" class="">Spurs.com: Pop, Can I Go to the D-League?</a></span></li>
+				
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/timberwolves/news/all-access-ricky-rubios-get-closer-commercial
+" class="">Wolves.com: All-Access Rubio Commercial Shoot</a></span></li>
+				
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/celtics/news/sidebar/pierce-kg-enjoy-milestone-night-together
+" class="">Celtics.com: Pierce, KG Enjoy Hit Milestones</a></span></li>
+				
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/bulls/news/smith_130318.html
+" class="">Bulls.com: Could Heat Be Best Ever?</a></span></li>
+				
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/nuggets/features/marlowe-george-karl-making-case-coach-year
+" class="">Nuggets.com: Karl Making Case for COY</a></span></li>
+				
+				<li class=""><span class="nbaTwoLiner"><a href="						http://www.nba.com/lakers/news/130311_earl_clark
+" class="">Lakers.com: One-on-One with Earl Clark</a></span></li>
+				
+				<li class="nbaLast"><span class="nbaTwoLiner"><a href="						http://www.nba.com/magic/news/denton-harkless-earning-trust-vaughn-teammates
+" class="">Magic.com: Harkless Earning Trust</a></span></li>
+		</ul>
+	</div>
+</div>
+
+
+
+ </div> <div class="nbaRow nbaClear nbaLast"> <div class="nbaPersonalities"> <h3>Personalities</h3> <ul> <li> <img class="nbaThumbnail" src="http://i2.cdn.turner.com/nba/nba/dam/assets//121015062924-aldridge-thumbnail-hp-personality-module.jpg" alt="CharlesBarkley.com" /> <div class="nbaContainer"> <a href="http://www.nba.com/2013/news/features/david_aldridge/05/27/morning-tip-larry-bird-absent-during-pacers-playoff-run-nbpa-news-roy-hibbert-q-and-a/index.html"><h3>The Morning Tip</h3></a> <a href="http://www.nba.com/2013/news/features/david_aldridge/05/27/morning-tip-larry-bird-absent-during-pacers-playoff-run-nbpa-news-roy-hibbert-q-and-a/index.html"><p> David Aldridge reports insider news from around the league. </p></a> </div> </li> <li> <img class="nbaThumbnail" src="http://i2.cdn.turner.com/nba/nba/dam/assets//121015063424-barkley-thumbnail-hp-personality-module.jpg" alt="CharlesBarkley.com" /> <div class="nbaContainer"> <a href="http://charlesbarkley.com/"><h3>CharlesBarkley.com</h3></a> <a href="http://charlesbarkley.com/"><p> Can't get enough Chuck&#63; Take his blog for a spin. </p></a> </div> </li> <li> <img class="nbaThumbnail" src="http://i2.cdn.turner.com/nba/nba/dam/assets//130225121225-shaq-hp-personality-module.hp-personality-module.jpg" alt="CharlesBarkley.com" /> <div class="nbaContainer"> <a href="http://www.nba.com/fool"><h3>Shaqtin' A Fool</h3></a> <a href="http://www.nba.com/fool"><p> Shaq counts down the Best of the Worst in the NBA. </p></a> </div> </li> </ul> </div> <div class="nbaPersonalize"> <h3>Personalize Your NBA.com Experience</h3> <div class="nbaContent"> <span class="nbaThumbnail"> <img alt="Personalize your NBA Experience" src="http://i.cdn.turner.com/nba/tmpl_asset/static/nba-cms3-homepage/1296/elements/footer/personalize-experience.jpg" /> </span> <h4>The NBA on Facebook</h4> <p>Connect with Facebook and "like" your favorite team to get personalized news, videos and features exclusively on NBA.com.</p> <a href="#" data-fbvalue="thirdButton" class="nbaFacebookConnect nbaAllAccessOverlayTrigger" title="Connect with Facebook">Connect with Facebook</a> </div> </div> 
+
+
+
+
+
+
+
+
+<div class="nbaLast nbaSplit">
+	<div class="nbaWnba">
+		<h3>WNBA</h3>
+		
+		<a href="				http://www.wnba.com/
+" class="nbaThumbnail ">
+			<img alt="delle donne wnba debut" src="http://i2.cdn.turner.com/nba/nba/dam/assets/130527193139-delle-donne-wnba-debut.split-flex-module.jpg" />
+		</a>
+		<div class="nbaContent">
+			<h4><a href="				http://www.wnba.com/
+">Back To Work</a></h4>
+			<p>					The 2012-13 WNBA regular season is back. Don't miss the highly anticipated  '3 To See!'	
+</p>
+		</div>
+		<ul class="nbaBullets">
+					<li><a href="http://www.wnba.com/news/preview_index_2013.html">Season Preview</a></li>
+		</ul>
+	</div>
+	
+	<div class="nbaDLeague nbaLast">
+		
+		<h3>NBA D-League</h3>
+		
+		<a href="				http://www.nba.com/dleague/news/playoffs_hub_2013.html
+" class="nbaThumbnail ">
+			<img alt="rio grande dleague final" src="http://i2.cdn.turner.com/nba/nba/dam/assets/130427231306-rio-grande-dleague-final.split-flex-module.jpg" />
+		</a>
+		<div class="nbaContent">
+			<h4><a href="				http://www.nba.com/dleague/news/playoffs_hub_2013.html
+">Grande Finale</a></h4>
+			<p>					The Rio Grande Valley Vipers are the 2012-13 NBA D-League champions.	
+</p>
+		</div>
+		<ul class="nbaBullets">
+					<li><a href="http://www.nba.com/dleague/prospectwatch/">Prospect Watch</a></li>
+		</ul>
+		
+	</div>
+</div>
+
+ </div> </section> <div class="nbaRow nbaClear"> <nav id="nbaFooterNav"> <div class="nbaSplit"> <ul> <li> <h3>About</h3> <ul> <li><a href="http://www.nba.com/about/game.html">About the NBA</a></li> <li><a href="http://www.nba.com/email_us/">Contact Us</a></li> <li><a href="http://www.nba.com/careers/">Career Opportunities</a></li> <li><a href="http://www.nba.com/news/closed_captioning.html">Closed Captioning</a></li> <li><a href="http://tsed.turner.com/nba">Advertise on NBA.com</a></li> <li><a href="http://www.nba.com/news/important-dates/index.html">Important Dates</a></li> </ul> </li> </ul> <ul class="nbaLast"> <li> <h3>NBA</h3> <ul> <li><a href="http://www.wnba.com">WNBA</a></li> <li><a href="http://www.nba.com/dleague/">NBA D-League</a></li> <li><a href="http://www.nba.com/enebea/">Ene-be-a</a></li> <li><a href="http://www.NBATickets.com" target="_blank">NBATickets.com</a></li> <li><a href="http://www.nbpa.org/">NBPA</a></li> <li><a href="http://www.ihoops.com/">USA Basketball Youth</a></li> <li><a href="http://www.nba.com/nbacity/">NBA City Restaurant</a></li> <li><a href="http://www.nba.com/nycstore/">NYC Store</a></li> </ul> </li> </ul> </div> <div class="nbaSplit"> <ul> <li> <h3>Events</h3> <ul> <li><a href="http://www.nba.com/playoffs/">2013 NBA Playoffs</a></li> <li><a href="http://www.nba.com/draft/">2013 NBA Draft</a></li> <li><a href="http://www.nba.com/allstar/">2013 All-Star</a></li> <li><a href="http://www.nba.com/halloffame/">2013 Hall of Fame</a></li> <li><a href="http://www.nba.com/summerleague">2013 Summer League</a></li> </ul> </li> </ul> <ul class="nbaLast"> <li> <h3>NBA 101</h3> <ul> <li><a href="http://www.nba.com/official/">NBA Official</a></li> <li><a href="http://www.nba.com/history">History</a></li> <li><a href="http://www.nba.com/nba101">Rules of the Game</a></li> <li><a href="http://www.nba.com/news/officiating">Officials &amp; Rulebook</a></li> <li><a href="http://www.nba.com/videorulebook">Video Rulebook</a></li> <li><a href="http://www.nba.com/news/transactions/nba.guide/index.html">NBA Guide</a></li> <li><a href="http://www.nba.com/news/transactions/nba.register/index.html">NBA Register</a></li> </ul> </li> </ul> </div> <div class="nbaSplit nbaLast"> <ul> <li> <h3>NBA Initiatives</h3> <ul> <li><a href="http://www.nba.com/nbanation/">NBA Nation</a></li> <li><a href="http://www.nba.com/jamsession/">Jam Session</a></li> <li><a href="http://www.nba.com/nba_cares/">NBA Cares</a></li> <li><a href="http://www.nba.com/green">NBA Green</a></li> <li><a href="http://www.nba.com/nbafit/">NBA FIT</a></li> <li><a href="http://www.nba.com/bwb/">Basketball Without Borders</a></li> <li><a href="http://www.nba.com/allstarvendordiversity/">All-Star Vendor Diversity</a></li> <li><a href="http://www.nbahooptroop.com/">NBA Kids</a></li> </ul> </li> </ul> <ul class="nbaLast"> <li> <h3>All-Access</h3> <ul> <li><a href="http://www.nba.com/allaccess">Member Center</a></li> <li><a href="http://www.nba.com/leaguepass/index.html">NBA LEAGUE PASS</a></li> <li><a href="http://www.nba.com/fantasy">Fantasy Games</a></li> <li><a href="http://www.nba.com/allaccess/shop.html">NBA Deals and Discounts</a></li> <li><a href="http://www.nba.com/hoop/hoop_archives_2009_08_28.html">HOOP Magazine</a></li> </ul> </li> </ul> </div> </nav> </div> <!-- BEGIN: SiteCatalyst code version: H.20.3. --> <script language="JavaScript" type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.element/js/2.0/global/omniture/s_code.js"></script> <script> w.nbaOmHPT1 = "hp:p3:v1"; /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ var s_code=s.t();if(s_code)document.write(s_code); if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-'); </script> <noscript> <a href="http://www.nba.com/" title="NBA.com"><img src="http://metrics.nba.com/b/ss/nbag-n-league/1/H.20.3--NS/0" height="1" width="1" alt="" /></a> </noscript> <!-- END: SiteCatalyst code version: H.20.3. --> <!-- START Nielsen Online SiteCensus V6.0 --> <!-- COPYRIGHT 2010 Nielsen Online --> <script> (function () { var d = new Image(1, 1); d.onerror = d.onload = function () { d.onerror = d.onload = null; }; d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-204044h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join(''); })(); </script> <noscript> <div> <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-204044h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /> </div> </noscript> <!-- END Nielsen Online SiteCensus V6.0 --> <div class="nbaLegal"> <p> Copyright &copy; 2013 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form. By accessing any information beyond this page, you agree to abide by the <a href="/news/privacy_policy.html">Privacy Policy</a> / <a href="/news/privacy_policy.html#priv11">Your California Privacy Rights</a> and <a href="/news/termsofuse.html">Terms of Use</a>. <span class="nbaAdInfo">&bull; <a href="/adchoices/" class="nbaAdChoices">Ad Choices</a> | <a href="http://tsed.turner.com/nba">Advertise on NBA.com</a> | <a href="/help/site_faq.html">NBA.com Help</a> | <a href="/help/fan_relations_faq.html">Fan Relations FAQ</a> | <a href="/careers/">Career Opportunities</a></span> </p> <p> <span class="nbaTurnerLogo">Turner</span> </p> <p><a href="/">NBA.com</a> is part of Turner Sports Digital, part of the Turner Sports & Entertainment Digital Network.</p> </div> </div> </footer> <script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script> <script> /*ADM*/ cnnad_sendADMData(); /*UGD*/ cnnad_ugsync(); </script> <!-- end footer include -->  </div> </body> </html> <!-- end footer include --> </esi:text> </div> </body> </html>

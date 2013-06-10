@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="tooltip.css" />
 
 <body>	
 
 	<div id="display"></div>
 
-	<div id="toolTip">
-		Name: <span id="playerName"></span>
+	<div id="tooltip">
+		<div id="tooltipTop">
+			<div id="tooltipTopLeft">
+				<div id="pName"></div>
+				<div id="pText">
+					<div class="sumLine">
+						Picked <span id="pNum" class="boldNum"></span> by <span id="pTeam" class="boldNum"></span>.
+					</div>
+					<div class="sumLine">
+						Ranked <span id="pRank" class="boldNum"></span> from <span id="pYear" class="boldNum"></span>
+					</div>
+				</div>
+			</div>
+
+			<div id="tooltipTopRight">
+				<img id="tooltipImg" src="thumbnails/awtrede01.jpg">
+			</div>
+		</div>
+
+		<div id="tooltipBot">
+
+		</div>
 	</div>
 
 

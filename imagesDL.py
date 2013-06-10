@@ -13,7 +13,7 @@ params = {'ImageFilters':'"Face:Face+Aspect:Square"',
 
 r = bing.search('image', 'Tim Duncan nba', params)
 
-with open('imgSearchResults.json') as data_file2:    
+with open('imgSearchResult.json') as data_file2:    
 	imgSearchResults = json.load(data_file2)
 
 with open('webpage/drafts.json') as data_file:    
@@ -34,10 +34,10 @@ for draft in drafts:
 
 		except Exception, e:
 			print e
-			with open('imgSearchResults.json', 'w') as outfile:
+			with open('imgSearchResult.json', 'w') as outfile:
 				json.dump(imgSearchResults, outfile)
 			print "!!!!" + key + "!!!!"
 			sleep(10)
 
-with open('imgSearchResults.json', 'w') as outfile:
+with open('imgSearchResult.json', 'w') as outfile:
 	json.dump(imgSearchResults, outfile)

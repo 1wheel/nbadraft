@@ -1,0 +1,1443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="http://21stcenturyfinancialeducationsummit.com/wp-content/themes/custom-fes/style.css" type="text/css" />
+
+<link rel="apple-touch-icon" href="http://21stcenturyeducation.com.au/images/apple-icons/apple-touch-icon-fes.PNG"/>
+<link rel="stylesheet" href="http://21stcenturyeducation.com.au/add2home.css">
+<script type="application/javascript" src="http://21stcenturyeducation.com.au/add2home.js"></script>
+
+
+<link rel="alternate" type="application/rss+xml" title="21st Century Financial Education Summit &raquo; Feed" href="http://21stcenturyfinancialeducationsummit.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="21st Century Financial Education Summit &raquo; Comments Feed" href="http://21stcenturyfinancialeducationsummit.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="21st Century Financial Education Summit &raquo; Home Comments Feed" href="http://21stcenturyfinancialeducationsummit.com/home/feed/" />
+<link rel='stylesheet' id='touchcarousel-frontend-css-css'  href='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/touchcarousel/touchcarousel/touchcarousel.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='touchcarousel-skin-minimal-light-css'  href='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/touchcarousel/touchcarousel/minimal-light-skin/minimal-light-skin.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelementjs-styles-css'  href='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelementplayer.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-fancybox.css-css'  href='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/easy-fancybox/easy-fancybox.css.php?ver=1.3.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/?ver=pprjq1'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/touchcarousel/touchcarousel/jquery.touchcarousel.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wiziapp_name_space = {"ajaxurl":"http:\/\/21stcenturyfinancialeducationsummit.com\/wp-admin\/admin-ajax.php","home_url":"http:\/\/21stcenturyfinancialeducationsummit.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/wiziapp-create-your-own-native-iphone-app/themes/webapp/scripts/wiziapp.js?ver=2.0.3'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelement-and-player.min.js?ver=2.1.3'></script>
+<link rel='next' title='Media' href='http://21stcenturyfinancialeducationsummit.com/media/' />
+<link rel='canonical' href='http://21stcenturyfinancialeducationsummit.com/' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9902208-11']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<title>21st Century Financial Education Summit</title><meta name='description' content=''/><meta name='keywords' content='' />	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css">
+		.touchcarousel.tc-layout-4 .touchcarousel-item {
+	width: 170px;
+	min-height: 170px;
+	margin: 5px 0px 0px 20px;
+	position: relative;
+	overflow: hidden;
+	background: #efefef;
+
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item p {
+	margin: 0;
+	padding: 0;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item a.tc-state{
+	display: block;
+	width: 170px;
+	min-height: 170px;
+	position: relative;
+	text-decoration: none;
+	color: #333;
+	
+	-webkit-transition: color 0.2s ease-out; 
+    -moz-transition: color 0.2s ease-out;  
+    -ms-transition: color 0.2s ease-out; 
+    -o-transition: color 0.2s ease-out; 
+    transition: color 0.2s ease-out;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item img {
+    width: 170px;
+	border: 0;
+	margin: 0px auto;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item img,
+.touchcarousel.tc-layout-4 .touchcarousel-item h4,
+.touchcarousel.tc-layout-4 .touchcarousel-item span {
+	position: relative;
+	margin: 0;
+	padding: 0;	
+	border: 0;			
+}
+.touchcarousel.tc-layout-4 .tc-block {
+	margin: 0 4px 3px 8px
+}
+
+.touchcarousel.tc-layout-4 .touchcarousel-item h4 {
+	font-size: 12px;
+	line-height: normal;
+	padding: 5px 0 0 0;
+	text-decoration: none;
+	font-family: 'Helvetica Neue', Arial, serif;
+	
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item a.tc-state:hover {
+	color: #13937a;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item span {
+	font-size: 12px;
+	color: #666;
+}
+
+		</style>
+		
+<!-- Easy FancyBox 1.3.4.9 using FancyBox 1.3.4 - RavanH (http://4visions.nl/en/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready(function($){
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'centerOnScroll' : true, 'showCloseButton' : true, 'showNavArrows' : true, 'onCleanup' : function() { if(fb_timeout) { window.clearTimeout(fb_timeout); fb_timeout = null; } } };
+/* IMG */
+var fb_IMG_select = 'a[href$=".jpg"]:not(.nofancybox),a[href$=".JPG"]:not(.nofancybox),a[href$=".gif"]:not(.nofancybox),a[href$=".GIF"]:not(.nofancybox),a[href$=".png"]:not(.nofancybox),a[href$=".PNG"]:not(.nofancybox)';
+$(fb_IMG_select).addClass('fancybox').attr('rel', 'gallery');
+$('a.fancybox, area.fancybox').fancybox( $.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'titleShow' : false, 'titlePosition' : 'over', 'titleFromAlt' : true }) );
+/* YouTube */
+$('a[href*="youtube.com/"]:not(.nofancybox)').addClass('fancybox-youtube');
+$('a[href*="youtu.be/"]:not(.nofancybox)').addClass('fancybox-youtube');
+$('a.fancybox-youtube, area.fancybox-youtube').fancybox( $.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 640, 'height' : 390, 'padding' : 0, 'autoScale' : false, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('youtu.be', 'i'), 'www.youtube.com/embed').replace(new RegExp('watch\\?v=([a-z0-9\_\-]+)(&|\\?)?(.*)', 'i'), 'embed/$1?version=3&$3') } }) );
+/* iFrame */
+$('a.fancybox-iframe, li.fancybox-iframe a, area.fancybox-iframe, li.fancybox-iframe a').fancybox( $.extend({}, fb_opts, { 'type' : 'iframe', 'width' : '70%', 'height' : '90%', 'padding' : 0, 'scrolling' : 'auto', 'autoScale' : false, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true }) );
+/* Auto-click */ 
+$('#fancybox-auto').trigger('click');
+});
+/* ]]> */
+</script>
+<style type="text/css">.fancybox-hidden{display:none}</style>
+<script type="text/javascript" language="JavaScript"><!--
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+<script src="/wp-content/themes/custom-fes/js/scroll.js" type="text/javascript"></script>
+    </head>
+<body>
+<div id="page-wrap">
+<div id="top"><div class="countdown"><div id="swboc-3" class="widget SWBOC_Widget"><table style="width: 100%; background-color: #afabad;" border="0">
+<tbody>
+<tr>
+<td style="text-align: right;"><span style="color: #000000;"> <span style="font-size: xx-large;"><strong>ARNOLD LIVE IN&#8230;</strong></span></span></td>
+<td><div class="ujiCountdown ujic_left" id="ujiCountdown1"></div></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<div class="pad"> 
+  <div align="right"><img src="/images/callus.PNG" alt="Call us now: 1800 999 270" /><img src="/images/international.PNG" alt="International +61 03 8640 1617" /><a href="mailto:enquiries@21stca.com.au"><img alt="Email enquiries@21stca.com.au" src="/images/email.png" /></a></div>
+</div>
+<div id="navigation"><div class="menu-home-menu-container"><ul id="menu-home-menu" class="menu"><li id="menu-item-208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208"><a href="#speakers">Speakers</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213"><a href="#book">Book Now</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-210"><a href="#ticket">Pass Types</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a href="#event">Event Details</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212"><a href="#success">Success Stories</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://21stcenturyfinancialeducationsummit.com/media/">Media</a></li>
+<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="http://21stcenturyfinancialeducationsummit.com/sponsors/">Sponsors</a></li>
+<li id="menu-item-1357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1357"><a href="http://21stcenturyfinancialeducationsummit.com/faq/">FAQ</a></li>
+</ul></div></div>
+</div>
+<div id="bgwhite">
+<div id="header"><img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/03/FES_new.jpg" width="773" height="404" /></div><div id="content">
+				
+		<div class="post" id="post-4">
+			<div class="entry">
+				<style type="text/css"><!--
+.style2 {
+	font-size: 22px
+}
+--></style>
+<p><img class="aligncenter" alt="DISCOVER THE SECRETS TO SUCCESS FROM THE WORLD'S MOST SUCCESSFUL ENTREPRENEURS." src="/images/dgng9l-quotefes_4sc2hc7ec2qifb40.jpg" width="583" height="80" /></p>
+<table style="width: 100%;" border="0" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td><span class="contentpad"><a href="http://youtu.be/xQFxYMTM3BE"><img class="aligncenter" alt="2" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/3.png" width="167" height="109" /></a></span></td>
+<td><a href="http://youtu.be/6BHCduWLQrs"><img class="aligncenter" alt="2" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/2.png" width="167" height="109" /></a></td>
+<td><a href="http://youtu.be/-MDErIL60A4"><img class="aligncenter" alt="1" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1.png" width="167" height="109" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-size: medium;">Today Show</span><br />Channel 9</td>
+<td style="text-align: center;"><span style="font-size: medium;">Sunrise</span><br />Channel 7</td>
+<td style="text-align: center;"><span style="font-size: medium;">Today Tonight</span><br />Channel 7</td>
+</tr>
+</tbody>
+</table>
+<div> </div>
+<div class="contentpad"><iframe src="http://www.youtube.com/embed/-fUg_kD3fzQ?rel=0" height="418" width="690" allowfullscreen="" frameborder="0"></iframe></p>
+<div class="clear"> </div>
+<div class="colleft">
+<p>The 21st Century Financial Education Summit brings you world-renowned entrepreneurs, business and sports leaders, investors and educators. This year, Jamie McIntyre, CEO of 21st Century Education, is proud to announce headlining speaker Arnold Schwarzenegger. One of the world&#8217;s most successful men, Arnold has reached the top in four hugely different spheres – bodybuilding, business, acting and politics.</p>
+<p>This extraordinary event is designed to empower you to accelerate your success to the next level and achieve your ultimate lifestyle.</p>
+<p>&#8220;Arnold embodies everything that the Financial Education Summit is all about. He is motivated, inspirational, an achiever against all odds. How incredible that a young man from a small village in Austria could by the age of 21 have moved to Los Angeles and been crowned Mr Universe and within 5 years become the greatest bodybuilder of all time AND within 10 years a millionaire from business AND within 20 years the world&#8217;s biggest movie star AND 36 years later elected Governor of California, the seventh largest economy in the world. I know that tickets to see Arnold Schwarzenegger will be highly sought after&#8221; said Jamie McIntyre, CEO of 21st Century Education.</p>
+</div>
+<div class="colright">
+<div class="tickbox">
+<p class="head"><strong>What You&#8217;ll Discover At This Jam Packed Event:</strong></p>
+<ul>
+<li><strong>Leading Edge Investment Strategies</strong> Covering Everything From Trading, Property, Business, Internet Marketing and More</li>
+<li><strong>Breakthrough Mindset And Psychology Insights</strong> That Can Launch Extraordinary Personal Success For You In The Fastest Possible Time</li>
+<li><strong>The Incredible, Inspirational and Entertaining Stories</strong> of World-Renowned Entrepreneurs and Leaders</li>
+<li><strong>The Millionaire Mindset</strong> –<br /> The Keys to Creating a Vision and Applying Yourself to Achieve Extraordinary Success</li>
+<li><strong>Ground-breaking Business Strategies</strong> –<br /> With Minimal Outlay to Bring Your Business Into the 21st Century</li>
+<li><strong>Escaping the 9 to 5 </strong>– Tools to Achieve the Millionaire Lifestyle Without Needing to Become One</li>
+</ul>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<div style="position: relative;">
+<div id="speakers" style="position: absolute; top: -200px;"> </div>
+<p> <a href="http://www.arniebook.com" target="_blank"><img class="aligncenter" alt="bookbanner" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/bookbanner.png" width="537" height="145" /></a></p>
+</div>
+<div class="blackbar"><img alt="" src="/wp-content/themes/custom-fes/images/speakers.PNG" width="207" height="55" /></div>
+<p><img class="aligncenter" alt="" src="/images/1k7fsv7-quote2_4swl7cvgbboi6u4g.jpg" width="618" height="115" /></p>
+<div id="touchcarousel-1" class="touchcarousel minimal-light tc-layout-4" style="width:750px;  height:200px; ">
+	<ul class="touchcarousel-container">
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/media2/21stCentury_5thJune2013_7.11.mp3" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/06/2gb-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>2GB Live Read - Part 2</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/media2/21stCentury_4thJune2013_8.17.mp3" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/06/2gb-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>2GB Live Read - Part 1</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/media2/arnieliveread.mp3" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/06/6pr-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>6PR Live Read - Arnold Schwarzenegger</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://itunes.apple.com/au/podcast/ultimate-you-magazine/id657200188" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/06/ultimateyou-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>The Ultimate You Podcast - By Andy Anderson</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/06/sportsconfidential.png" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/06/sportsconf-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Money in Muscles</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/05/21st-Century-Education-Live-Read-Triple-M-DAB-2013-05-27-08-25-08.mp3" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/05/triple-m-logo-645_normal1-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Triple M Live Read</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/11581_10151445538344051_1707635950_n.jpg" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/tanie-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Financial Education Summit Cocktail Party</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/Motivated-by-Obama-1024x683.png" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/obama-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Motivated by Obama</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.21stcenturynews.com.au/trajectory-arnold-schwarzeneggers-life-strong-survive" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/news1-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>A Trajectory on Arnold Schwarzenegger's Life: Only the Strong Survive!</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.21stcenturynews.com.au/jamie-mcintyre-interviews-arnold-schwarzenegger/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/news3-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Jamie McIntyre Interviews Arnold Schwarzenegger</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.qt.com.au/news/schwarzenegger-unveils-plans-motivate-aussies-tour/1825087/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/news2-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger unveils plans to motivate Aussies on tour</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.theaustralian.com.au/news/breaking-news/arnie-to-reveal-secret-to-his-success/story-fn3dxiwe-1226617292724" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/04/news-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnie to reveal secret to his success</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.heraldsun.com.au/entertainment/schwarzenegger-to-speak-in-australia/story-e6frf96o-1226562933188" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/177rxwh-herald-sun_4mh16ccdovtcp728-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to speak in Australia in June</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.news.com.au/entertainment/celebrity/schwarzenegger-to-speak-in-australia/story-e6frfmqi-1226562933188" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/151ape3-newscomau-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to speak in Australia in June</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.onlymelbourne.com.au/melbourne_details.php?id=54089" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/fmncvu-onlymelbourne-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger | Financial Education Summit</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.news.com.au/news/schwarzenegger-to-speak-in-australia/story-fnejlrpu-1226562935132" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/nng01r-newscomau2-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.news.ninemsn.com.au/national/2013/01/27/17/00/schwarzenegger-to-speak-in-australia" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/tv2x5m-ninemsn-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.hollywood.com/news/Arnold_Schwarzenegger_to_give_motivational_talks/49030638" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1lrj3dt-hollywood-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to give motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.ok.co.uk/celebrity-news/view/58753/Arnold-Schwarzenegger-to-give-motivational-talks/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/sa6jmt-ok-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to give motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.optuszoo.com.au/news/national/herald-sun/schwarzenegger-to-speak-in-australia/906565" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/hnu2x4-optuszoo-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.21stcenturyfinancialeducationsummit.com/media/clkn/http/news.ninemsn.com.au/entertainment/2013/01/30/17/01/photo-with-arnie-that-ll-be-4000-please" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1ft8ofe-ninemsn2-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Photo with Arnie? That'll be $4000 please</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.newsbcc.com/Australia/Entertainment/Arnold_Schwarzenegger_to_speak_in_Australia_in_June/413931/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1ugxtrf-newsbbc-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to speak in Australia in June</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://aboutarnoldschwarzenegger.blogspot.com.au/2013/01/arnold-schwarzenegger-to-speak-in.html" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1f1qs97-aboutarnold-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to speak in Australia in June</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.21stcenturyfinancialeducationsummit.com/media/clkn/http/www.celebrityballa.com/2013/01/jamie-mcintyre/australia-schwarzenegger-speak" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/832rzo-celebrityballa-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://au.news.yahoo.com/thewest/a/-/wa/15963178/arnie-to-spread-his-wisdom-in-perth/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1rykhv1-thewestau-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnie to spread his wisdom in Perth</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.express.co.uk/posts/view/374008/Arnold-Schwarzenegger-to-give-motivational-talks" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1ef6o79-express-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger To Give Motivational Talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.zimbio.com/Arnold+Schwarzenegger/articles/EzGCJyr4TEm/Arnold+Schwarzenegger+back+Australia+June" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/19zq1hc-zimbio_4mh16ccdovtcp728-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger is back in Australia in June 2013 for Jamie McIntyre’s Financial Education Summit</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://jamiemcintyre.com/arnold-schwarzenegger-australia-june-2013-jamie-mcintyres-financial-education-summit/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/xyx2db-jamie_4mh16ccdovtcp728-170x120.png" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger is back in Australia in June 2013 for Jamie McIntyre’s Financial Education Summit</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.smh.com.au/lifestyle/celebrity/big-arnie-muscles-in-20130126-2ddgz.html" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/bcoqfu-smh-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Big Arnie muscles in</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.couriermail.com.au/news/breaking-news/schwarzenegger-to-speak-in-australia/story-e6freono-1226562928167?from=public_rss" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1qv0ppq-couriermail-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://entertainment.ca.msn.com/celebs/arnold-schwarzenegger-to-give-motivational-talks" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/cr0h91-msn-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to give motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.theherald.com.au/story/1260998/big-arnie-muscles-in/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/7ubgt4-theherald-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Big Arnie muscles in</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.perthnow.com.au/news/breaking-news/schwarzenegger-to-speak-in-australia/story-e6frg13c-1226562928167?from=public_rss" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/usnvuj-perthnow-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://localtoday.com.au/local-news/55691-Schwarzenegger-to-speak-in-Australia.html" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/j1dmyj-localtoday-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger To Speak In Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://wap.news.bigpond.com/articles/Entertainment/2013/01/27/Schwarzenegger_to_speak_in_Australia_839699.html" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/lewd1q-bigpond-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.adelaidenow.com.au/news/breaking-news/schwarzenegger-to-speak-in-australia/story-e6frea7l-1226562928167" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1bq03gj-adelaidenow-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://legalpronews.findlaw.com/article/0h264Ev24d2O6" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/2xlzvd-findlaw-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to give motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.21stcenturyfinancialeducationsummit.com/media/clkn/http/www.pmflegal.com/blog/index.php/2013/01/29/arnold-schwarzenegger-to-speak-in-australia-in-june/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1nuhbsq-pmflegal-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to speak in Australia in June</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.adelaidenow.com.au/entertainment/schwarzenegger-to-speak-in-australia/story-e6fredpu-1226562933188" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/4asx0x-adelaidenow2-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to speak in Australia in June</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.i4u.com/2013/01/arnold-schwarzenegger/down-motivational-under-speeches-schwarzenegger-give-arnold" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/12rxq1b-i4u-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger To Give Motivational Speeches Down Under</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://wtaq.com/news/articles/2013/jan/29/arnold-schwarzenegger-to-give-motivational-talks/" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1tvnaqz-wtaq-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to give motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.3news.co.nz/Schwarzenegger-to-tour-Australia-giving-motivational-talks/tabid/418/articleID/284775/Default.aspx" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1u3nsr4-3news-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to tour Australia with motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.philippinetimes.com/index.php/sid/212172520/scat/4a8b544d0e80ba53" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/tjzim5-philtimes-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnie eager to see Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://webcenters.netscape.compuserve.com/celebrity/story.jsp?idq=/ff/story/0027/20130128/162308.htm&brand=wenn" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1s5hwm7-netscape-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to give motivational talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.starpulse.com/news/index.php/2013/01/28/arnold_schwarzenegger_to_give_motivati" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/axd12v-starpulse-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger To Give Motivational Speeches Down Under</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.asiapacificnews.net/index.php/sid/212165288/scat/4a8b544d0e80ba53" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/ex36ax-asiapacificnews-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Schwarzenegger to speak in Australia</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.topstocks.com.au/stock_discussion_forum.php?action=show_thread&threadid=886386" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/1t1k56f-topstocks-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Don't Be Economic Girlie Men</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://www.femalefirst.co.uk/entertainment/arnold-schwarzenegger-277360.html" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/q6rt9u-femalefirst-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Arnold Schwarzenegger to Give Motivational Talks</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="http://m.watoday.com.au/entertainment/about-town/photo-with-arnie-thatll-be-4000-please-20130130-2dksz.html" target="_blank">
+	<img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/fcdavi-watoday-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Photo with Arnie? That'll be $4000 please</h4>	
+	</div>
+</a>		</li>
+	</ul>
+</div><script type="text/javascript">
+jQuery(document).ready(function($) {$("#touchcarousel-1").touchCarousel({"snapToItems":true,"pagingNavControls":true,"itemsPerMove":4,"loopItems":true,"directionNav":true,"directionNavAutoHide":true,"autoplay":true,"autoplayDelay":2000,"autoplayStopAtAction":true,"keyboardNav":false,"dragUsingMouse":true,"transitionSpeed":400,"itemFallbackWidth":300,"scrollbar":false,"scrollbarAutoHide":true,"scrollbarTheme":"dark"});});
+</script>
+<div class="contentpad">
+<div class="speakerbox1">
+<h3><strong>Presenting: Arnold Schwarzenegger</strong></h3>
+<p><img class="alignleft" alt="Arnold Schwarzenegger" src="/images/arnold-schwarzenegger.png" width="197" height="223" />With a career spanning 46 years and reaching the higher echelons in sport, film and politics, Governor Schwarzenegger was the youngest person ever to win the Mr. Universe title before becoming the worlds most recognisable all American action hero in films that include; Last Action Hero, True Lies, End Of Days and the hugely popular Terminator trilogy. His movies have grossed over $3billion.</p>
+<p>Governor Schwarzenegger&#8217;s most notable accomplishments in his first six years in office included the national-leading Global Warming Solutions Act of 2006 – a bipartisan agreement to combat global warming by reducing California&#8217;s greenhouse gas emissions – and overhauling the state&#8217;s workers&#8217; compensation system – cutting costs by more than 35 percent.</p>
+<p>As Governor, Schwarzenegger has been California&#8217;s most effective marketing tool, travelling across the country and around the world promoting Californian-grown products, cutting edge technologies and the state&#8217;s diverse travel destinations.</p>
+<p>During his two terms in office, Governor Schwarzenegger worked to reform California&#8217;s fiscal policies, create a better business environment, reduce burdens on employment, boost exports and stimulate job growth.</p>
+</div>
+<div class="speakerbox1">
+<p><strong>Presenting: Jamie McIntyre </strong></p>
+<p><img class="alignleft" alt="Jamie McIntyre" src="/images/jamie-mcintyre.PNG" width="105" height="105" />It was almost 20 years ago that Jamie found himself in an unenviable position. He was completely broke, in debt to the tune of $150,000, had no job prospects and was sleeping on a friend&#8217;s couch.<br /> Jamie grew up on a farm in rural New South Wales, Australia and from an early age had dreams of being successful, however he soon discovered that no part of his education had actually taught him the skills he needed to succeed.</p>
+<p>Jamie realised the world needed a 21st Century Modern day education rather than the current out-dated education system created in the industrialisation era of the 19th Century; A &#8220;21st Century&#8221; education that was better than school or university and taught by those with a PhD in Results, not just theory. An Education – For Life!</p>
+<p>Only 5 years from being almost bankrupt, he had succeeded – Jamie had become a self-made millionaire.</p>
+<p>This incredible turnaround can be credited to Jamie&#8217;s extensive research and to the knowledge he gained from his somewhat unconventional approach of modeling multi-millionaires, entrepreneurs, investors and success coaches.</p>
+<p><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/jamie-mcintyre.html">Read More</a> »</p>
+</div>
+<div class="speakerbox2">
+<p><strong>Presenting: Mark Bouris</strong></p>
+<p><img class="alignleft" alt="Mark Bouris" src="/wp-content/uploads/2013/04/mark-bouris.jpg" width="105" height="105" /><span style="font-size: 11px;">Mark Bouris has established a successful career from building disruptive businesses to challenge the market and provide smarter solutions for consumers. His strategic intent is to lead companies that are dedicated to optimising the way we live.</span></p>
+<p><span style="font-size: 11px;">Mark Bouris believes that every Australian deserves access to quality financial advice, which is the driving force behind his financial services company, Yellow Brick Road Wealth Management (ASX:YBR)</span></p>
+<p><span style="font-size: small;"><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/mark-bouris.html">Read More</a> »</span></p>
+<p><em><span style="font-size: 11px;">(Mark Bouris at this stage is only scheduled to speak at the Sydney Event)</span></em></p>
+</div>
+<div class="speakerbox3">
+<p><strong>Presenting: Danny Green </strong></p>
+<p><img class="alignleft" alt="Danny Green" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/danny_green_image.png" width="105" height="105" /><span style="font-size: 11px;">Danny green is the only boxer from Australia to win four professional boxing world titles. One of the highest profile athletes in the country, greens laconic, affable laid back nature outside the ring belies his fierce and intense demeanor inside the ropes, his devastating power and aggressive instincts have earned him the well known moniker &#8216;the green machine&#8217;. <br /></span><br /><span style="font-size: 11px;">A surfer from Perth&#8217;s Scarborough beach, green left school to become a carpenter, and found his boyhood dream of becoming a world champion fighter a realistic possibility after nurturing and honing his power, intent and instincts, developing into a fighter of real substance.</span></p>
+<p><span style="font-size: 11px;"><em>(Danny Green at this stage is only scheduled to speak at the Perth and Melbourne Event)</em></span></p>
+<div class="fancybox-hidden" style="display: none;">
+<div id="fancyboxID-2" style="width: 600px; height: 400px;">&#8230;inline content here&#8230;</div>
+</div>
+<p>&nbsp;</p>
+</div>
+<div class="clear"> </div>
+<p>&nbsp;</p>
+<div class="smallspeaker"><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/pat-mesiti.html"><img class="alignleft" alt="Pat Mesiti" src="/images/pat-mesiti.png" width="78" height="77" /></a><span class="blue"><strong>PAT MESITI</strong></span><br /> A Prosperity Activist <span style="color: #ffffff;">A Prosperity Activist A Prosperity Activist</span><br /> <a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/pat-mesiti.html">Read More&#8230; </a></div>
+<div class="smallspeaker"><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/eric-bailey.html"><img class="alignleft" alt="Eric Bailey" src="/images/eric-bailey.png" width="77" height="77" /></a><span class="blue"> <strong>ERIC BAILEY</strong> </span><br /> Ex NBA Champion, Speaker, Mentor &amp; Visionary<br /><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/eric-bailey.html">Read More&#8230;</a></div>
+<div class="smallspeaker"><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/nik-halik.html"><img class="alignleft" alt="Nik Halik" src="/images/nik-halik.png" width="77" height="77" /></a><span class="blue"><strong>NIK HALIK</strong></span><br /> Founder and CEO of Financial Freedom Institute<br /><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/nik-halik.html">Read More&#8230;</a></div>
+<div class="clear"> </div>
+<div class="smallspeaker"><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/nik-halik.html"><img class="alignleft" alt="Nik Halik" src="/images/loral.png" width="77" height="77" /></a><span class="blue"><strong>LORAL LANGEMEIER<br /></strong></span>Money Maker &amp; Founder of Live Out Loud.<br /><a class="fancybox iframe {width:500,height:400}" href="/speaker-bio/loral-langemeier.html">Read More&#8230;</a></div>
+<div class="smallspeaker">
+<p>&nbsp;</p>
+</div>
+<div class="smallspeaker">
+<p>&nbsp;</p>
+</div>
+<div class="clear"> </div>
+</div>
+<p class="center">The Financial Education Summit will feature a line up of additional, exceptional speakers soon to be announced&#8230;</p>
+<p class="small center">Please Note: Arnold Schwarzenegger&amp; Jamie McIntyre will be speaking at all events.</p>
+<div style="position: relative;">
+<div id="ticket" style="position: absolute; top: -200px;"> </div>
+<div class="blackbar"><img alt="Pass Types" src="/images/grltbn-pass.png" width="207" height="55" /></div>
+<div class="contentpad">
+<p>All passes are entitled to one full day entry into relevant seating area. Event entry to hear from all speakers.</p>
+<table style="width: 693px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#CCCCCC" width="370"> </td>
+<td class="blue" bgcolor="#CCCCCC" width="78">
+<p class="center"><strong>GENERAL</strong></p>
+</td>
+<td class="blue" bgcolor="#CCCCCC" width="78">
+<p class="center"><strong>VIP</strong></p>
+</td>
+<td class="blue" style="text-align: center;" bgcolor="#CCCCCC" width="79"><strong>EXECUTIVE VIP</strong></td>
+<td class="blue" bgcolor="#CCCCCC" width="79">
+<p class="center"><strong>PLATINUM</strong></p>
+</td>
+<td class="blue" bgcolor="#CCCCCC" width="80">
+<p class="center"><strong>DINNER</strong></p>
+</td>
+</tr>
+<tr class="clear">
+<td><strong>Event Entry</strong> &#8211; to hear all speakers (including Arnold Schwarzenegger)</td>
+<td style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr class="bgblue">
+<td>21st Century News &#8211; <strong>90 Day Subscription</strong> (valued at $97)</td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td><strong>Best Selling e-Book</strong> &#8220;What i Didn&#8217;t Learn at School But Wish I Had&#8221;</td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr class="bgblue">
+<td><strong>Brand New e-Book</strong> &#8220;Lessons we can Learn from Arnold Schwarzenegger&#8221;</td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td>Online <strong>Financial Education Pack</strong> (valued at $297)</td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr class="bgblue">
+<td><strong>Premium</strong> <strong>Seating</strong> (see seating plan below)</td>
+<td class="center"> </td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td>$2000 21st Century<strong> Scholarship Grant</strong></td>
+<td class="center"> </td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr class="bgblue">
+<td>Complete <strong>e-Book Library</strong></td>
+<td class="center"> </td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td>6 Month Online Subscription to Think &amp; Grow Rich Inc. Magazine</td>
+<td class="center"> </td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr class="bgblue">
+<td class="bgblue"><strong>Online Homestudy Bundle<br /></strong>Million Dollar Sales and Marketing, <br />Tax Minimisation &amp; Asset Protection, <br />R.P.A (Results- Purpose – Action) <br />Time Rich (valued at $1,475)</td>
+<td class="bgblue"> </td>
+<td class="bgblue" style="text-align: center;"> </td>
+<td class="bgblue" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="bgblue" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="bgblue" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td class="clear">Financial Education Summit <strong><a class="fancybox iframe {width:500,height:875}" href="http://www.21stcenturyfileserver1.com/fesform/homestudy.html" target="_blank">Homestudy</a> </strong>(valued at $395)</td>
+<td class="clear"> </td>
+<td class="clear" style="text-align: center;"> </td>
+<td class="clear" style="text-align: center;"> </td>
+<td class="clear" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="clear" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr class="bgblue">
+<td class="bgblue">Access to <strong>Platinum Lounge</strong> including, Wi-Fi,Concierge &amp; Lunch</td>
+<td class="bgblue"> </td>
+<td class="bgblue" style="text-align: center;"> </td>
+<td class="bgblue" style="text-align: center;"> </td>
+<td class="bgblue" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="bgblue" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td><strong>Networking Afternoon </strong>on Jamie McIntyre&#8217;s Boat</td>
+<td class="center"> </td>
+<td class="center" style="text-align: center;"> </td>
+<td class="center" style="text-align: center;"> </td>
+<td class="center" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="center" style="text-align: center;"><img alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td class="bgblue"><strong>Cocktail Party</strong> with Speakers &amp; <strong>Guaranteed </strong>One-On-One Photo with Arnold Schwarzenegger</td>
+<td class="bgblue"> </td>
+<td class="bgblue"> </td>
+<td class="bgblue"> </td>
+<td class="bgblue"><img class="aligncenter" alt="X" src="/images/tick.png" width="23" height="21" /></td>
+<td class="bgblue"><img class="aligncenter" alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+<tr>
+<td class="center" style="text-align: left;"><strong>Dinner with Arnold Schwarzenegger</strong></td>
+<td class="center"> </td>
+<td class="center"> </td>
+<td class="center"> </td>
+<td class="center"> </td>
+<td class="center"><img class="aligncenter" alt="X" src="/images/tick.png" width="23" height="21" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="position: relative;">
+<div id="book" style="position: absolute; top: -200px;"> </div>
+<p> <a href="http://www.arniebook.com" target="_blank"><img class="aligncenter" alt="bookbanner" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/bookbanner.png" width="537" height="145" /></a></p>
+</div>
+<div class="blackbar">
+<table style="width: 733px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px;"><img alt="Book Now" src="/images/1b152ww-booknow.png" width="207" height="55" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table style="margin: 0px auto; width: 693px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="background: #fff;">
+<td width="225" height="38"> </td>
+<td class="clear" width="125">
+<p class="center" align="center"><strong>GENERAL</strong></p>
+</td>
+<td width="112">
+<p align="center"><strong>VIP</strong></p>
+</td>
+<td width="111">
+<p align="center"><strong><strong>EXECUTIVE VIP</strong></strong></p>
+</td>
+<td width="111">
+<p align="center"><strong>PLATINUM</strong></p>
+</td>
+</tr>
+<tr style="background: #ccc;">
+<td>
+<p class="center"><span style="font-size: medium;"><strong>FULL PASS PRICES</strong></span></p>
+</td>
+<td>
+<p class="center" align="center"><span style="font-size: small; color: #333333;"><strong><s>$297</s></strong></span></p>
+</td>
+<td>
+<p class="center" align="center"><span style="font-size: small; color: #333333;"><strong><s>$397</s></strong></span></p>
+</td>
+<td>
+<p class="center" align="center"><span style="font-size: small; color: #333333;"><strong><s>$797</s></strong></span></p>
+</td>
+<td>
+<p class="center" align="center"><span style="font-size: small; color: #333333;"><strong><s>$3,995</s></strong></span></p>
+</td>
+</tr>
+</tbody>
+<tbody>
+<tr style="background: #fff;">
+<td style="text-align: center;" rowspan="9"><span style="color: #005696;"><strong><span style="font-size: large;"><br /></span></strong></span></p>
+<div class="style2" align="center"> </div>
+<div class="style2" align="center"> </div>
+<p><span class="gen" style="background-color: #ffffff;"><img class="aligncenter  wp-image-482" alt="SeatingPlan" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/SeatingPlan1.jpg" width="213" height="301" /></span></p>
+<p align="center"> </p>
+<div align="center"> </div>
+<div align="center"> </div>
+</td>
+<td style="background-color: #b9def2;">
+<div align="center"><strong><span class="redl">SAVE<br /> $230</span></strong></div>
+</td>
+<td rowspan="3" bgcolor="d5d5d5"><strong><strong><img alt="VIPsold" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/05/VIPsold.jpg" width="115" height="115" /></strong></strong></td>
+<td style="background-color: #b9def2;">
+<div align="center">
+<p><strong><span class="redl">SAVE<br /> </span></strong><strong><span class="redl">$598.50</span></strong></p>
+</div>
+</td>
+<td style="background-color: #b9def2;">
+<div align="center"><strong><span class="redl">SAVE<br /> $2500</span></strong></div>
+</td>
+</tr>
+<tr style="background: #fff;">
+<td style="background-color: #b9def2;" rowspan="2">
+<div class="style2" align="center"><span style="font-size: x-large;"><strong>$67</strong></span></div>
+</td>
+<td style="background-color: #b9def2;">
+<div class="style2" align="center"><strong><strong><strong>$397</strong></strong></strong><strong><br /> </strong></div>
+</td>
+<td style="background-color: #b9def2;" rowspan="2">
+<div class="style2" align="center"><span style="font-size: x-large;"><strong>$1,995</strong></span></div>
+</td>
+</tr>
+<tr style="background: #fff;">
+<td style="background-color: #b9def2;">
+<div class="style2" align="center"><span style="font-size: x-small;"><strong><strong><strong><strong>$198.50 a pass</strong></strong></strong></strong></span></div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; background-color: #cccccc;" valign="top">
+<h1 align="center"> </h1>
+</td>
+<td style="text-align: center; background-color: #cccccc; border-top-width: 3px; border-top-style: solid; border-left-width: 3px; border-left-style: solid;" colspan="2" valign="top">
+<h1 align="center"><strong>2 FOR 1!</strong></h1>
+</td>
+<td style="text-align: center; background-color: #cccccc; border-left-style: solid;" valign="top"> </td>
+</tr>
+<tr>
+<td class="gen" style="border-bottom-width: 0px; border-bottom-style: solid;" valign="middle">
+<p align="center"><strong>PERTH</strong></p>
+</td>
+<td style="border-left-style: solid; border-bottom-width: 0px; border-bottom-style: solid; padding: 0px;" valign="middle" bgcolor="ececec">
+<p align="center"><strong>PERTH</strong></p>
+</td>
+<td class="vip" style="background-color: #b5abef; border-right-width: 3px; border-bottom-width: 0px; border-bottom-style: solid;" valign="middle">
+<p align="center"><strong>PERTH</strong></p>
+</td>
+<td class="plat" style="border-bottom-width: 0px; border-left-style: solid; border-bottom-style: solid;" valign="middle">
+<p align="center"><strong>PERTH<br /><span style="color: #ff0000;">(only $995)</span></strong></p>
+</td>
+</tr>
+<tr>
+<td class="gen" style="border-bottom-width: 0px; border-bottom-style: solid;" valign="middle">
+<p align="center"><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/63cfd458-cefd-4217-ae54-153c976084ad" target="_blank">Perth</a></p>
+</td>
+<td style="border-left-style: solid; border-bottom-width: 0px; border-bottom-style: solid; padding: 0px;" valign="middle" bgcolor="ececec">
+<p align="center"><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/42b8edad-e62e-4988-81ab-9c17cc2b7450" target="_blank">Perth</a></p>
+</td>
+<td class="vip" style="background-color: #b5abef; border-right-width: 3px; border-bottom-width: 0px; border-bottom-style: solid;" valign="middle">
+<p align="center"><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/28f1b6c7-a645-4b84-abc9-d47c21cb2ac5" target="_blank">Perth</a></p>
+</td>
+<td class="plat" style="border-bottom-width: 0px; border-left-style: solid; border-bottom-style: solid;" valign="middle">
+<p align="center"><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/FES-2013-Perth-Platinum---FAT" target="_blank">Perth</a></p>
+</td>
+</tr>
+<tr>
+<td class="gen" style="border-bottom-width: 0px; border-bottom-style: solid;" valign="top">
+<div align="center"> <strong>SYDNEY</strong><br /> <a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/5c501cc6-9e87-4ea7-b465-583bf4f05ee8" target="_blank">Sydney</a></div>
+</td>
+<td style="border-left-style: solid; border-bottom-width: 0px; border-bottom-style: solid; padding: 0px;" valign="top" bgcolor="ececec">
+<p align="center"><img alt="vipsold copy" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/05/sydneysoldout.jpg" width="112" height="70" align="texttop" /></p>
+</td>
+<td class="vip" style="background-color: #b5abef; border-bottom-width: 0px; border-bottom-style: solid;" valign="top">
+<div align="center"> <strong>SYDNEY</strong><br /> <a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/8c2b0918-4725-4f25-9359-81d6ae61368c" target="_blank">Sydney</a></div>
+</td>
+<td class="plat" style="border-bottom-width: 0px; border-left-style: solid; border-bottom-style: solid;" valign="top">
+<div align="center"><strong>SYDNEY</strong><br /> <a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/FES-2013-Syd-Platinum---FAT " target="_blank">Sydne</a></div>
+</td>
+</tr>
+<tr>
+<td class="gen" valign="top">
+<div align="center"> <strong>MELBOURNE</strong><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/4bfa15fa-336f-4a44-bb1b-340f2ab925d3" target="_blank">Melbourne</a></div>
+</td>
+<td style="border-left-style: solid; border-bottom-style: solid; border-bottom-width: 3px; padding: 0px;" valign="top" bgcolor="ececec">
+<div align="center"><img alt="vipsold copy" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/05/melbsold.png" width="112" height="70" align="texttop" /></div>
+</td>
+<td class="vip" style="background-color: #b5abef; border-bottom-style: solid; border-right-width: 3px; border-bottom-width: 3px;" valign="top">
+<div align="center"> <strong>MELBOURNE</strong><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/974c78b4-5905-4102-934f-4471e69f1a1f" target="_blank">Melbourne</a></div>
+</td>
+<td class="plat" style="border-left-style: solid;" valign="top">
+<div align="center"> <strong>MELBOURNE</strong><a class="buynow" href="https://21stca.infusionsoft.com/app/orderForms/FES-2013-Melb-Platinum---FAT" target="_blank">Melbourne</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong><span style="color: #d2232a; font-size: x-large;">Just want a Photo with Arnold? </span><br /><span style="font-size: large;"><em>Get access to the VIP Photo Pass</em></span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #005696; font-size: medium;">LIMITED PASSES LEFT </span></strong><br /><span style="color: #0096c9; font-size: medium;">Melbourne &amp; Sydney SOLD OUT!</span></p>
+<p style="text-align: center;"><span style="font-size: large;"><strong><a href="http://21stcenturyfinancialeducationsummit.com/book-australian/">Click Here</a> to find out about the </strong></span><br /><span style="font-size: large;">VIP Photo Pass from only $695 (value $1,295)</span></p>
+<p class="largered center" style="text-align: center;"><strong><img class="aligncenter  wp-image-1342" alt="jamieboat copy" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/jamieboat-copy.png" width="624" height="326" /></strong><a title="Dinner Expression of Interest" href="http://21stcenturyfinancialeducationsummit.com/dinner_eoi/"><img class="aligncenter  wp-image-820" alt="Want to have dinner with Arnold!?" src="http://www.21stcenturyfinancialeducationsummit.com/images/dinner.png" width="717" height="365" /></a></p>
+<p style="text-align: center;"><a href="http://21stcenturyfinancialeducationsummit.com/dinner_eoi/" target="_blank"><img class="aligncenter size-full wp-image-1346" alt="DinnerBanner" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/DinnerBanner.jpg" width="610" height="258" /></a></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Everyone that purchases a Dinner Pass also gets a day of networking <br /></span></strong><strong><span style="font-size: large;">with high achievers <strong>on a luxury boat with Jamie McIntyre!</strong></span></strong><strong></strong></p>
+<p>&nbsp;</p>
+<p align="center"><span style="color: #ff0000;"><strong><span style="font-size: large;">DUE TO LIMITED SEATING &#8211; THESE EVENTS WILL SELL OUT FAST!</span></strong></span></p>
+<p>&nbsp;</p>
+<div style="position: relative;">
+<div id="event" style="position: absolute; top: -200px;"> </div>
+<p><span style="font-size: x-small;">Conditions Apply. 2-for-1 deal is valid only for General, VIP or Executive Passes purchased after 3pm AEDT on Thursday 7 March 2013.</span><br /><span style="font-size: x-small;">Platinum 2-for-1 Deal is valid only for  passes purchased after 9am AEDST on Tuesday 30 April 2013, All money to be paid prior to event for any purchase of passes. Offer is not valid in conjunction with any other offer. Offers limited to pass availability. Offer is limited time only.</span><br /><span style="font-size: x-small;"> </span></p>
+</div>
+<div class="blackbar"><img alt="Event Details" src="/images/wcxiv1-event.png" width="207" height="55" /></div>
+<h3 class="center"><strong>EVENT TIMES:</strong></h3>
+<p class="center"><strong>DOORS OPEN:</strong> 8am<br /> <strong>START</strong>: 9am<br /> <strong>FINISH</strong>: 9.30pm*</p>
+<p class="center small"><em>*Times are approximate.</em></p>
+<table style="width: 600px; margin: 0px auto; border: 1px solid #ccc;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="200">
+<h3><strong>Perth</strong></h3>
+<p class="blue"><strong>Date:</strong></p>
+<p>12th June 2013</p>
+<p class="blue"><strong>Venue:</strong></p>
+<p><strong>Perth Convention and<br /> Exhibition Centre</strong></p>
+</td>
+<td style="border-left: 1px solid #ccc; border-right: 1px solid #ccc;" valign="top" width="200">
+<h3><strong>Sydney</strong></h3>
+<p class="blue"><strong>Date:</strong></p>
+<p>13th June 2013</p>
+<p class="blue"><strong>Venue:</strong></p>
+<p><strong>Hordern Pavilion</strong></p>
+</td>
+<td valign="top" width="200">
+<h3><strong>Melbourne</strong></h3>
+<p class="blue"><strong>Date:</strong></p>
+<p>14th June 2013</p>
+<p class="blue"><strong>Venue:</strong></p>
+<p><strong>Melbourne Convention and Exhibition Centre</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="200">
+<p><em>21 Mounts Bay Rd</em><br />Perth, WA, 6000</p>
+</td>
+<td style="border-left: 1px solid #ccc; border-right: 1px solid #ccc;" valign="top" width="200">
+<p><em>1 Driver Ave</em><br />Moore Park, NSW, 2021</p>
+</td>
+<td valign="top" width="200">
+<p><em>1 Convention Centre Pl</em><br />South Wharf, VIC, 3006</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="200">
+<p style="text-align: center;"><a href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/Riverside-Theatre-2.jpg"><img class="aligncenter  wp-image-486" alt="Riverside-Theatre-2" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/Riverside-Theatre-2-300x199.jpg" width="189" height="121" /></a></p>
+</td>
+<td style="border-left: 1px solid #ccc; border-right: 1px solid #ccc;" valign="top" width="200">
+<p style="text-align: center;"><a href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/Hordern1.jpg"><img class="aligncenter  wp-image-485" alt="Hordern[1]" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/Hordern1-300x187.jpg" width="189" height="121" /></a></p>
+</td>
+<td valign="top" width="200">
+<p style="text-align: center;"><a href="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/MCEC.jpg"><img class="aligncenter  wp-image-484" alt="MCEC" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/MCEC-300x224.jpg" width="162" height="121" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="http://www.arniebook.com" target="_blank"><img class="aligncenter size-full wp-image-1016" alt="bookbanner" src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/bookbanner.png" width="537" height="145" /></a></p>
+<div style="position: relative;">
+<div id="success" style="position: absolute; top: -200px;"> </div>
+<div class="blackbar"><img alt="Success Stories" src="/images/7qi0on-success.png" width="250" height="55" /></div>
+<div class="bggrey"><iframe src="http://21stcenturyeducation.com.au/twitter_banner.html" height="216" width="624" frameborder="0" scrolling="no"></iframe></div>
+<div class="bgdblue"><iframe src="http://21stcenturyeducation.com.au/facebook_banner.html" height="216" width="624" frameborder="0" scrolling="no"></iframe></div>
+<div class="bgmblue"><iframe src="http://21stcenturyeducation.com.au/SS_banner.html" height="216" width="624" frameborder="0" scrolling="no"></iframe></div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; text-align: center;"> </span></p>
+<p><strong style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; text-align: -webkit-center; background-color: #b9def2;"><span class="redl"> </span></strong></p>
+<p>&nbsp;</p>
+							</div>
+		</div>
+		<div class="clear"></div>
+<p class="center"><a href="http://www.21stcenturyfileserver1.com/fesform/t_c.html" class="fancybox iframe {width:500,height:675}">Terms &amp; Conditions</a></p>
+</div></div>
+<br />
+<a href="http://www.21stcenturynews.com.au/" target="_blank"><img src="/images/1y9ffe2-news-sml-copy_4lxonofi1bxkk5c0.PNG" width="190" height="150" alt="Daily News" /></a>
+  
+  <a href="http://www.21stcenturyusproperty.com/win-a-house/" target="_blank"><img src="/images/hbjkj6-us-giveaway-sml-copy_4lxonofi1bxkk5c0.PNG" alt="Win a property" width="190" height="150" /></a>
+  <a href="http://www.financialeducationpack.com/" target="_blank"><img src="/images/nieo89-finpack-dvd-sml-copy_4lxonofi1bxkk5c0.PNG" width="190" height="150" alt="Free Financial Education Pack" /></a>
+  <a href="http://lead.21stcenturyeducation.com.au/ebook-library/" target="_blank"><img src="/images/i669nc-ebook-library_4lxonofi1bxkk5c0.png" width="190" height="150" alt="Ebook Library" /></a>
+<a href="http://www.forbes.com/sites/gcaptain/2013/01/28/education-today-the-value-of-investing-in-yourself/" target="_blank"><img src="/images/qzgiet-forbes.PNG" alt="Forbes Magazine" width="600" height="218" class="aligncenter" /></a>
+<style type="text/css">
+
+<!--
+
+.style1 {
+
+	color: #FFFFFF;
+
+	font-size: 10px;
+
+}
+
+-->
+
+</style>
+
+<p><!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1003309597;
+var google_conversion_label = "NwF0CIOp0QQQnZS13gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003309597/?value=0&amp;label=NwF0CIOp0QQQnZS13gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript></p>
+
+<p class="center">&copy; 2013 21st Century Financial Education Summit</p>
+
+    <script type="text/javascript" language="JavaScript"><!--
+
+function ReverseDisplay(d) {
+
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+
+else { document.getElementById(d).style.display = "none"; }
+
+}
+
+//--></script>
+
+<!-- <div id="unique2">
+
+
+
+<div style="background-color:#d2232a;" class="fixedform2"><div style="position:relative"><p style="position:absolute; top:-35px; right:-12px"><a href="javascript:ReverseDisplay('unique2')">
+
+<img src="/wp-content/uploads/2013/02/close.png" width="26" height="26" border="0" alt="X" /></a></p></div>
+
+  <img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/03/redplat.png" width="223" height="171">
+
+  <br />
+
+<p class="center"><a class="book2" title="Book Now" href="http://21stcenturyfinancialeducationsummit.com/platinum-deal/">Book Now </a></p>
+
+<p class="center style1">*Terms and Conditions Apply</p>
+
+</div>
+
+<div class="clear"></div>
+
+</div>-->
+
+<!-- <div id="uniquename">
+
+<div class="fixedform"><div style="position:relative"><p style="position:absolute; top:-20px; right:-12px"><a href="javascript:ReverseDisplay('uniquename')">
+
+<img src="/wp-content/uploads/2013/02/close.png" width="26" height="26" border="0" alt="X" /></a></p></div>
+
+  <p class="head"><strong><img src="http://21stcenturyfinancialeducationsummit.com/wp-content/uploads/2013/02/Arnie-Book.png" alt="Lessons we can learn from Arnold Schwazenegger" width="100" height="129" class="alignleft2" /><br />
+
+  Download your Free ebook - &quot;Lessons we can learn from Arnold Schwarzenegger</strong>&quot;</p>
+
+<div class="clear"></div><script src="https://21stca.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=244773f9e5aa946c343c9ed623c2062a" type="text/javascript">
+
+</script>
+
+<form accept-charset="UTF-8" action="https://21stca.infusionsoft.com/app/form/process/46505ef281670362c9c8b8aaefea18d7" class="infusion-form" method="POST" name="Lessons learnt from Arnold Schwarzenegger (eBook)" onsubmit="var form = document.forms[0];
+
+var resolution = document.createElement('input');
+
+resolution.setAttribute('id', 'screenResolution');
+
+resolution.setAttribute('type', 'hidden');
+
+resolution.setAttribute('name', 'screenResolution');
+
+var resolutionString = screen.width + 'x' + screen.height;
+
+resolution.setAttribute('value', resolutionString);
+
+form.appendChild(resolution);
+
+var pluginString = '';
+
+if (window.ActiveXObject) {
+
+    var activeXNames = {'AcroPDF.PDF':'Adobe Reader',
+
+        'ShockwaveFlash.ShockwaveFlash':'Flash',
+
+        'QuickTime.QuickTime':'Quick Time',
+
+        'SWCtl':'Shockwave',
+
+        'WMPLayer.OCX':'Windows Media Player',
+
+        'AgControl.AgControl':'Silverlight'};
+
+    var plugin = null;
+
+    for (var activeKey in activeXNames) {
+
+        try {
+
+            plugin = null;
+
+            plugin = new ActiveXObject(activeKey);
+
+        } catch (e) {
+
+            // do nothing, the plugin is not installed
+
+        }
+
+        pluginString += activeXNames[activeKey] + ',';
+
+    }
+
+    var realPlayerNames = ['rmockx.RealPlayer G2 Control',
+
+        'rmocx.RealPlayer G2 Control.1',
+
+        'RealPlayer.RealPlayer(tm) ActiveX Control (32-bit)',
+
+        'RealVideo.RealVideo(tm) ActiveX Control (32-bit)',
+
+        'RealPlayer'];
+
+    for (var index = 0; index &lt; realPlayerNames.length; index++) {
+
+        try {
+
+            plugin = new ActiveXObject(realPlayerNames[index]);
+
+        } catch (e) {
+
+            continue;
+
+        }
+
+        if (plugin) {
+
+            break;
+
+        }
+
+    }
+
+    if (plugin) {
+
+        pluginString += 'RealPlayer,';
+
+    }
+
+} else {
+
+    for (var i = 0; i &lt; navigator.plugins.length; i++) {
+
+        pluginString += navigator.plugins[i].name + ',';
+
+    }
+
+}
+
+pluginString = pluginString.substring(0, pluginString.lastIndexOf(','));
+
+var plugins = document.createElement('input');
+
+plugins.setAttribute('id', 'pluginList');
+
+plugins.setAttribute('type', 'hidden');
+
+plugins.setAttribute('name', 'pluginList');
+
+plugins.setAttribute('value', pluginString);
+
+form.appendChild(plugins);
+
+var java = navigator.javaEnabled();
+
+var javaEnabled = document.createElement('input');
+
+javaEnabled.setAttribute('id', 'javaEnabled');
+
+javaEnabled.setAttribute('type', 'hidden');
+
+javaEnabled.setAttribute('name', 'javaEnabled');
+
+javaEnabled.setAttribute('value', java);
+
+form.appendChild(javaEnabled);">
+
+<input name="inf_form_xid" type="hidden" value="46505ef281670362c9c8b8aaefea18d7" /><input name="inf_form_name" type="hidden" value="Lessons learnt from Arnold Schwarzenegger (eBook)" /><input name="infusionsoft_version" type="hidden" value="1.28.5.64" />
+
+<div class="default beta-base beta-font-b" id="mainContent" style="height:100%">
+
+<div class="text" id="webformErrors" name="errorContent">
+
+</div>
+
+<div>
+
+<table class="infusion-field-container">
+
+<tbody>
+
+<tr>
+
+<td class="infusion-field-label-container">
+
+<label for="inf_field_FirstName">First Name *</label>
+
+</td>
+
+<td class="infusion-field-input-container">
+
+<input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
+
+</td>
+
+</tr><tr>
+
+<td class="infusion-field-label-container">
+
+<label for="inf_field_LastName">Last Name *</label>
+
+</td>
+
+<td class="infusion-field-input-container">
+
+<input class="infusion-field-input-container" id="inf_field_LastName" name="inf_field_LastName" type="text" />
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div>
+
+<table class="infusion-field-container">
+
+<tbody>
+
+<tr>
+
+<td class="infusion-field-label-container">
+
+<label for="inf_field_Email">Email *</label>
+
+</td>
+
+<td class="infusion-field-input-container">
+
+<input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div>
+
+<table class="infusion-field-container">
+
+<tbody>
+
+<tr>
+
+<td class="infusion-field-label-container">
+
+<label for="inf_field_Phone1">Mobile *</label>
+
+</td>
+
+<td class="infusion-field-input-container">
+
+<input class="infusion-field-input-container" id="inf_field_Phone1" name="inf_field_Phone1" type="text" />
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div>
+
+<table class="infusion-field-container">
+
+<tbody>
+
+<tr>
+
+<td class="infusion-field-label-container">
+
+<label for="inf_field_PostalCode">Post Code *</label>
+
+</td>
+
+<td class="infusion-field-input-container">
+
+<input class="infusion-field-input-container" id="inf_field_PostalCode" name="inf_field_PostalCode" type="text" />
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div>
+
+<table class="infusion-field-container">
+
+<tbody>
+
+<tr>
+
+<td class="infusion-field-label-container">
+
+<label for="inf_custom_HowDidYouHearAboutUs">How Did You Hear About Us *</label>
+
+</td>
+
+<td class="infusion-field-input-container">
+
+<select id="inf_custom_HowDidYouHearAboutUs" name="inf_custom_HowDidYouHearAboutUs"><option value="">Please select one</option><option value="21st Century DVD">21st Century DVD</option><option value="Babes in Business">Babes in Business</option><option value="Billboard">Billboard</option><option value="Bus Advertising">Bus Advertising</option><option value="Email">Email</option><option value="Facebook">Facebook</option><option value="Friends">Friends</option><option value="Family">Family</option><option value="Google Search">Google Search</option><option value="Jamie McIntyre Book">Jamie McIntyre Book</option><option value="Magazine">Magazine</option><option value="Mailout">Mailout</option><option value="Newspaper">Newspaper</option><option value="Online">Online</option><option value="Post Cards">Post Cards</option><option value="Posters">Posters</option><option value="Radio">Radio</option><option value="SMS">SMS</option><option value="Other">Other</option></select>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div>
+
+<input id="LeadSourceId" name="inf_field_LeadSourceId" type="hidden" value="" />
+
+</div>
+
+<div>
+
+<div style="height:20px; line-height:20px">
+
+&nbsp;
+
+</div>
+
+</div>
+
+<div>
+
+<div class="infusion-submit" style="text-align:center">
+
+<button style="-moz-border-radius:4px; background-color:#005696; border-color:#000000; border-radius:4px; border-style:Solid; border-width:1px; color:#FFFFFF; font-family:Helvetica; margin-top:-10px; font-size:16px; height:35px; width:150px" type="submit" value="Submit">Download Ebook</button>
+
+</div>
+
+</div>
+
+</div>
+
+</form> 
+
+</div></div>
+
+<div></div>
+
+
+
+<div></div>-->
+
+
+
+<!-- <div id="hide2"><p><a href="javascript:ReverseDisplay('unique2')">PLATINUM DEAL</a></div> -->
+
+
+
+<!-- <div id="hide"><p><a href="javascript:ReverseDisplay('uniquename')">FREE EBOOK</a></div> -->
+
+
+
+	<link rel='stylesheet' id='ujiStyleCount-css'  href='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/uji-countdown-proplus/css/jquery.countdown.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/easy-fancybox/fancybox/jquery.easing-1.3.pack.js?ver=1.3'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/easy-fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=3.0.4'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/easy-fancybox/jquery.metadata.js?ver=2.1'></script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/uji-countdown-proplus/js/jquery.countdown.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ujiCount1 = {"uji_plugin":"http:\/\/21stcenturyfinancialeducationsummit.com\/wp-content\/plugins\/uji-countdown-proplus","uji_style":"classic","ujic_id":"ujiCountdown1","expire":"2013\/06\/12 00:00","Years":"Years","Months":"Months","Weeks":"Weeks","Days":"Days","Hours":"Hours","Minutes":"Minutes","Seconds":"Seconds","Year":"Year","Month":"Month","Week":"Week","Day":"Day","Hour":"Hour","Minute":"Minute","Second":"Second","ujic_txt_size":"15","ujic_col_dw":"#3A3A3A","ujic_col_up":"#635b63","ujic_col_txt":"#FFFFFF","ujic_col_sw":"#000000","ujic_txt":"true","ujic_ani":"false","ujic_url":"false","uji_center":" ujic_left","uji_time":"Jun 10, 2013 09:27:32 +0000"};
+var ujiCounts = ["1"];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://21stcenturyfinancialeducationsummit.com/wp-content/plugins/uji-countdown-proplus/js/ujicountdown.js?ver=1.0'></script>
+
+	Don't forget analytics
+
+</body>
+
+</html>

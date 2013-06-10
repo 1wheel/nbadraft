@@ -1,0 +1,48 @@
+#tooltip {
+  position: absolute;
+  width: 300px;
+  padding: 8px;
+  font: 12px sans-serif;
+  background: #fff;
+  border: solid 1px #aaa;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.boldDetail{
+  font-weight: bold;
+}
+
+.normalDetail{
+  font-weight: normal;
+  text-align: right;
+}
+
+#pName{
+  font-size:190%;
+  font-weight: bold;
+}
+
+#tooltipTopLeft{
+  float: left;
+  width: 140px;
+  text-align: top;
+}
+
+#tooltipTopRight{
+  float: right;
+  width: 100px;
+}
+
+#tooltipTop{
+  width: 250px;
+}
+
+.boldNum{
+  font-weight: bold;
+  font-size: 110%;
+}
+
+.sumLine{
+  margin-top: 10px;
+}

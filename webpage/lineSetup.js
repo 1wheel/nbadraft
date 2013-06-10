@@ -1,4 +1,4 @@
-var margin = {top: 20, right: 80, bottom: 30, left: 50},
+var margin = {top: 20, right: 85, bottom: 30, left: 55},
 	width = 300 - margin.left - margin.right,
 	height = 300 - margin.top - margin.bottom;
 
@@ -20,7 +20,6 @@ var timeFormat = d3.time.format("%Y")
 var xAxis = d3.svg.axis()
 	.scale(x)
 	.orient("bottom")
-	.ticks(4);
 
 var yMINAxis = d3.svg.axis()
 	.scale(yMIN)
@@ -40,8 +39,13 @@ var linePER = d3.svg.line()
 	.x(function(d) { return x(timeFormat.parse(d.year)); })
 	.y(function(d) { return yPER(+d.per); });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#tooltipBot").append("svg")
 		.attr("width", width + margin.left + margin.right)
 		.attr("height", height + margin.top + margin.bottom)
 	.append("g")
 		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var tooltip = d3.select("#tooltip")
+  	  .attr("class", "tooltip")
+  	  .style("opacity", 1e-6)
+  	  .style("background", "rgba(250,250,250,.95)");

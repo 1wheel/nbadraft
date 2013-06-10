@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+
+<!-- head -->
+<head>
+
+<!-- meta -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Page not found | adidas Eurocamp 2013</title>
+
+<!-- stylesheet -->
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/style.css" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/css/responsiveslides.css?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/css/jcarousel/skin.css?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/css/ui/jquery.ui.all.css?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/css/responsive.css?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/css/skins/blue/images.css?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/style-colors.php?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/style.php?ver=1.0.5" media="all" />
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Titillium+Web:300,400,400italic,700" >
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Patua+One:300,400,400italic,700" >
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Patua+One:300,400,400italic,700" >
+
+<!-- wp_head() -->
+<link rel="shortcut icon" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/images/favicon.ico" type="image/x-icon" />	
+
+<meta name="description" content="Official Website of adidas Eurocamp 2013." />
+<meta name="keywords" content="adidas eurocamp, adidas," />
+<meta name="google-site-verification" content="GwK4QK_1inNK2sAj2NW7eXQhv-1MqcCVUOsVTcERIww" />
+<script>
+//<![CDATA[
+var mfn_slider_args = { "timeout":5000, "auto":1, "pause":1 };
+//]]>
+</script>
+<link rel="alternate" type="application/rss+xml" title="adidas Eurocamp 2013 &raquo; Feed" href="http://www.adidaseurocamp.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="adidas Eurocamp 2013 &raquo; Comments Feed" href="http://www.adidaseurocamp.com/comments/feed/" />
+<link rel='stylesheet' id='rs-settings-css'  href='http://www.adidaseurocamp.com/wp-content/themes/bretheon/revslider/rs-plugin/css/settings.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://www.adidaseurocamp.com/wp-content/themes/bretheon/revslider/rs-plugin/css/captions.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var popover = {"messagebox":"#a0a8005f5594bd67041f88c6196192646-po","messagedelay":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/plugins/wordpress-popup/popoverincludes/js/popover.js?ver=5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.adidaseurocamp.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.adidaseurocamp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="http://www.adidaseurocamp.com/wp-content/themes/bretheon/css/ie8.css" />
+<![endif]-->
+
+<style type='text/css'>
+div#a0a8005f5594bd67041f88c6196192646-po {
+	position: absolute;
+	background: transparent url(http://www.adidaseurocamp.com/wp-content/plugins/wordpress-popup/popoverincludes/css/default/images/opaque.png) repeat;
+	z-index: 999;
+	padding: 10px;
+	visibility: visible;
+}
+
+div#a0a8005f5594bd67041f88c6196192646-po div.claimbutton {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	background: transparent url(http://www.adidaseurocamp.com/wp-content/plugins/wordpress-popup/popoverincludes/css/default/images/opaque.png) repeat;
+	text-align: right;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div#a0a8005f5594bd67041f88c6196192646-po div.claimbutton a:visited, div#a0a8005f5594bd67041f88c6196192646-po div.claimbutton a {
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #FFF;
+	text-shadow: #000 1px 1px 0px;
+	font-weight: bold;
+	padding-right: 5px;
+}
+
+#message p {
+	position: relative;
+	clear: both;
+}
+
+#a0a8005f5594bd67041f88c6196192646-po #closebox {
+	position: absolute;
+	width: 30px;
+	height: 29px;
+	background: transparent url(http://www.adidaseurocamp.com/wp-content/plugins/wordpress-popup/popoverincludes/css/default/images/closemessagebland.png) no-repeat;
+	top: -5px;
+	left: -5px;
+	z-index: 5;
+}
+
+div#message {
+	position: relative;
+	background: #fff;
+	font: 0.9em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	min-height: 90%;
+	overflow: hidden;
+}
+
+div#message.waiting {
+	background: #fff url(http://www.adidaseurocamp.com/wp-content/plugins/wordpress-popup/popoverincludes/css/default/images/loading.gif) no-repeat center center;
+}
+
+div#message h2 {
+	color: #000;
+	font: bold 1.3em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	margin-top: 0px;
+}
+div#message h2 a {
+	text-decoration: none;
+	color: #000;
+}
+
+div#message blockquote {
+	padding: 0px;
+	font-weight: bold;
+	border-left: 5px solid #ccc;
+}
+
+div#message blockquote p{
+	padding: 2px 5px;
+}
+
+div#message img {
+}
+
+div#a0a8005f5594bd67041f88c6196192646-po.visiblebox {
+	display: block;
+}
+div#a0a8005f5594bd67041f88c6196192646-po.hiddenbox {
+	display: none;
+}
+.hide { display: none; }
+
+.clear {
+	clear: both;
+}</style>
+</head>
+
+<!-- body -->
+<body class="error404 main-bg  layout-boxed footer-separate">
+
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<div id="Wrapper">
+
+	<!-- #Header -->
+	<header id="Header">
+		<div class="container">
+			<div class="sixteen columns">
+
+				<!-- Addons -->
+				<div class="addons">
+										<div class="social ">
+						<ul>
+							<li class="facebook"><a target="_blank" href="http://www.facebook.com/adidasBasketball" title="Facebook">Facebook</a></li>														<li class="twitter"><a target="_blank" href="https://twitter.com/adidasHoops" title="Twitter">Twitter</a></li>																					<li class="flickr"><a target="_blank" href="http://instagram.com/adidaseurocamp" title="Flickr">Flickr</a></li>																											</ul>
+					</div>
+														</div>
+			
+				<!-- #logo -->
+								<a id="logo" href="http://www.adidaseurocamp.com" title="adidas Eurocamp 2013">
+					<img src="http://207.204.52.189/wp-content/uploads/2013/05/logo.png" alt="adidas Eurocamp 2013" />
+				</a>
+								
+				<!-- main menu -->
+				<nav id="menu" class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="http://www.adidaseurocamp.com/">Home</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a>Adidas Basketball</a>
+<ul class="sub-menu">
+	<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="http://www.adidaseurocamp.com/highlights-of-adidas-basketball/">Highlights of adidas basketball</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="http://www.adidaseurocamp.com/adidas-athletes/">adidas athletes</a></li>
+	<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="http://www.adidaseurocamp.com/adidas-staff/">adidas Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a>Eurocamp</a>
+<ul class="sub-menu">
+	<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="http://www.adidaseurocamp.com/players/">Players</a></li>
+	<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="http://www.adidaseurocamp.com/teams/">Teams</a></li>
+	<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="http://www.adidaseurocamp.com/schedule/">Schedule</a></li>
+	<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="http://www.adidaseurocamp.com/camp-stats/">Camp Stats</a></li>
+	<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="http://www.adidaseurocamp.com/archives/">Archives</a></li>
+</ul>
+</li>
+<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="http://www.adidaseurocamp.com/special-guests/">Special Guests</a></li>
+<li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="http://www.adidaseurocamp.com/coaches/">Coaches</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="http://www.adidaseurocamp.com/register/">Register</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a>Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="http://www.adidaseurocamp.com/la-ghirada-sports-center/">La Ghirada Sports Center</a></li>
+	<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://www.adidaseurocamp.com/how-to-find-us/">How To Find Us</a></li>
+	<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="http://www.adidaseurocamp.com/event-partners/">Event Partners</a></li>
+	<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="http://www.adidaseurocamp.com/airport-information/">Airport Information</a></li>
+	<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="http://www.adidaseurocamp.com/hotels/">Hotels</a></li>
+</ul>
+</li>
+<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-531"><a href="http://www.adidaseurocamp.com/news/">News</a></li>
+<li id="menu-item-496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a href="http://www.adidaseurocamp.com/hall-of-fame/">Hall of Fame</a></li>
+<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="http://www.adidaseurocamp.com/contact-us/">Contact Us</a></li>
+</ul></nav>				<nav id="menu_responsive" class="menu-menu-container"><select id="menu-menu-1" class="menu dropdown-menu"><option value="" class="blank">- &#8211; Main menu &#8211; -</option><option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500 menu-item-depth-0" value="http://www.adidaseurocamp.com/">Home</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8 menu-item-depth-0" value="">Adidas Basketball</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521 menu-item-depth-1" value="http://www.adidaseurocamp.com/highlights-of-adidas-basketball/">- - Highlights of adidas basketball</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520 menu-item-depth-1" value="http://www.adidaseurocamp.com/adidas-athletes/">- - adidas athletes</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519 menu-item-depth-1" value="http://www.adidaseurocamp.com/adidas-staff/">- - adidas Staff</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9 menu-item-depth-0" value="">Eurocamp</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525 menu-item-depth-1" value="http://www.adidaseurocamp.com/players/">- - Players</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524 menu-item-depth-1" value="http://www.adidaseurocamp.com/teams/">- - Teams</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498 menu-item-depth-1" value="http://www.adidaseurocamp.com/schedule/">- - Schedule</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523 menu-item-depth-1" value="http://www.adidaseurocamp.com/camp-stats/">- - Camp Stats</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522 menu-item-depth-1" value="http://www.adidaseurocamp.com/archives/">- - Archives</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271 menu-item-depth-0" value="http://www.adidaseurocamp.com/special-guests/">Special Guests</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497 menu-item-depth-0" value="http://www.adidaseurocamp.com/coaches/">Coaches</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499 menu-item-depth-0" value="http://www.adidaseurocamp.com/register/">Register</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10 menu-item-depth-0" value="">Info</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530 menu-item-depth-1" value="http://www.adidaseurocamp.com/la-ghirada-sports-center/">- - La Ghirada Sports Center</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529 menu-item-depth-1" value="http://www.adidaseurocamp.com/how-to-find-us/">- - How To Find Us</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527 menu-item-depth-1" value="http://www.adidaseurocamp.com/event-partners/">- - Event Partners</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528 menu-item-depth-1" value="http://www.adidaseurocamp.com/airport-information/">- - Airport Information</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526 menu-item-depth-1" value="http://www.adidaseurocamp.com/hotels/">- - Hotels</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-531 menu-item-depth-0" value="http://www.adidaseurocamp.com/news/">News</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496 menu-item-depth-0" value="http://www.adidaseurocamp.com/hall-of-fame/">Hall of Fame</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518 menu-item-depth-0" value="http://www.adidaseurocamp.com/contact-us/">Contact Us</option>
+</select></nav>		
+
+			</div>		
+		</div>
+		
+	</header>
+	
+	
+<!-- Content -->
+<div id="Error_404">
+	<div class="overlay">
+		<div class="container">
+		
+			<!-- 404 page -->
+			<div class="error">
+				<h2>Ooops... Error 404</h2>
+				<h4>We`re sorry, but the page you are looking for doesn`t exist.</h4>
+				<p><span class="check">Please check entered address and try again <em>or</em></span> <a class="button" href="http://www.adidaseurocamp.com">go to homepage <span>&rarr;</span></a></p>
+			</div>
+		
+		</div>
+	</div>
+</div>
+
+
+</div>
+<!-- #Footer -->		
+<footer id="Footer">
+<div id="footer-wrap">
+	<div class="container">
+				
+		<div class="one-fifth column"><aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-adidas-basketball-container"><ul id="menu-adidas-basketball" class="menu"><li id="menu-item-6" class="footbold menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a>adidas BASKETBALL</a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="http://www.adidaseurocamp.com/highlights-of-adidas-basketball/">Highlights of adidas basketball</a></li>
+<li id="menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502"><a href="http://www.adidaseurocamp.com/adidas-athletes/">adidas athletes</a></li>
+<li id="menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-503"><a href="http://www.adidaseurocamp.com/adidas-staff/">adidas Staff</a></li>
+<li id="menu-item-504" class="footbold menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="http://www.adidaseurocamp.com/register/">REGISTER</a></li>
+</ul></div></aside></div><div class="one-fifth column"><aside id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-schedule-coaches-container"><ul id="menu-schedule-coaches" class="menu"><li id="menu-item-507" class="footbold menu-item menu-item-type-post_type menu-item-object-page menu-item-507"><a href="http://www.adidaseurocamp.com/schedule/">SCHEDULE</a></li>
+<li id="menu-item-506" class="footbold menu-item menu-item-type-post_type menu-item-object-page menu-item-506"><a href="http://www.adidaseurocamp.com/coaches/">COACHES</a></li>
+</ul></div></aside></div><div class="one-fifth column"><aside id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-eurocamp-container"><ul id="menu-eurocamp" class="menu"><li id="menu-item-7" class="footbold menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a>EUROCAMP</a></li>
+<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="http://www.adidaseurocamp.com/players/">Players</a></li>
+<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="http://www.adidaseurocamp.com/teams/">Teams</a></li>
+<li id="menu-item-510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="http://www.adidaseurocamp.com/camp-stats/">Camp Stats</a></li>
+<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="http://www.adidaseurocamp.com/archives/">Archives</a></li>
+</ul></div></aside></div><div class="one-fifth column"><aside id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-special-guests-container"><ul id="menu-special-guests" class="menu"><li id="menu-item-512" class="footbold menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://www.adidaseurocamp.com/special-guests/">SPECIAL GUESTS</a></li>
+<li id="menu-item-83" class="footbold menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a>INFO</a></li>
+<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="http://www.adidaseurocamp.com/la-ghirada-sports-center/">La Ghirada Sports Center</a></li>
+<li id="menu-item-517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-517"><a href="http://www.adidaseurocamp.com/how-to-find-us/">How To Find Us</a></li>
+<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="http://www.adidaseurocamp.com/airport-information/">Airport Information</a></li>
+<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="http://www.adidaseurocamp.com/event-partners/">Event Partners</a></li>
+<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="http://www.adidaseurocamp.com/hotels/">Hotels</a></li>
+</ul></div></aside></div><div class="one-fifth column"><aside id="nav_menu-6" class="widget widget_nav_menu"><div class="menu-contact-container"><ul id="menu-contact" class="menu"><li id="menu-item-505" class="footbold menu-item menu-item-type-post_type menu-item-object-page menu-item-505"><a href="http://www.adidaseurocamp.com/contact-us/">CONTACT US</a></li>
+</ul></div></aside></div>
+	</div>
+	
+	
+		
+</div>
+
+
+	
+
+
+	
+	
+	
+		<div class="column one copyrights">
+			<p><a style="color:#666;" href="#">Terms and conditions</a>  <a style="color:#666;"  href="#">Privacy Policy</a> © 2013 adidas Eurocamp. All Rights Reserved.</p>			<a id="back_to_top" href="#"><i class="icon-chevron-up"></i></a>
+		</div>
+	
+	
+</footer>
+
+
+<!-- wp_footer() -->
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?p&#038;ver=3.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5.1'></script>
+	<div style="display:none">
+	</div>
+	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<div id='a0a8005f5594bd67041f88c6196192646-po' class='visiblebox' style='left: 100px; top: 100px; z-index:999999;margin-top: 0px; margin-bottom: 0px; margin-right: 0px; margin-left: 0px;'>
+	<a href='' id='closebox' title='Close this box'></a>
+	<div id='message' style='width: 800px; height: 680px; color: #000000; background: #FFFFFF;'>
+		<div id="message-wrap">
+<div>
+<p>
+<strong>ADIDAS 11th ANNUAL EUROCAMP</strong>
+
+<strong>LA GHIRADA SPORTS COMPLEX IN TREVISO, ITALY</strong>
+
+<strong>JUNE 8-10, 2013 </strong>
+</p>
+<p>
+Tipping off June 8-10, adidas Basketball will host the 11th annual adidas Eurocamp; a three-day showcase of Europe’s finest basketball players ranging in age 18-21. adidas Eurocamp will take place at La Ghirada Sports Complex in Treviso, Italy and is the only officially sanctioned NBA pre-draft camp outside of the United States.
+</p>
+&nbsp;
+<p>
+adidas Eurocamp invites elite players throughout Europe to participate and gain the opportunity to showcase their skills in front of scouts, coaches, and general managers from a number of basketball teams and leagues from around the world, including the NBA and Euroleague, as well as gain exposure from major global media outlets. The 2012 adidas Eurocamp was attended by 65 agents, 100 coaches and more than 250 NBA and European general managers, scouts and basketball personnel.
+</p>
+&nbsp;
+<p>
+“adidas Basketball is very excited to partner with such a great event. Eurocamp has become a can’t miss event for NBA and European scouts,” said Jim Gatto, adidas Head of Basketball Sports Marketing.  “adidas looks forward to playing a significant role in the development of the top international players in the world.”
+</p>
+&nbsp;
+<p>
+<strong>OVER THE LAST 11 YEARS, EUROCAMP HAS PRODUCED 80 PLAYERS WHO HAVE PLAYED OR ARE CURRENTLY PLAYING IN THE NBA OR EUROLEAGUE.</strong> Some notable European players who have attended Eurocamp include Danilo Gallinari of the Denver Nuggets, Serge Ibaka of the Oklahoma City Thunder, Andrea Bargnani of the Toronto Raptors, Marco Belinelli of the Chicago Bulls, Nicolas Batum of the Portland Trailblazers and Marcin Gortat of the Phoenix Suns. In addition to Eurocamp’s success in professional basketball worldwide, 21 Eurocamp participants appeared in the London 2012 Olympic games.
+</p>
+&nbsp;
+<p>
+The world will be watching as media from the U.S and Europe including outlets such as ESPN, NBA TV, Sports Illustrated, SLAM Magazine, Super Basket, Mondial Basket, Gigantes and more will all be on hand to cover the three-day event.  Current GM’s and coaches who have attended and expected to return to Eurocamp include Larry Bird, Jay Triano, Danny Ainge, Jack Sikma, Rolando Blackman, Keith Smart, Kevin McKale, Donnie Nelson, Ettore Messina, David Blatt and Sergio Scariolo.
+</p>
+&nbsp;
+<p>
+adidas Eurocamp will take place at La Ghirada Sports Complex - “SportCity”. The state-of-the art sports facility features a fitness center, three indoor basketball courts, a swimming pool and a golf practice area. For more information on adidas Eurocamp go to <a href="http://../Local+Settings/Temporary+Internet+Files/Content.Outlook/EYGQ38YF/www.adidaseurocamp.com" target="_blank">www.adidaseurocamp.com</a> or <a href="http://.press.adidasbasketball.com" target="_blank">press.adidas.com</a>. Social Networks:<a href="https://www.facebook.com/pages/Adidas-Eurocamp/" target="_blank"> https://www.facebook.com/<wbr>pages/Adidas-Eurocamp/</wbr></a><a href="http://twitter.com/adidaseurocamp" target="_blank"> http://twitter.com/<wbr>adidaseurocamp</wbr></a>
+</p>
+&nbsp;
+<p>
+<strong>About adidas</strong>
+
+adidas has been providing innovative products for the world’s best athletes for more than 60 years, from past legends to today’s superstars, such as Dwight Howard, Candace Parker, Derrick Rose, Tim Duncan and Tracy McGrady.  On April 11, 2006 adidas and the National Basketball Association signed an 11-year global merchandising partnership making the adidas brand the official uniform and apparel provider for the NBA, the Women’s National Basketball Association (WNBA) and the NBA Development League (D-League).
+</p>
+&nbsp;
+
+</div>
+</div>		<div class='clear'></div>
+			</div>
+	<div class='clear'></div>
+</div><script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/fancybox/jquery.fancybox-1.3.4.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/sliders/responsiveslides.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/sliders/jquery.jcarousel.min.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/sliders/mfn-offer-slider.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/jquery.isotope.min.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/jquery.hoverdir.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/mfn-menu.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-includes/js/jquery/jquery.form.min.js?ver=2.73'></script>
+<script type='text/javascript' src='http://www.adidaseurocamp.com/wp-content/themes/bretheon/js/scripts.js?ver=1.0.5'></script>
+
+	<script src="http://stats.wordpress.com/e-201323.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1',blog:'51678362',post:'0'});
+	var load_cmc = function(){linktracker_init(51678362,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>
