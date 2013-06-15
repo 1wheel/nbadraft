@@ -1,0 +1,46 @@
+var pastToPresentTeam = {
+//	ATL: true
+BAL: true		WAS
+//BOS: true
+BUF: true		LAC
+CAP: true		WAS
+//CHA: true		???
+CHH: true		NOH
+//CHI: true
+CIN: true		SAC
+//CLE: true
+// DAL: true
+// DEN: true
+// DET: true
+// GSW: true
+// HOU: true
+// IND: true
+KCK: true		SAC
+KCO: true		SAC
+//LAC: true
+// LAL: true
+// MEM: true
+// MIA: true
+// MIL: true
+// MIN: true
+// NOH: true
+// NOJ: true
+NOK: true		NOH
+// NYK: true
+// OKC: true
+// ORL: true
+// PHI: true
+// PHO: true
+// POR: true
+// SAC: true
+// SAS: true
+SDC: true		LAC
+SDR: true		HOU
+SEA: true		OKC		
+SFW: true		GSW
+// TOR: true
+// UTA: true
+// VAN: true ??? TOR
+// WAS: true
+WSB: true		WAS
+

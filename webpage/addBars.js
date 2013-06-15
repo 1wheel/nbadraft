@@ -1,14 +1,83 @@
 var drafts = [];
 var players = [];
 
-var colorScale = d3.scale.linear()
-					.range(['red', '#fff70f', '#cccccc', '#cccccc', '#e8e8e8', '#e8e8e8']);
+var colorScale = d3.scale.linear().range(['#d62728', '#fff70f', '#cccccc', '#cccccc', '#e8e8e8', '#e8e8e8']);
+
+//nets>
+var eastTeams = ['ATL', 'BOS', 'CHI', 'CHA', 'CLE', 'DET', 'IND', 'MIA', 'MIL', 'NJN', 'NYK', 'ORL', 'PHI', 'TOR', 'WAS'];
+var westTeams = ['DAL', 'DEN', 'GSW', 'HOU', 'LAC', 'LAL', 'MEM', 'MIN', 'NOH', 'OKC', 'PHO', 'POR', 'SAC', 'SAS', 'UTA'];
+
+var pastToPresentTeam = {
+	BAL: 'WAS',
+	BUF: 'LAC',
+	CAP: 'WAS',
+	CHH: 'NOH',
+	CIN: 'SAC',
+	KCK: 'SAC',
+	KCO: 'SAC',
+	NOK: 'NOH',
+	NOJ: 'UTA',
+	SDC: 'LAC',
+	SDR: 'HOU',
+	SEA: 'OKC',	
+	SFW: 'GSW',
+	VAN: 'MEM', //TOR missing some?
+	WSB: 'WAS', //boop
+}
+
+var teamStats = {};
+(eastTeams + ',' + westTeams).split(",").forEach(function(d){
+	teamStats[d] = {totalPicks: 0, topPicks: 0};
+});
+
+confDivs = d3.select("#topRight").selectAll(".confDiv")
+				.data([eastTeams, westTeams]).enter()
+			.append("div")
+				.attr("class", "confDiv")
+
+var teamDivClicked = false;
+var teamDivs = confDivs.selectAll("div")
+				.data(function(d){ return d; }).enter()
+			.append("div")
+				.attr("class", "teamDiv")
+			.on("mouseover", function(d){
+				if (!teamDivClicked){
+					currentTeam = d;
+					playerSVGS.attr("stroke", playerStroke);
+				}
+				console.log(d + " over");
+			})
+			.on("mouseout", function(d){
+				if (!teamDivClicked){
+					if (currentTeam == d){
+						currentTeam = "";
+						playerSVGS.attr("stroke", "");
+					}
+				}
+				console.log(d + " out");
+			})
+			.on("click", function(d){
+				teamDivClicked = (currentTeam != d) || !teamDivClicked;
+				if (teamDivClicked){
+					console.log(teamDivClicked);
+					console.log(d);
+					currentTeam = d;
+				}
+				else{
+					currentTeam = "";
+				}
+				playerSVGS.attr("stroke", playerStroke);
+			});
+var topPicksDivs;
 
 d3.json('drafts.json', function(data){
 	drafts = data;
 	drafts.forEach(function(draft){
 		draft.players.forEach(function(player){
-			player.impact = 0
+			player.tteam = typeof pastToPresentTeam[player.team] == "undefined" ? player.team : pastToPresentTeam[player.team];
+			teamStats[player.tteam].totalPicks++;
+
+			player.impact = 0;
 			if (player.stats){				
 				if (player.stats.length == 1){
 					var s = player.stats[0];
@@ -36,20 +105,37 @@ d3.json('drafts.json', function(data){
 
 	});
 
+
+	teamDivs.append('div')
+			.attr("class", "teamAbv")
+			.text(function(d){ return d; });
+	topPicksDivs = topPicks = teamDivs.append('div')
+			.attr("class", "topPicks")
+			.text(function(d){ return "1"; });
+	teamDivs.append("div")
+			.attr("class", "totalPicks")
+			.text(function(d){ return "/" + teamStats[d].totalPicks; });
+
+
 	draftDivs = d3.select("#display").selectAll("div")
 					.data(drafts).enter()
 				.append("div")
 					.style("width", "500px")
 					.style("height", "38px")
 					.style("float", "left")
-					.text(function(d){return d.year});
-				
+					.html(function(d){ 
+						var yearStr = d.year + "";
+						return "<span class='draftYearSpan'>'" + yearStr[2] + yearStr[3] + "</span"; });
+	
+
 	playerSVGS = draftDivs.append("svg")
-					.attr("height", 12)
+					.attr("height", 22)
+					.attr("width", 400)
+					.attr("class", "draftSVG")
 				.selectAll("rect")
 					.data(function(d){return d.players;})
 			.enter().append("rect")
-				.attr("height", 10)
+				.attr("height", 20)
 				.attr("width", 5)
 				.attr("x", function(d, i){return i *7;})
 				.attr("y", 1)
@@ -59,9 +145,8 @@ d3.json('drafts.json', function(data){
 
 					d3.select(this)
 						.attr("stroke", "black")
-						.attr("stroke-width", 2);
 
-					leftPos = d3.event.pageX < 500 ? d3.event.pageX - 5 : d3.event.pageX - 315;
+					leftPos = d.year % 2 == 0 ? d3.event.pageX - 5 : d3.event.pageX - 315;
 
 					tooltip
 					    .style("left", leftPos + "px")
@@ -72,7 +157,7 @@ d3.json('drafts.json', function(data){
 				})
 				.on("mouseout", function(d){
 					d3.select(this)
-						.attr("stroke", "")
+						.attr("stroke", playerStroke)
 
 					tooltip.transition().duration(700).style("opacity", 0);
 				});
@@ -80,15 +165,37 @@ d3.json('drafts.json', function(data){
 	updateColorScale(10);
 });
 
+var topPicksFormat = d3.format("2d");
+
 function updateColorScale(maxRank){
-	colorScale.domain([1, maxRank, maxRank + 1, 80, 81, 21])
-	playerSVGS.attr("fill", function(d){ return colorScale(d.rank); });
+	d3.select("#rankNum").text(maxRank);	
+	colorScale.domain([1, maxRank, maxRank + 1, 80, 81, 21]);
+	//teamStats.forEach(function(team){ d.topPicks = 0; });
+	
+	for (team in teamStats){ teamStats[team].topPicks = 0; }
+	playerSVGS.attr("fill", function(d){ 
+		//update team's top picks
+		if (d.rank <= maxRank){
+			teamStats[d.tteam].topPicks++;
+		}
+		return colorScale(d.rank); });
+
+	topPicksDivs.text(function(d){ return teamStats[d].topPicks; });
+	// teamDivs.text(function(d){
+	// 	return d + " " 
+	// 		+ topPicksFormat(teamStats[d].topPicks) + "/" 
+	// 		+ teamStats[d].totalPicks; });
+
+}
+
+var currentTeam = '';
+
+function playerStroke(d){
+	return (d.tteam == currentTeam) ? 'Black' : '';
 }
 
 function updateTooltip(player){
 	var data = player.stats;	
-
-	console.log(player);
 
 	//remove last charts
 	svg.selectAll(".axis").remove();
@@ -101,7 +208,8 @@ function updateTooltip(player){
 	d3.select("#pRank").text(suffix(player.rank));
 	d3.select("#pYear").text(player.year);
 
-	var imgURL = player.url ? player.url.split("/")[3].replace("html", "jpg") : player.name.replace(" ", "_") + ".jpg";
+	var imgURL = player.url ? player.url.split("/")[3].replace("html", "jpg") 
+							: player.name.replace(" ", "_") + ".jpg";
 	document.getElementById("tooltipImg").src = "thumbnails/" + imgURL;
 
 	if (data){
@@ -111,9 +219,9 @@ function updateTooltip(player){
 			x.domain([x.domain()[0], x.domain()[1].setFullYear(x.domain()[1].getFullYear()+1)]);
 		}
 		if (data.length == 1){
-			x.domain([x.domain()[0].setFullYear(x.domain()[0].getFullYear()-1), x.domain()[1].setFullYear(x.domain()[1].getFullYear()+1)]);
+			x.domain([x.domain()[0].setFullYear(x.domain()[0].getFullYear()-1), 
+				      x.domain()[1].setFullYear(x.domain()[1].getFullYear()+1)]);
 		}
-
 
 		yMIN.domain([0, 3000]);
 		yPER.domain([0, 30]);

@@ -5,6 +5,95 @@ body {
   margin: 0px auto;
 }
 
+
+#top{
+  width: 1000px;
+  height: 100px;
+}
+
+#topLeft{
+  font-size: 130%;
+  width: 300px;
+  float: left;
+}
+
+h1{
+  margin: 0px;
+  text-decoration: underline;
+}
+
+#slider{
+  margin-top: 10px;
+  width: 110px;
+  display: inline-block;
+}
+
+input{
+  width: 90px;
+}
+
+#rankNum{
+  width: 20px;
+  display: inline-block;
+  text-align: right;
+}
+
+#topRight{
+  float: right;
+}
+
+.confDiv{
+  margin-right: 50px;
+  width:300px;
+  height:100px;
+  display:inline-block;
+  font-family: "Courier";
+  color:grey;
+}
+
+.teamDiv{
+  margin-right: 10px;
+  width: 80px;
+  height: 16px;
+  float: left;
+  border: solid 1px #fff;
+  text-decoration: underline;
+}
+
+.teamDiv:hover{
+  color: black;
+  font-weight: bold;
+  border: solid 1px #aaa;
+}
+
+.teamAbv{
+  display: inline-block;
+  width: 2.4em;
+}
+
+.topPicks{
+  display: inline-block;
+  width: 1.2em;
+  text-align: right;
+}
+
+.totalPicks{
+  display: inline-block;
+  width: 4/1.5em;
+}
+
+.draftSVG{
+	display: inline-block;
+	margin-top: 5px;
+}
+
+.draftYearSpan{
+	margin-right: 20px;
+	font-size: 160%;
+	font-weight: lighter;
+	color: grey;
+}
+
 .axis path{
   fill: none;
   stroke: none;

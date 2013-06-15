@@ -4,7 +4,21 @@
 <link rel="stylesheet" href="tooltip.css" />
 
 <body>	
+	<div id="top">
+		<div id="topLeft">
+			<h1>NBA DRAFT</h1>The top
+			<div id="slider">
+				<input id="slide" type="range"
+				 min="2" max="40" step="1" value="10"
+				 onchange="updateColorScale(+this.value)" />
+			</div>
+			<br/>
+ 			<div id="rankNum"></div> players per year
+ 		</div>
 
+ 		<div id="topRight"></div>
+
+	</div>
 	<div id="display"></div>
 
 	<div id="tooltip">
@@ -44,5 +58,6 @@
 <script src="lib/crossfilter.js"></script>
 <script src="lineSetup.js"></script>
 <script src="addBars.js"></script>
+<script src="html5slider.js"></script>
 
 </html>
