@@ -9,12 +9,14 @@ body {
 #top{
   width: 1000px;
   height: 100px;
+  display: inline-block;
 }
 
-#topLeft{
+#topMiddle{
   font-size: 130%;
   width: 300px;
-  float: left;
+  display: inline-block;
+  text-align: center;
 }
 
 h1{
@@ -38,20 +40,26 @@ input{
   text-align: right;
 }
 
-#topRight{
-  float: right;
-}
-
 .confDiv{
-  margin-right: 50px;
+  margin-right: 10px;
   width:300px;
   height:100px;
-  display:inline-block;
   font-family: "Courier";
   color:grey;
+  display: inline-block;
+}
+
+#confDivLeft{
+  margin-right: 30px;
+}
+
+#confDivRight{
+  text-align: right;
+  margin-left: 50px;
 }
 
 .teamDiv{
+  text-align: left;
   margin-right: 10px;
   width: 80px;
   height: 16px;

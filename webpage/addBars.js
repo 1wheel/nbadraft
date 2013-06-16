@@ -30,10 +30,8 @@ var teamStats = {};
 	teamStats[d] = {totalPicks: 0, topPicks: 0};
 });
 
-confDivs = d3.select("#topRight").selectAll(".confDiv")
-				.data([eastTeams, westTeams]).enter()
-			.append("div")
-				.attr("class", "confDiv")
+confDivs = d3.selectAll(".confDiv")
+				.data([eastTeams, westTeams])
 
 var teamDivClicked = false;
 var teamDivs = confDivs.selectAll("div")
